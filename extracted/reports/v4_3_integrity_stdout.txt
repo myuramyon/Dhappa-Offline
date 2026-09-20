@@ -1,0 +1,6 @@
+{
+  "records_checked": 699,
+  "activations_checked": 37,
+  "issues": [],
+  "pass": true
+}

@@ -1,0 +1,61 @@
+{
+  "model": "v3.4 Error-Specific Ranking Weight Calibration",
+  "house_metrics": {
+    "Deshawar": {
+      "targets": 188,
+      "elected_targets": 172,
+      "abstentions": 16,
+      "top5_pct_elected": 8.14,
+      "top10_pct_elected": 11.05,
+      "top21_pct_elected": 23.26,
+      "top36_pct_elected": 39.53,
+      "mrr_elected": 0.0598,
+      "v3_3_top5_pct": 8.14,
+      "v3_4_additional_top5_rescues": 0,
+      "v3_4_live_activations": 0,
+      "v3_4_damaged_top5": 0
+    },
+    "Faridabad": {
+      "targets": 192,
+      "elected_targets": 177,
+      "abstentions": 15,
+      "top5_pct_elected": 5.65,
+      "top10_pct_elected": 12.99,
+      "top21_pct_elected": 26.55,
+      "top36_pct_elected": 38.42,
+      "mrr_elected": 0.0599,
+      "v3_3_top5_pct": 5.65,
+      "v3_4_additional_top5_rescues": 0,
+      "v3_4_live_activations": 0,
+      "v3_4_damaged_top5": 0
+    },
+    "Ghaziabad": {
+      "targets": 191,
+      "elected_targets": 176,
+      "abstentions": 15,
+      "top5_pct_elected": 6.82,
+      "top10_pct_elected": 11.93,
+      "top21_pct_elected": 26.14,
+      "top36_pct_elected": 47.73,
+      "mrr_elected": 0.052,
+      "v3_3_top5_pct": 6.25,
+      "v3_4_additional_top5_rescues": 1,
+      "v3_4_live_activations": 101,
+      "v3_4_damaged_top5": 0
+    },
+    "Gali": {
+      "targets": 190,
+      "elected_targets": 174,
+      "abstentions": 16,
+      "top5_pct_elected": 4.6,
+      "top10_pct_elected": 8.62,
+      "top21_pct_elected": 20.11,
+      "top36_pct_elected": 31.61,
+      "mrr_elected": 0.0426,
+      "v3_3_top5_pct": 4.6,
+      "v3_4_additional_top5_rescues": 0,
+      "v3_4_live_activations": 0,
+      "v3_4_damaged_top5": 0
+    }
+  }
+}

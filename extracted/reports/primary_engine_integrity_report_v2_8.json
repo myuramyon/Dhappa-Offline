@@ -1,0 +1,11 @@
+{
+  "version": "v2.8",
+  "checked_boundary_records": 1208,
+  "admissions": 30,
+  "primary_selection_differences_vs_v2_7": 0,
+  "strict_source_cutoff": true,
+  "same_target_outcome_used_for_admission": false,
+  "boundary_shadow_appended_after_reveal": true,
+  "issues": [],
+  "status": "PASS"
+}

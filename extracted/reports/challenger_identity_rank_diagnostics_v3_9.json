@@ -1,0 +1,70 @@
+{
+  "Deshawar": {
+    "6": {
+      "rescues": 0,
+      "n": 172,
+      "rate_pct": 0.0
+    },
+    "7": {
+      "rescues": 1,
+      "n": 172,
+      "rate_pct": 0.58
+    },
+    "8": {
+      "rescues": 1,
+      "n": 172,
+      "rate_pct": 0.58
+    }
+  },
+  "Faridabad": {
+    "6": {
+      "rescues": 2,
+      "n": 177,
+      "rate_pct": 1.13
+    },
+    "7": {
+      "rescues": 2,
+      "n": 177,
+      "rate_pct": 1.13
+    },
+    "8": {
+      "rescues": 3,
+      "n": 177,
+      "rate_pct": 1.69
+    }
+  },
+  "Ghaziabad": {
+    "6": {
+      "rescues": 1,
+      "n": 176,
+      "rate_pct": 0.57
+    },
+    "7": {
+      "rescues": 1,
+      "n": 176,
+      "rate_pct": 0.57
+    },
+    "8": {
+      "rescues": 4,
+      "n": 176,
+      "rate_pct": 2.27
+    }
+  },
+  "Gali": {
+    "6": {
+      "rescues": 2,
+      "n": 174,
+      "rate_pct": 1.15
+    },
+    "7": {
+      "rescues": 3,
+      "n": 174,
+      "rate_pct": 1.72
+    },
+    "8": {
+      "rescues": 0,
+      "n": 174,
+      "rate_pct": 0.0
+    }
+  }
+}

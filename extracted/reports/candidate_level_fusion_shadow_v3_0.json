@@ -1,0 +1,4204 @@
+{
+  "Deshawar": [
+    {
+      "date": "2026-02-14",
+      "fusion_rank": 62,
+      "baseline_rank": 24,
+      "primary": "HARUF_PYRAMID"
+    },
+    {
+      "date": "2026-02-15",
+      "fusion_rank": 59,
+      "baseline_rank": 28,
+      "primary": "HARUF_PYRAMID"
+    },
+    {
+      "date": "2026-02-16",
+      "fusion_rank": 32,
+      "baseline_rank": 67,
+      "primary": "HARUF_PYRAMID"
+    },
+    {
+      "date": "2026-02-17",
+      "fusion_rank": 55,
+      "baseline_rank": 23,
+      "primary": "HARUF_PYRAMID"
+    },
+    {
+      "date": "2026-02-18",
+      "fusion_rank": 4,
+      "baseline_rank": 1,
+      "primary": "HARUF_PYRAMID"
+    },
+    {
+      "date": "2026-02-19",
+      "fusion_rank": 14,
+      "baseline_rank": 29,
+      "primary": "HARUF_PYRAMID"
+    },
+    {
+      "date": "2026-02-20",
+      "fusion_rank": 68,
+      "baseline_rank": 95,
+      "primary": "HARUF_PYRAMID"
+    },
+    {
+      "date": "2026-02-21",
+      "fusion_rank": 67,
+      "baseline_rank": 73,
+      "primary": "HARUF_PYRAMID"
+    },
+    {
+      "date": "2026-02-22",
+      "fusion_rank": 61,
+      "baseline_rank": 17,
+      "primary": "HARUF_PYRAMID"
+    },
+    {
+      "date": "2026-02-23",
+      "fusion_rank": 73,
+      "baseline_rank": 43,
+      "primary": "HARUF_PYRAMID"
+    },
+    {
+      "date": "2026-02-24",
+      "fusion_rank": 70,
+      "baseline_rank": 59,
+      "primary": "HARUF_PYRAMID"
+    },
+    {
+      "date": "2026-02-25",
+      "fusion_rank": 43,
+      "baseline_rank": 24,
+      "primary": "HARUF_PYRAMID"
+    },
+    {
+      "date": "2026-02-26",
+      "fusion_rank": 7,
+      "baseline_rank": 2,
+      "primary": "HARUF_PYRAMID"
+    },
+    {
+      "date": "2026-02-27",
+      "fusion_rank": 58,
+      "baseline_rank": 72,
+      "primary": "HARUF_PYRAMID"
+    },
+    {
+      "date": "2026-02-28",
+      "fusion_rank": 29,
+      "baseline_rank": 58,
+      "primary": "HARUF_PYRAMID"
+    },
+    {
+      "date": "2026-03-02",
+      "fusion_rank": 14,
+      "baseline_rank": 80,
+      "primary": "HARUF_PYRAMID"
+    },
+    {
+      "date": "2026-03-03",
+      "fusion_rank": 81,
+      "baseline_rank": 43,
+      "primary": "HARUF_PYRAMID"
+    },
+    {
+      "date": "2026-03-04",
+      "fusion_rank": 73,
+      "baseline_rank": 84,
+      "primary": "HARUF_PYRAMID"
+    },
+    {
+      "date": "2026-03-05",
+      "fusion_rank": 27,
+      "baseline_rank": 12,
+      "primary": "HARUF_PYRAMID"
+    },
+    {
+      "date": "2026-03-06",
+      "fusion_rank": 18,
+      "baseline_rank": 65,
+      "primary": "HARUF_PYRAMID"
+    },
+    {
+      "date": "2026-03-07",
+      "fusion_rank": 73,
+      "baseline_rank": 48,
+      "primary": "HARUF_PYRAMID"
+    },
+    {
+      "date": "2026-03-08",
+      "fusion_rank": 17,
+      "baseline_rank": 39,
+      "primary": "HARUF_PYRAMID"
+    },
+    {
+      "date": "2026-03-09",
+      "fusion_rank": 40,
+      "baseline_rank": 14,
+      "primary": "HARUF_PYRAMID"
+    },
+    {
+      "date": "2026-03-10",
+      "fusion_rank": 5,
+      "baseline_rank": 73,
+      "primary": "HARUF_PYRAMID"
+    },
+    {
+      "date": "2026-03-11",
+      "fusion_rank": 17,
+      "baseline_rank": 43,
+      "primary": "HARUF_PYRAMID"
+    },
+    {
+      "date": "2026-03-12",
+      "fusion_rank": 70,
+      "baseline_rank": 33,
+      "primary": "HARUF_PYRAMID"
+    },
+    {
+      "date": "2026-03-13",
+      "fusion_rank": 30,
+      "baseline_rank": 62,
+      "primary": "HARUF_PYRAMID"
+    },
+    {
+      "date": "2026-03-14",
+      "fusion_rank": 69,
+      "baseline_rank": 30,
+      "primary": "HARUF_PYRAMID"
+    },
+    {
+      "date": "2026-03-15",
+      "fusion_rank": 64,
+      "baseline_rank": 20,
+      "primary": "HARUF_PYRAMID"
+    },
+    {
+      "date": "2026-03-16",
+      "fusion_rank": 70,
+      "baseline_rank": 63,
+      "primary": "HARUF_PYRAMID"
+    },
+    {
+      "date": "2026-03-17",
+      "fusion_rank": 74,
+      "baseline_rank": 53,
+      "primary": "HARUF_PYRAMID"
+    },
+    {
+      "date": "2026-03-18",
+      "fusion_rank": 17,
+      "baseline_rank": 45,
+      "primary": "HARUF_PYRAMID"
+    },
+    {
+      "date": "2026-03-19",
+      "fusion_rank": 95,
+      "baseline_rank": 93,
+      "primary": "HARUF_PYRAMID"
+    },
+    {
+      "date": "2026-03-20",
+      "fusion_rank": 42,
+      "baseline_rank": 69,
+      "primary": "HARUF_PYRAMID"
+    },
+    {
+      "date": "2026-03-21",
+      "fusion_rank": 62,
+      "baseline_rank": 29,
+      "primary": "HARUF_PYRAMID"
+    },
+    {
+      "date": "2026-03-22",
+      "fusion_rank": 49,
+      "baseline_rank": 29,
+      "primary": "HARUF_PYRAMID"
+    },
+    {
+      "date": "2026-03-23",
+      "fusion_rank": 38,
+      "baseline_rank": 53,
+      "primary": "HARUF_PYRAMID"
+    },
+    {
+      "date": "2026-03-24",
+      "fusion_rank": 96,
+      "baseline_rank": 75,
+      "primary": "HARUF_PYRAMID"
+    },
+    {
+      "date": "2026-03-25",
+      "fusion_rank": 54,
+      "baseline_rank": 29,
+      "primary": "HARUF_PYRAMID"
+    },
+    {
+      "date": "2026-03-26",
+      "fusion_rank": 82,
+      "baseline_rank": 25,
+      "primary": "HARUF_PYRAMID"
+    },
+    {
+      "date": "2026-03-27",
+      "fusion_rank": 75,
+      "baseline_rank": 40,
+      "primary": "HARUF_PYRAMID"
+    },
+    {
+      "date": "2026-03-28",
+      "fusion_rank": 76,
+      "baseline_rank": 93,
+      "primary": "HARUF_PYRAMID"
+    },
+    {
+      "date": "2026-03-29",
+      "fusion_rank": 21,
+      "baseline_rank": 87,
+      "primary": "HARUF_PYRAMID"
+    },
+    {
+      "date": "2026-03-30",
+      "fusion_rank": 72,
+      "baseline_rank": 32,
+      "primary": "ECHO_7"
+    },
+    {
+      "date": "2026-04-02",
+      "fusion_rank": 85,
+      "baseline_rank": 83,
+      "primary": "ECHO_7"
+    },
+    {
+      "date": "2026-04-03",
+      "fusion_rank": 59,
+      "baseline_rank": 45,
+      "primary": "ECHO_7"
+    },
+    {
+      "date": "2026-04-04",
+      "fusion_rank": 99,
+      "baseline_rank": 98,
+      "primary": "ECHO_7"
+    },
+    {
+      "date": "2026-04-05",
+      "fusion_rank": 86,
+      "baseline_rank": 75,
+      "primary": "ECHO_7"
+    },
+    {
+      "date": "2026-04-06",
+      "fusion_rank": 63,
+      "baseline_rank": 52,
+      "primary": "ECHO_7"
+    },
+    {
+      "date": "2026-04-07",
+      "fusion_rank": 43,
+      "baseline_rank": 48,
+      "primary": "ECHO_7"
+    },
+    {
+      "date": "2026-04-08",
+      "fusion_rank": 24,
+      "baseline_rank": 14,
+      "primary": "ECHO_7"
+    },
+    {
+      "date": "2026-04-09",
+      "fusion_rank": 83,
+      "baseline_rank": 70,
+      "primary": "ECHO_7"
+    },
+    {
+      "date": "2026-04-10",
+      "fusion_rank": 27,
+      "baseline_rank": 87,
+      "primary": "ECHO_7"
+    },
+    {
+      "date": "2026-04-11",
+      "fusion_rank": 88,
+      "baseline_rank": 88,
+      "primary": "ECHO_7"
+    },
+    {
+      "date": "2026-04-12",
+      "fusion_rank": 76,
+      "baseline_rank": 93,
+      "primary": "ECHO_7"
+    },
+    {
+      "date": "2026-04-13",
+      "fusion_rank": 79,
+      "baseline_rank": 26,
+      "primary": "HOT_RECENCY"
+    },
+    {
+      "date": "2026-04-14",
+      "fusion_rank": 15,
+      "baseline_rank": 58,
+      "primary": "HOT_RECENCY"
+    },
+    {
+      "date": "2026-04-15",
+      "fusion_rank": 38,
+      "baseline_rank": 12,
+      "primary": "HOT_RECENCY"
+    },
+    {
+      "date": "2026-04-16",
+      "fusion_rank": 40,
+      "baseline_rank": 17,
+      "primary": "HOT_RECENCY"
+    },
+    {
+      "date": "2026-04-17",
+      "fusion_rank": 16,
+      "baseline_rank": 43,
+      "primary": "HOT_RECENCY"
+    },
+    {
+      "date": "2026-04-18",
+      "fusion_rank": 51,
+      "baseline_rank": 64,
+      "primary": "HOT_RECENCY"
+    },
+    {
+      "date": "2026-04-19",
+      "fusion_rank": 2,
+      "baseline_rank": 2,
+      "primary": "HOT_RECENCY"
+    },
+    {
+      "date": "2026-04-20",
+      "fusion_rank": 99,
+      "baseline_rank": 95,
+      "primary": "HOT_RECENCY"
+    },
+    {
+      "date": "2026-04-21",
+      "fusion_rank": 45,
+      "baseline_rank": 24,
+      "primary": "HOT_RECENCY"
+    },
+    {
+      "date": "2026-04-22",
+      "fusion_rank": 88,
+      "baseline_rank": 83,
+      "primary": "HOT_RECENCY"
+    },
+    {
+      "date": "2026-04-23",
+      "fusion_rank": 14,
+      "baseline_rank": 20,
+      "primary": "HOT_RECENCY"
+    },
+    {
+      "date": "2026-04-24",
+      "fusion_rank": 89,
+      "baseline_rank": 92,
+      "primary": "HOT_RECENCY"
+    },
+    {
+      "date": "2026-04-25",
+      "fusion_rank": 46,
+      "baseline_rank": 65,
+      "primary": "HOT_RECENCY"
+    },
+    {
+      "date": "2026-04-26",
+      "fusion_rank": 13,
+      "baseline_rank": 96,
+      "primary": "HOT_RECENCY"
+    },
+    {
+      "date": "2026-04-27",
+      "fusion_rank": 19,
+      "baseline_rank": 14,
+      "primary": "HOT_RECENCY"
+    },
+    {
+      "date": "2026-04-28",
+      "fusion_rank": 8,
+      "baseline_rank": 3,
+      "primary": "HOT_RECENCY"
+    },
+    {
+      "date": "2026-04-29",
+      "fusion_rank": 81,
+      "baseline_rank": 58,
+      "primary": "HOT_RECENCY"
+    },
+    {
+      "date": "2026-04-30",
+      "fusion_rank": 2,
+      "baseline_rank": 4,
+      "primary": "HOT_RECENCY"
+    },
+    {
+      "date": "2026-05-02",
+      "fusion_rank": 7,
+      "baseline_rank": 9,
+      "primary": "HOT_RECENCY"
+    },
+    {
+      "date": "2026-05-03",
+      "fusion_rank": 14,
+      "baseline_rank": 21,
+      "primary": "HOT_RECENCY"
+    },
+    {
+      "date": "2026-05-04",
+      "fusion_rank": 43,
+      "baseline_rank": 20,
+      "primary": "HOT_RECENCY"
+    },
+    {
+      "date": "2026-05-05",
+      "fusion_rank": 29,
+      "baseline_rank": 63,
+      "primary": "HOT_RECENCY"
+    },
+    {
+      "date": "2026-05-06",
+      "fusion_rank": 18,
+      "baseline_rank": 37,
+      "primary": "HOT_RECENCY"
+    },
+    {
+      "date": "2026-05-07",
+      "fusion_rank": 98,
+      "baseline_rank": 94,
+      "primary": "HOT_RECENCY"
+    },
+    {
+      "date": "2026-05-08",
+      "fusion_rank": 9,
+      "baseline_rank": 10,
+      "primary": "HOT_RECENCY"
+    },
+    {
+      "date": "2026-05-09",
+      "fusion_rank": 40,
+      "baseline_rank": 48,
+      "primary": "HOT_RECENCY"
+    },
+    {
+      "date": "2026-05-10",
+      "fusion_rank": 59,
+      "baseline_rank": 22,
+      "primary": "HOT_RECENCY"
+    },
+    {
+      "date": "2026-05-11",
+      "fusion_rank": 35,
+      "baseline_rank": 64,
+      "primary": "HOT_RECENCY"
+    },
+    {
+      "date": "2026-05-12",
+      "fusion_rank": 25,
+      "baseline_rank": 63,
+      "primary": "HOT_RECENCY"
+    },
+    {
+      "date": "2026-05-13",
+      "fusion_rank": 66,
+      "baseline_rank": 78,
+      "primary": "HOT_RECENCY"
+    },
+    {
+      "date": "2026-05-14",
+      "fusion_rank": 94,
+      "baseline_rank": 92,
+      "primary": "HOT_RECENCY"
+    },
+    {
+      "date": "2026-05-15",
+      "fusion_rank": 87,
+      "baseline_rank": 90,
+      "primary": "HOT_RECENCY"
+    },
+    {
+      "date": "2026-05-16",
+      "fusion_rank": 81,
+      "baseline_rank": 90,
+      "primary": "HOT_RECENCY"
+    },
+    {
+      "date": "2026-05-17",
+      "fusion_rank": 12,
+      "baseline_rank": 8,
+      "primary": "HOT_RECENCY"
+    },
+    {
+      "date": "2026-05-18",
+      "fusion_rank": 9,
+      "baseline_rank": 26,
+      "primary": "HOT_RECENCY"
+    },
+    {
+      "date": "2026-05-19",
+      "fusion_rank": 60,
+      "baseline_rank": 45,
+      "primary": "HOT_RECENCY"
+    },
+    {
+      "date": "2026-05-20",
+      "fusion_rank": 26,
+      "baseline_rank": 11,
+      "primary": "HOT_RECENCY"
+    },
+    {
+      "date": "2026-05-21",
+      "fusion_rank": 99,
+      "baseline_rank": 99,
+      "primary": "HOT_RECENCY"
+    },
+    {
+      "date": "2026-05-22",
+      "fusion_rank": 75,
+      "baseline_rank": 34,
+      "primary": "HOT_RECENCY"
+    },
+    {
+      "date": "2026-05-23",
+      "fusion_rank": 47,
+      "baseline_rank": 42,
+      "primary": "HOT_RECENCY"
+    },
+    {
+      "date": "2026-05-24",
+      "fusion_rank": 85,
+      "baseline_rank": 100,
+      "primary": "LOOKBACK_5"
+    },
+    {
+      "date": "2026-05-25",
+      "fusion_rank": 48,
+      "baseline_rank": 87,
+      "primary": "LOOKBACK_5"
+    },
+    {
+      "date": "2026-05-26",
+      "fusion_rank": 41,
+      "baseline_rank": 56,
+      "primary": "LOOKBACK_5"
+    },
+    {
+      "date": "2026-05-27",
+      "fusion_rank": 52,
+      "baseline_rank": 13,
+      "primary": "LOOKBACK_5"
+    },
+    {
+      "date": "2026-05-28",
+      "fusion_rank": 84,
+      "baseline_rank": 34,
+      "primary": "LOOKBACK_5"
+    },
+    {
+      "date": "2026-05-29",
+      "fusion_rank": 67,
+      "baseline_rank": 73,
+      "primary": "LOOKBACK_5"
+    },
+    {
+      "date": "2026-05-30",
+      "fusion_rank": 38,
+      "baseline_rank": 21,
+      "primary": "LOOKBACK_5"
+    },
+    {
+      "date": "2026-06-02",
+      "fusion_rank": 49,
+      "baseline_rank": 48,
+      "primary": "LOOKBACK_5"
+    },
+    {
+      "date": "2026-06-03",
+      "fusion_rank": 50,
+      "baseline_rank": 21,
+      "primary": "LOOKBACK_5"
+    },
+    {
+      "date": "2026-06-04",
+      "fusion_rank": 75,
+      "baseline_rank": 53,
+      "primary": "ECHO_7"
+    },
+    {
+      "date": "2026-06-06",
+      "fusion_rank": 40,
+      "baseline_rank": 31,
+      "primary": "LOOKBACK_5"
+    },
+    {
+      "date": "2026-06-07",
+      "fusion_rank": 77,
+      "baseline_rank": 71,
+      "primary": "MODEL_F"
+    },
+    {
+      "date": "2026-06-08",
+      "fusion_rank": 66,
+      "baseline_rank": 68,
+      "primary": "MODEL_F"
+    },
+    {
+      "date": "2026-06-09",
+      "fusion_rank": 7,
+      "baseline_rank": 10,
+      "primary": "MODEL_F"
+    },
+    {
+      "date": "2026-06-10",
+      "fusion_rank": 66,
+      "baseline_rank": 77,
+      "primary": "MODEL_F"
+    },
+    {
+      "date": "2026-06-11",
+      "fusion_rank": 85,
+      "baseline_rank": 86,
+      "primary": "MODEL_F"
+    },
+    {
+      "date": "2026-06-12",
+      "fusion_rank": 84,
+      "baseline_rank": 89,
+      "primary": "MODEL_F"
+    },
+    {
+      "date": "2026-06-13",
+      "fusion_rank": 18,
+      "baseline_rank": 19,
+      "primary": "MODEL_F"
+    },
+    {
+      "date": "2026-06-14",
+      "fusion_rank": 72,
+      "baseline_rank": 84,
+      "primary": "MODEL_F"
+    },
+    {
+      "date": "2026-07-02",
+      "fusion_rank": 10,
+      "baseline_rank": 85,
+      "primary": "MODEL_F"
+    },
+    {
+      "date": "2026-07-03",
+      "fusion_rank": 63,
+      "baseline_rank": 74,
+      "primary": "MODEL_F"
+    },
+    {
+      "date": "2026-07-04",
+      "fusion_rank": 100,
+      "baseline_rank": 100,
+      "primary": "MODEL_F"
+    },
+    {
+      "date": "2026-07-05",
+      "fusion_rank": 82,
+      "baseline_rank": 51,
+      "primary": "HOT_RECENCY"
+    },
+    {
+      "date": "2026-07-06",
+      "fusion_rank": 45,
+      "baseline_rank": 20,
+      "primary": "HOT_RECENCY"
+    },
+    {
+      "date": "2026-07-07",
+      "fusion_rank": 21,
+      "baseline_rank": 35,
+      "primary": "HOT_RECENCY"
+    },
+    {
+      "date": "2026-07-08",
+      "fusion_rank": 20,
+      "baseline_rank": 27,
+      "primary": "HOT_RECENCY"
+    },
+    {
+      "date": "2026-07-09",
+      "fusion_rank": 25,
+      "baseline_rank": 12,
+      "primary": "ECHO_7"
+    },
+    {
+      "date": "2026-07-10",
+      "fusion_rank": 8,
+      "baseline_rank": 4,
+      "primary": "ECHO_7"
+    },
+    {
+      "date": "2026-07-11",
+      "fusion_rank": 7,
+      "baseline_rank": 58,
+      "primary": "ECHO_7"
+    },
+    {
+      "date": "2026-07-12",
+      "fusion_rank": 5,
+      "baseline_rank": 34,
+      "primary": "ECHO_7"
+    },
+    {
+      "date": "2026-07-13",
+      "fusion_rank": 26,
+      "baseline_rank": 70,
+      "primary": "ECHO_7"
+    },
+    {
+      "date": "2026-07-14",
+      "fusion_rank": 18,
+      "baseline_rank": 77,
+      "primary": "ECHO_7"
+    },
+    {
+      "date": "2026-07-15",
+      "fusion_rank": 44,
+      "baseline_rank": 25,
+      "primary": "ECHO_7"
+    },
+    {
+      "date": "2026-07-16",
+      "fusion_rank": 51,
+      "baseline_rank": 34,
+      "primary": "ECHO_7"
+    },
+    {
+      "date": "2026-07-17",
+      "fusion_rank": 67,
+      "baseline_rank": 38,
+      "primary": "ECHO_7"
+    },
+    {
+      "date": "2026-07-18",
+      "fusion_rank": 88,
+      "baseline_rank": 87,
+      "primary": "ECHO_7"
+    },
+    {
+      "date": "2026-07-19",
+      "fusion_rank": 15,
+      "baseline_rank": 25,
+      "primary": "ECHO_7"
+    },
+    {
+      "date": "2026-07-20",
+      "fusion_rank": 9,
+      "baseline_rank": 85,
+      "primary": "ECHO_7"
+    },
+    {
+      "date": "2026-07-21",
+      "fusion_rank": 3,
+      "baseline_rank": 1,
+      "primary": "ECHO_7"
+    },
+    {
+      "date": "2026-07-22",
+      "fusion_rank": 31,
+      "baseline_rank": 14,
+      "primary": "ECHO_7"
+    },
+    {
+      "date": "2026-07-23",
+      "fusion_rank": 51,
+      "baseline_rank": 4,
+      "primary": "ECHO_7"
+    },
+    {
+      "date": "2026-07-24",
+      "fusion_rank": 68,
+      "baseline_rank": 72,
+      "primary": "ECHO_7"
+    },
+    {
+      "date": "2026-07-25",
+      "fusion_rank": 97,
+      "baseline_rank": 91,
+      "primary": "ECHO_7"
+    },
+    {
+      "date": "2026-07-26",
+      "fusion_rank": 57,
+      "baseline_rank": 69,
+      "primary": "ECHO_7"
+    },
+    {
+      "date": "2026-07-27",
+      "fusion_rank": 14,
+      "baseline_rank": 4,
+      "primary": "ECHO_7"
+    },
+    {
+      "date": "2026-07-28",
+      "fusion_rank": 98,
+      "baseline_rank": 78,
+      "primary": "ECHO_7"
+    },
+    {
+      "date": "2026-07-29",
+      "fusion_rank": 3,
+      "baseline_rank": 3,
+      "primary": "ECHO_7"
+    },
+    {
+      "date": "2026-07-30",
+      "fusion_rank": 98,
+      "baseline_rank": 72,
+      "primary": "ECHO_7"
+    },
+    {
+      "date": "2026-07-31",
+      "fusion_rank": 29,
+      "baseline_rank": 15,
+      "primary": "ECHO_7"
+    },
+    {
+      "date": "2026-08-02",
+      "fusion_rank": 58,
+      "baseline_rank": 39,
+      "primary": "ECHO_7"
+    },
+    {
+      "date": "2026-08-03",
+      "fusion_rank": 82,
+      "baseline_rank": 76,
+      "primary": "ECHO_7"
+    },
+    {
+      "date": "2026-08-04",
+      "fusion_rank": 2,
+      "baseline_rank": 38,
+      "primary": "ECHO_7"
+    },
+    {
+      "date": "2026-08-05",
+      "fusion_rank": 85,
+      "baseline_rank": 94,
+      "primary": "ECHO_7"
+    },
+    {
+      "date": "2026-08-06",
+      "fusion_rank": 83,
+      "baseline_rank": 55,
+      "primary": "ECHO_7"
+    },
+    {
+      "date": "2026-08-07",
+      "fusion_rank": 58,
+      "baseline_rank": 84,
+      "primary": "ECHO_7"
+    },
+    {
+      "date": "2026-08-08",
+      "fusion_rank": 18,
+      "baseline_rank": 4,
+      "primary": "ECHO_7"
+    },
+    {
+      "date": "2026-08-09",
+      "fusion_rank": 7,
+      "baseline_rank": 23,
+      "primary": "ECHO_7"
+    },
+    {
+      "date": "2026-08-10",
+      "fusion_rank": 76,
+      "baseline_rank": 68,
+      "primary": "ECHO_7"
+    },
+    {
+      "date": "2026-08-11",
+      "fusion_rank": 70,
+      "baseline_rank": 90,
+      "primary": "ECHO_7"
+    },
+    {
+      "date": "2026-08-12",
+      "fusion_rank": 31,
+      "baseline_rank": 28,
+      "primary": "ECHO_7"
+    },
+    {
+      "date": "2026-08-13",
+      "fusion_rank": 60,
+      "baseline_rank": 82,
+      "primary": "ECHO_7"
+    },
+    {
+      "date": "2026-08-14",
+      "fusion_rank": 31,
+      "baseline_rank": 21,
+      "primary": "ECHO_7"
+    },
+    {
+      "date": "2026-08-15",
+      "fusion_rank": 62,
+      "baseline_rank": 76,
+      "primary": "HOT_RECENCY"
+    },
+    {
+      "date": "2026-08-16",
+      "fusion_rank": 92,
+      "baseline_rank": 80,
+      "primary": "HOT_RECENCY"
+    },
+    {
+      "date": "2026-08-17",
+      "fusion_rank": 72,
+      "baseline_rank": 36,
+      "primary": "HOT_RECENCY"
+    },
+    {
+      "date": "2026-08-18",
+      "fusion_rank": 73,
+      "baseline_rank": 65,
+      "primary": "HOT_RECENCY"
+    },
+    {
+      "date": "2026-08-19",
+      "fusion_rank": 6,
+      "baseline_rank": 3,
+      "primary": "HOT_RECENCY"
+    },
+    {
+      "date": "2026-08-20",
+      "fusion_rank": 41,
+      "baseline_rank": 49,
+      "primary": "HOT_RECENCY"
+    },
+    {
+      "date": "2026-08-21",
+      "fusion_rank": 73,
+      "baseline_rank": 61,
+      "primary": "HOT_RECENCY"
+    },
+    {
+      "date": "2026-08-22",
+      "fusion_rank": 7,
+      "baseline_rank": 5,
+      "primary": "HOT_RECENCY"
+    },
+    {
+      "date": "2026-08-23",
+      "fusion_rank": 88,
+      "baseline_rank": 72,
+      "primary": "HOT_RECENCY"
+    },
+    {
+      "date": "2026-08-24",
+      "fusion_rank": 8,
+      "baseline_rank": 3,
+      "primary": "HOT_RECENCY"
+    },
+    {
+      "date": "2026-08-25",
+      "fusion_rank": 71,
+      "baseline_rank": 70,
+      "primary": "HOT_RECENCY"
+    },
+    {
+      "date": "2026-08-26",
+      "fusion_rank": 23,
+      "baseline_rank": 89,
+      "primary": "HOT_RECENCY"
+    },
+    {
+      "date": "2026-08-27",
+      "fusion_rank": 42,
+      "baseline_rank": 100,
+      "primary": "HOT_RECENCY"
+    },
+    {
+      "date": "2026-08-28",
+      "fusion_rank": 49,
+      "baseline_rank": 67,
+      "primary": "HOT_RECENCY"
+    },
+    {
+      "date": "2026-08-29",
+      "fusion_rank": 24,
+      "baseline_rank": 7,
+      "primary": "HOT_RECENCY"
+    }
+  ],
+  "Faridabad": [
+    {
+      "date": "2026-02-13",
+      "fusion_rank": 29,
+      "baseline_rank": 68,
+      "primary": "HARUF_PYRAMID"
+    },
+    {
+      "date": "2026-02-14",
+      "fusion_rank": 79,
+      "baseline_rank": 32,
+      "primary": "HARUF_PYRAMID"
+    },
+    {
+      "date": "2026-02-15",
+      "fusion_rank": 59,
+      "baseline_rank": 40,
+      "primary": "HARUF_PYRAMID"
+    },
+    {
+      "date": "2026-02-16",
+      "fusion_rank": 42,
+      "baseline_rank": 9,
+      "primary": "HARUF_PYRAMID"
+    },
+    {
+      "date": "2026-02-17",
+      "fusion_rank": 73,
+      "baseline_rank": 43,
+      "primary": "HARUF_PYRAMID"
+    },
+    {
+      "date": "2026-02-18",
+      "fusion_rank": 16,
+      "baseline_rank": 49,
+      "primary": "HARUF_PYRAMID"
+    },
+    {
+      "date": "2026-02-19",
+      "fusion_rank": 91,
+      "baseline_rank": 75,
+      "primary": "HARUF_PYRAMID"
+    },
+    {
+      "date": "2026-02-20",
+      "fusion_rank": 54,
+      "baseline_rank": 88,
+      "primary": "HARUF_PYRAMID"
+    },
+    {
+      "date": "2026-02-21",
+      "fusion_rank": 30,
+      "baseline_rank": 21,
+      "primary": "HARUF_PYRAMID"
+    },
+    {
+      "date": "2026-02-22",
+      "fusion_rank": 38,
+      "baseline_rank": 94,
+      "primary": "HARUF_PYRAMID"
+    },
+    {
+      "date": "2026-02-23",
+      "fusion_rank": 10,
+      "baseline_rank": 8,
+      "primary": "HARUF_PYRAMID"
+    },
+    {
+      "date": "2026-02-24",
+      "fusion_rank": 46,
+      "baseline_rank": 64,
+      "primary": "HARUF_PYRAMID"
+    },
+    {
+      "date": "2026-02-25",
+      "fusion_rank": 20,
+      "baseline_rank": 84,
+      "primary": "HARUF_PYRAMID"
+    },
+    {
+      "date": "2026-02-26",
+      "fusion_rank": 100,
+      "baseline_rank": 100,
+      "primary": "DATE_TRIAD"
+    },
+    {
+      "date": "2026-02-27",
+      "fusion_rank": 40,
+      "baseline_rank": 76,
+      "primary": "DATE_TRIAD"
+    },
+    {
+      "date": "2026-03-01",
+      "fusion_rank": 13,
+      "baseline_rank": 12,
+      "primary": "DATE_TRIAD"
+    },
+    {
+      "date": "2026-03-02",
+      "fusion_rank": 96,
+      "baseline_rank": 92,
+      "primary": "DATE_TRIAD"
+    },
+    {
+      "date": "2026-03-03",
+      "fusion_rank": 22,
+      "baseline_rank": 16,
+      "primary": "DATE_TRIAD"
+    },
+    {
+      "date": "2026-03-04",
+      "fusion_rank": 15,
+      "baseline_rank": 9,
+      "primary": "DATE_TRIAD"
+    },
+    {
+      "date": "2026-03-05",
+      "fusion_rank": 22,
+      "baseline_rank": 17,
+      "primary": "DATE_TRIAD"
+    },
+    {
+      "date": "2026-03-06",
+      "fusion_rank": 59,
+      "baseline_rank": 45,
+      "primary": "DATE_TRIAD"
+    },
+    {
+      "date": "2026-03-07",
+      "fusion_rank": 90,
+      "baseline_rank": 66,
+      "primary": "DATE_TRIAD"
+    },
+    {
+      "date": "2026-03-08",
+      "fusion_rank": 38,
+      "baseline_rank": 36,
+      "primary": "DATE_TRIAD"
+    },
+    {
+      "date": "2026-03-09",
+      "fusion_rank": 71,
+      "baseline_rank": 53,
+      "primary": "DATE_TRIAD"
+    },
+    {
+      "date": "2026-03-10",
+      "fusion_rank": 80,
+      "baseline_rank": 80,
+      "primary": "DATE_TRIAD"
+    },
+    {
+      "date": "2026-03-11",
+      "fusion_rank": 50,
+      "baseline_rank": 39,
+      "primary": "DATE_TRIAD"
+    },
+    {
+      "date": "2026-03-12",
+      "fusion_rank": 96,
+      "baseline_rank": 91,
+      "primary": "DATE_TRIAD"
+    },
+    {
+      "date": "2026-03-13",
+      "fusion_rank": 66,
+      "baseline_rank": 55,
+      "primary": "DATE_TRIAD"
+    },
+    {
+      "date": "2026-03-14",
+      "fusion_rank": 82,
+      "baseline_rank": 84,
+      "primary": "DATE_TRIAD"
+    },
+    {
+      "date": "2026-03-15",
+      "fusion_rank": 60,
+      "baseline_rank": 46,
+      "primary": "DATE_TRIAD"
+    },
+    {
+      "date": "2026-03-16",
+      "fusion_rank": 17,
+      "baseline_rank": 74,
+      "primary": "DATE_TRIAD"
+    },
+    {
+      "date": "2026-03-17",
+      "fusion_rank": 55,
+      "baseline_rank": 62,
+      "primary": "DELTA_MATRIX"
+    },
+    {
+      "date": "2026-03-18",
+      "fusion_rank": 94,
+      "baseline_rank": 91,
+      "primary": "DELTA_MATRIX"
+    },
+    {
+      "date": "2026-03-19",
+      "fusion_rank": 42,
+      "baseline_rank": 88,
+      "primary": "DELTA_MATRIX"
+    },
+    {
+      "date": "2026-03-20",
+      "fusion_rank": 1,
+      "baseline_rank": 1,
+      "primary": "DELTA_MATRIX"
+    },
+    {
+      "date": "2026-03-21",
+      "fusion_rank": 53,
+      "baseline_rank": 51,
+      "primary": "DELTA_MATRIX"
+    },
+    {
+      "date": "2026-03-22",
+      "fusion_rank": 75,
+      "baseline_rank": 44,
+      "primary": "DELTA_MATRIX"
+    },
+    {
+      "date": "2026-03-23",
+      "fusion_rank": 83,
+      "baseline_rank": 60,
+      "primary": "DELTA_MATRIX"
+    },
+    {
+      "date": "2026-03-24",
+      "fusion_rank": 47,
+      "baseline_rank": 33,
+      "primary": "DELTA_MATRIX"
+    },
+    {
+      "date": "2026-03-25",
+      "fusion_rank": 70,
+      "baseline_rank": 53,
+      "primary": "DELTA_MATRIX"
+    },
+    {
+      "date": "2026-03-26",
+      "fusion_rank": 65,
+      "baseline_rank": 46,
+      "primary": "DELTA_MATRIX"
+    },
+    {
+      "date": "2026-03-27",
+      "fusion_rank": 61,
+      "baseline_rank": 85,
+      "primary": "DELTA_MATRIX"
+    },
+    {
+      "date": "2026-03-28",
+      "fusion_rank": 66,
+      "baseline_rank": 40,
+      "primary": "DELTA_MATRIX"
+    },
+    {
+      "date": "2026-03-29",
+      "fusion_rank": 7,
+      "baseline_rank": 2,
+      "primary": "DELTA_MATRIX"
+    },
+    {
+      "date": "2026-03-30",
+      "fusion_rank": 19,
+      "baseline_rank": 85,
+      "primary": "DELTA_MATRIX"
+    },
+    {
+      "date": "2026-04-01",
+      "fusion_rank": 24,
+      "baseline_rank": 39,
+      "primary": "DELTA_MATRIX"
+    },
+    {
+      "date": "2026-04-02",
+      "fusion_rank": 2,
+      "baseline_rank": 37,
+      "primary": "DELTA_MATRIX"
+    },
+    {
+      "date": "2026-04-03",
+      "fusion_rank": 30,
+      "baseline_rank": 100,
+      "primary": "DELTA_MATRIX"
+    },
+    {
+      "date": "2026-04-04",
+      "fusion_rank": 13,
+      "baseline_rank": 60,
+      "primary": "DELTA_MATRIX"
+    },
+    {
+      "date": "2026-04-05",
+      "fusion_rank": 34,
+      "baseline_rank": 32,
+      "primary": "DELTA_MATRIX"
+    },
+    {
+      "date": "2026-04-06",
+      "fusion_rank": 74,
+      "baseline_rank": 71,
+      "primary": "HARUF_PYRAMID"
+    },
+    {
+      "date": "2026-04-07",
+      "fusion_rank": 29,
+      "baseline_rank": 42,
+      "primary": "HARUF_PYRAMID"
+    },
+    {
+      "date": "2026-04-08",
+      "fusion_rank": 94,
+      "baseline_rank": 70,
+      "primary": "HARUF_PYRAMID"
+    },
+    {
+      "date": "2026-04-09",
+      "fusion_rank": 78,
+      "baseline_rank": 81,
+      "primary": "HARUF_PYRAMID"
+    },
+    {
+      "date": "2026-04-10",
+      "fusion_rank": 19,
+      "baseline_rank": 10,
+      "primary": "HARUF_PYRAMID"
+    },
+    {
+      "date": "2026-04-11",
+      "fusion_rank": 34,
+      "baseline_rank": 73,
+      "primary": "HARUF_PYRAMID"
+    },
+    {
+      "date": "2026-04-12",
+      "fusion_rank": 78,
+      "baseline_rank": 38,
+      "primary": "HARUF_PYRAMID"
+    },
+    {
+      "date": "2026-04-13",
+      "fusion_rank": 4,
+      "baseline_rank": 1,
+      "primary": "HARUF_PYRAMID"
+    },
+    {
+      "date": "2026-04-14",
+      "fusion_rank": 14,
+      "baseline_rank": 75,
+      "primary": "HARUF_PYRAMID"
+    },
+    {
+      "date": "2026-04-15",
+      "fusion_rank": 69,
+      "baseline_rank": 79,
+      "primary": "HARUF_PYRAMID"
+    },
+    {
+      "date": "2026-04-16",
+      "fusion_rank": 16,
+      "baseline_rank": 18,
+      "primary": "HARUF_PYRAMID"
+    },
+    {
+      "date": "2026-04-17",
+      "fusion_rank": 72,
+      "baseline_rank": 86,
+      "primary": "HARUF_PYRAMID"
+    },
+    {
+      "date": "2026-04-18",
+      "fusion_rank": 53,
+      "baseline_rank": 52,
+      "primary": "HARUF_PYRAMID"
+    },
+    {
+      "date": "2026-04-19",
+      "fusion_rank": 36,
+      "baseline_rank": 27,
+      "primary": "HARUF_PYRAMID"
+    },
+    {
+      "date": "2026-04-20",
+      "fusion_rank": 24,
+      "baseline_rank": 8,
+      "primary": "HARUF_PYRAMID"
+    },
+    {
+      "date": "2026-04-21",
+      "fusion_rank": 4,
+      "baseline_rank": 4,
+      "primary": "HARUF_PYRAMID"
+    },
+    {
+      "date": "2026-04-22",
+      "fusion_rank": 22,
+      "baseline_rank": 9,
+      "primary": "HARUF_PYRAMID"
+    },
+    {
+      "date": "2026-04-23",
+      "fusion_rank": 24,
+      "baseline_rank": 34,
+      "primary": "HARUF_PYRAMID"
+    },
+    {
+      "date": "2026-04-24",
+      "fusion_rank": 91,
+      "baseline_rank": 92,
+      "primary": "HARUF_PYRAMID"
+    },
+    {
+      "date": "2026-04-25",
+      "fusion_rank": 26,
+      "baseline_rank": 55,
+      "primary": "HARUF_PYRAMID"
+    },
+    {
+      "date": "2026-04-26",
+      "fusion_rank": 66,
+      "baseline_rank": 67,
+      "primary": "HARUF_PYRAMID"
+    },
+    {
+      "date": "2026-04-27",
+      "fusion_rank": 74,
+      "baseline_rank": 38,
+      "primary": "HARUF_PYRAMID"
+    },
+    {
+      "date": "2026-04-28",
+      "fusion_rank": 51,
+      "baseline_rank": 29,
+      "primary": "HARUF_PYRAMID"
+    },
+    {
+      "date": "2026-04-29",
+      "fusion_rank": 40,
+      "baseline_rank": 76,
+      "primary": "HARUF_PYRAMID"
+    },
+    {
+      "date": "2026-05-01",
+      "fusion_rank": 66,
+      "baseline_rank": 21,
+      "primary": "HARUF_PYRAMID"
+    },
+    {
+      "date": "2026-05-02",
+      "fusion_rank": 76,
+      "baseline_rank": 29,
+      "primary": "HARUF_PYRAMID"
+    },
+    {
+      "date": "2026-05-03",
+      "fusion_rank": 88,
+      "baseline_rank": 38,
+      "primary": "HARUF_PYRAMID"
+    },
+    {
+      "date": "2026-05-04",
+      "fusion_rank": 11,
+      "baseline_rank": 75,
+      "primary": "HARUF_PYRAMID"
+    },
+    {
+      "date": "2026-05-05",
+      "fusion_rank": 41,
+      "baseline_rank": 88,
+      "primary": "HARUF_PYRAMID"
+    },
+    {
+      "date": "2026-05-06",
+      "fusion_rank": 91,
+      "baseline_rank": 69,
+      "primary": "HARUF_PYRAMID"
+    },
+    {
+      "date": "2026-05-07",
+      "fusion_rank": 47,
+      "baseline_rank": 20,
+      "primary": "HARUF_PYRAMID"
+    },
+    {
+      "date": "2026-05-08",
+      "fusion_rank": 56,
+      "baseline_rank": 23,
+      "primary": "HARUF_PYRAMID"
+    },
+    {
+      "date": "2026-05-09",
+      "fusion_rank": 90,
+      "baseline_rank": 43,
+      "primary": "HARUF_PYRAMID"
+    },
+    {
+      "date": "2026-05-10",
+      "fusion_rank": 22,
+      "baseline_rank": 15,
+      "primary": "HARUF_PYRAMID"
+    },
+    {
+      "date": "2026-05-11",
+      "fusion_rank": 29,
+      "baseline_rank": 83,
+      "primary": "HARUF_PYRAMID"
+    },
+    {
+      "date": "2026-05-12",
+      "fusion_rank": 4,
+      "baseline_rank": 2,
+      "primary": "HARUF_PYRAMID"
+    },
+    {
+      "date": "2026-05-13",
+      "fusion_rank": 7,
+      "baseline_rank": 11,
+      "primary": "HARUF_PYRAMID"
+    },
+    {
+      "date": "2026-05-14",
+      "fusion_rank": 26,
+      "baseline_rank": 24,
+      "primary": "HARUF_PYRAMID+DATE_TRIAD"
+    },
+    {
+      "date": "2026-05-15",
+      "fusion_rank": 3,
+      "baseline_rank": 5,
+      "primary": "HARUF_PYRAMID+DATE_TRIAD"
+    },
+    {
+      "date": "2026-05-16",
+      "fusion_rank": 13,
+      "baseline_rank": 11,
+      "primary": "HARUF_PYRAMID+DATE_TRIAD"
+    },
+    {
+      "date": "2026-05-17",
+      "fusion_rank": 92,
+      "baseline_rank": 80,
+      "primary": "HARUF_PYRAMID+DATE_TRIAD"
+    },
+    {
+      "date": "2026-05-18",
+      "fusion_rank": 44,
+      "baseline_rank": 46,
+      "primary": "HARUF_PYRAMID+DATE_TRIAD"
+    },
+    {
+      "date": "2026-05-19",
+      "fusion_rank": 61,
+      "baseline_rank": 58,
+      "primary": "HARUF_PYRAMID+DATE_TRIAD"
+    },
+    {
+      "date": "2026-05-20",
+      "fusion_rank": 84,
+      "baseline_rank": 64,
+      "primary": "HARUF_PYRAMID+DATE_TRIAD"
+    },
+    {
+      "date": "2026-05-21",
+      "fusion_rank": 85,
+      "baseline_rank": 83,
+      "primary": "HARUF_PYRAMID+DATE_TRIAD"
+    },
+    {
+      "date": "2026-05-22",
+      "fusion_rank": 6,
+      "baseline_rank": 4,
+      "primary": "HARUF_PYRAMID+DATE_TRIAD"
+    },
+    {
+      "date": "2026-05-23",
+      "fusion_rank": 95,
+      "baseline_rank": 90,
+      "primary": "HARUF_PYRAMID+DATE_TRIAD"
+    },
+    {
+      "date": "2026-05-24",
+      "fusion_rank": 46,
+      "baseline_rank": 56,
+      "primary": "HARUF_PYRAMID+DATE_TRIAD"
+    },
+    {
+      "date": "2026-05-25",
+      "fusion_rank": 85,
+      "baseline_rank": 78,
+      "primary": "HARUF_PYRAMID+DATE_TRIAD"
+    },
+    {
+      "date": "2026-05-26",
+      "fusion_rank": 7,
+      "baseline_rank": 7,
+      "primary": "HARUF_PYRAMID+DATE_TRIAD"
+    },
+    {
+      "date": "2026-05-27",
+      "fusion_rank": 50,
+      "baseline_rank": 45,
+      "primary": "HARUF_PYRAMID+DATE_TRIAD"
+    },
+    {
+      "date": "2026-05-28",
+      "fusion_rank": 46,
+      "baseline_rank": 34,
+      "primary": "DATE_TRIAD"
+    },
+    {
+      "date": "2026-05-29",
+      "fusion_rank": 16,
+      "baseline_rank": 78,
+      "primary": "DATE_TRIAD"
+    },
+    {
+      "date": "2026-05-30",
+      "fusion_rank": 78,
+      "baseline_rank": 52,
+      "primary": "DATE_TRIAD"
+    },
+    {
+      "date": "2026-06-01",
+      "fusion_rank": 10,
+      "baseline_rank": 14,
+      "primary": "DATE_TRIAD"
+    },
+    {
+      "date": "2026-06-02",
+      "fusion_rank": 31,
+      "baseline_rank": 11,
+      "primary": "DATE_TRIAD"
+    },
+    {
+      "date": "2026-06-03",
+      "fusion_rank": 88,
+      "baseline_rank": 71,
+      "primary": "DATE_TRIAD"
+    },
+    {
+      "date": "2026-06-04",
+      "fusion_rank": 21,
+      "baseline_rank": 10,
+      "primary": "DATE_TRIAD"
+    },
+    {
+      "date": "2026-06-05",
+      "fusion_rank": 91,
+      "baseline_rank": 90,
+      "primary": "HARUF_PYRAMID+DATE_TRIAD"
+    },
+    {
+      "date": "2026-06-06",
+      "fusion_rank": 69,
+      "baseline_rank": 73,
+      "primary": "HARUF_PYRAMID+DATE_TRIAD"
+    },
+    {
+      "date": "2026-06-07",
+      "fusion_rank": 2,
+      "baseline_rank": 2,
+      "primary": "HARUF_PYRAMID+DATE_TRIAD"
+    },
+    {
+      "date": "2026-06-08",
+      "fusion_rank": 29,
+      "baseline_rank": 18,
+      "primary": "HARUF_PYRAMID+DATE_TRIAD"
+    },
+    {
+      "date": "2026-06-09",
+      "fusion_rank": 5,
+      "baseline_rank": 3,
+      "primary": "HARUF_PYRAMID+DATE_TRIAD"
+    },
+    {
+      "date": "2026-06-10",
+      "fusion_rank": 43,
+      "baseline_rank": 57,
+      "primary": "HARUF_PYRAMID+DATE_TRIAD"
+    },
+    {
+      "date": "2026-06-11",
+      "fusion_rank": 8,
+      "baseline_rank": 8,
+      "primary": "HARUF_PYRAMID+DATE_TRIAD"
+    },
+    {
+      "date": "2026-06-12",
+      "fusion_rank": 10,
+      "baseline_rank": 10,
+      "primary": "HARUF_PYRAMID+DATE_TRIAD"
+    },
+    {
+      "date": "2026-06-13",
+      "fusion_rank": 10,
+      "baseline_rank": 11,
+      "primary": "HARUF_PYRAMID+DATE_TRIAD"
+    },
+    {
+      "date": "2026-06-14",
+      "fusion_rank": 40,
+      "baseline_rank": 36,
+      "primary": "HARUF_PYRAMID+DATE_TRIAD"
+    },
+    {
+      "date": "2026-07-01",
+      "fusion_rank": 7,
+      "baseline_rank": 6,
+      "primary": "HARUF_PYRAMID+DATE_TRIAD"
+    },
+    {
+      "date": "2026-07-02",
+      "fusion_rank": 95,
+      "baseline_rank": 85,
+      "primary": "HARUF_PYRAMID+DATE_TRIAD"
+    },
+    {
+      "date": "2026-07-03",
+      "fusion_rank": 54,
+      "baseline_rank": 43,
+      "primary": "HARUF_PYRAMID+DATE_TRIAD"
+    },
+    {
+      "date": "2026-07-04",
+      "fusion_rank": 62,
+      "baseline_rank": 62,
+      "primary": "HARUF_PYRAMID+DATE_TRIAD"
+    },
+    {
+      "date": "2026-07-05",
+      "fusion_rank": 68,
+      "baseline_rank": 56,
+      "primary": "HARUF_PYRAMID+DATE_TRIAD"
+    },
+    {
+      "date": "2026-07-06",
+      "fusion_rank": 62,
+      "baseline_rank": 59,
+      "primary": "HARUF_PYRAMID+DATE_TRIAD"
+    },
+    {
+      "date": "2026-07-07",
+      "fusion_rank": 19,
+      "baseline_rank": 15,
+      "primary": "HARUF_PYRAMID+DATE_TRIAD"
+    },
+    {
+      "date": "2026-07-08",
+      "fusion_rank": 5,
+      "baseline_rank": 4,
+      "primary": "HARUF_PYRAMID+DATE_TRIAD"
+    },
+    {
+      "date": "2026-07-09",
+      "fusion_rank": 35,
+      "baseline_rank": 94,
+      "primary": "HARUF_PYRAMID+DATE_TRIAD"
+    },
+    {
+      "date": "2026-07-10",
+      "fusion_rank": 88,
+      "baseline_rank": 91,
+      "primary": "HARUF_PYRAMID+DATE_TRIAD"
+    },
+    {
+      "date": "2026-07-11",
+      "fusion_rank": 33,
+      "baseline_rank": 28,
+      "primary": "HARUF_PYRAMID+DATE_TRIAD"
+    },
+    {
+      "date": "2026-07-12",
+      "fusion_rank": 25,
+      "baseline_rank": 15,
+      "primary": "HARUF_PYRAMID+DATE_TRIAD"
+    },
+    {
+      "date": "2026-07-13",
+      "fusion_rank": 6,
+      "baseline_rank": 11,
+      "primary": "DATE_TRIAD"
+    },
+    {
+      "date": "2026-07-14",
+      "fusion_rank": 58,
+      "baseline_rank": 94,
+      "primary": "DATE_TRIAD"
+    },
+    {
+      "date": "2026-07-15",
+      "fusion_rank": 85,
+      "baseline_rank": 65,
+      "primary": "DATE_TRIAD"
+    },
+    {
+      "date": "2026-07-16",
+      "fusion_rank": 16,
+      "baseline_rank": 25,
+      "primary": "DATE_TRIAD"
+    },
+    {
+      "date": "2026-07-17",
+      "fusion_rank": 37,
+      "baseline_rank": 39,
+      "primary": "DATE_TRIAD"
+    },
+    {
+      "date": "2026-07-18",
+      "fusion_rank": 18,
+      "baseline_rank": 17,
+      "primary": "DATE_TRIAD"
+    },
+    {
+      "date": "2026-07-19",
+      "fusion_rank": 96,
+      "baseline_rank": 85,
+      "primary": "DATE_TRIAD"
+    },
+    {
+      "date": "2026-07-20",
+      "fusion_rank": 62,
+      "baseline_rank": 55,
+      "primary": "DATE_TRIAD"
+    },
+    {
+      "date": "2026-07-21",
+      "fusion_rank": 24,
+      "baseline_rank": 17,
+      "primary": "DATE_TRIAD"
+    },
+    {
+      "date": "2026-07-22",
+      "fusion_rank": 13,
+      "baseline_rank": 42,
+      "primary": "DATE_TRIAD"
+    },
+    {
+      "date": "2026-07-23",
+      "fusion_rank": 5,
+      "baseline_rank": 43,
+      "primary": "DATE_TRIAD"
+    },
+    {
+      "date": "2026-07-24",
+      "fusion_rank": 54,
+      "baseline_rank": 46,
+      "primary": "HARUF_PYRAMID+DATE_TRIAD"
+    },
+    {
+      "date": "2026-07-25",
+      "fusion_rank": 6,
+      "baseline_rank": 6,
+      "primary": "HARUF_PYRAMID+DATE_TRIAD"
+    },
+    {
+      "date": "2026-07-26",
+      "fusion_rank": 71,
+      "baseline_rank": 66,
+      "primary": "HARUF_PYRAMID+DATE_TRIAD"
+    },
+    {
+      "date": "2026-07-27",
+      "fusion_rank": 92,
+      "baseline_rank": 90,
+      "primary": "HARUF_PYRAMID+DATE_TRIAD"
+    },
+    {
+      "date": "2026-07-28",
+      "fusion_rank": 54,
+      "baseline_rank": 62,
+      "primary": "HARUF_PYRAMID+DATE_TRIAD"
+    },
+    {
+      "date": "2026-07-29",
+      "fusion_rank": 21,
+      "baseline_rank": 11,
+      "primary": "HARUF_PYRAMID+DATE_TRIAD"
+    },
+    {
+      "date": "2026-07-30",
+      "fusion_rank": 8,
+      "baseline_rank": 7,
+      "primary": "HARUF_PYRAMID+DATE_TRIAD"
+    },
+    {
+      "date": "2026-08-01",
+      "fusion_rank": 94,
+      "baseline_rank": 84,
+      "primary": "HARUF_PYRAMID+DATE_TRIAD"
+    },
+    {
+      "date": "2026-08-02",
+      "fusion_rank": 22,
+      "baseline_rank": 14,
+      "primary": "HARUF_PYRAMID+DATE_TRIAD"
+    },
+    {
+      "date": "2026-08-03",
+      "fusion_rank": 91,
+      "baseline_rank": 66,
+      "primary": "HARUF_PYRAMID+DATE_TRIAD"
+    },
+    {
+      "date": "2026-08-04",
+      "fusion_rank": 55,
+      "baseline_rank": 49,
+      "primary": "HARUF_PYRAMID+DATE_TRIAD"
+    },
+    {
+      "date": "2026-08-05",
+      "fusion_rank": 14,
+      "baseline_rank": 23,
+      "primary": "HARUF_PYRAMID+DATE_TRIAD"
+    },
+    {
+      "date": "2026-08-06",
+      "fusion_rank": 35,
+      "baseline_rank": 65,
+      "primary": "HARUF_PYRAMID+DATE_TRIAD"
+    },
+    {
+      "date": "2026-08-07",
+      "fusion_rank": 50,
+      "baseline_rank": 40,
+      "primary": "HARUF_PYRAMID+DATE_TRIAD"
+    },
+    {
+      "date": "2026-08-08",
+      "fusion_rank": 99,
+      "baseline_rank": 93,
+      "primary": "HARUF_PYRAMID+DATE_TRIAD"
+    },
+    {
+      "date": "2026-08-09",
+      "fusion_rank": 84,
+      "baseline_rank": 73,
+      "primary": "HARUF_PYRAMID+DATE_TRIAD"
+    },
+    {
+      "date": "2026-08-10",
+      "fusion_rank": 79,
+      "baseline_rank": 78,
+      "primary": "HARUF_PYRAMID+DATE_TRIAD"
+    },
+    {
+      "date": "2026-08-11",
+      "fusion_rank": 48,
+      "baseline_rank": 26,
+      "primary": "HARUF_PYRAMID"
+    },
+    {
+      "date": "2026-08-12",
+      "fusion_rank": 35,
+      "baseline_rank": 11,
+      "primary": "HARUF_PYRAMID"
+    },
+    {
+      "date": "2026-08-13",
+      "fusion_rank": 60,
+      "baseline_rank": 87,
+      "primary": "HARUF_PYRAMID"
+    },
+    {
+      "date": "2026-08-14",
+      "fusion_rank": 14,
+      "baseline_rank": 40,
+      "primary": "HARUF_PYRAMID"
+    },
+    {
+      "date": "2026-08-15",
+      "fusion_rank": 11,
+      "baseline_rank": 24,
+      "primary": "HARUF_PYRAMID"
+    },
+    {
+      "date": "2026-08-16",
+      "fusion_rank": 58,
+      "baseline_rank": 95,
+      "primary": "DATE_TRIAD+MODEL_F+ECHO_7"
+    },
+    {
+      "date": "2026-08-17",
+      "fusion_rank": 25,
+      "baseline_rank": 17,
+      "primary": "DATE_TRIAD+MODEL_F+ECHO_7"
+    },
+    {
+      "date": "2026-08-18",
+      "fusion_rank": 28,
+      "baseline_rank": 15,
+      "primary": "DATE_TRIAD+MODEL_F+ECHO_7"
+    },
+    {
+      "date": "2026-08-19",
+      "fusion_rank": 88,
+      "baseline_rank": 74,
+      "primary": "DATE_TRIAD+MODEL_F+ECHO_7"
+    },
+    {
+      "date": "2026-08-20",
+      "fusion_rank": 99,
+      "baseline_rank": 94,
+      "primary": "DATE_TRIAD+MODEL_F+ECHO_7"
+    },
+    {
+      "date": "2026-08-21",
+      "fusion_rank": 69,
+      "baseline_rank": 53,
+      "primary": "DATE_TRIAD+MODEL_F+ECHO_7"
+    },
+    {
+      "date": "2026-08-22",
+      "fusion_rank": 78,
+      "baseline_rank": 27,
+      "primary": "DATE_TRIAD+MODEL_F+ECHO_7"
+    },
+    {
+      "date": "2026-08-23",
+      "fusion_rank": 48,
+      "baseline_rank": 27,
+      "primary": "DATE_TRIAD+MODEL_F+ECHO_7"
+    },
+    {
+      "date": "2026-08-24",
+      "fusion_rank": 41,
+      "baseline_rank": 32,
+      "primary": "DATE_TRIAD+MODEL_F+ECHO_7"
+    },
+    {
+      "date": "2026-08-25",
+      "fusion_rank": 86,
+      "baseline_rank": 80,
+      "primary": "DATE_TRIAD+MODEL_F+ECHO_7"
+    },
+    {
+      "date": "2026-08-26",
+      "fusion_rank": 79,
+      "baseline_rank": 75,
+      "primary": "DATE_TRIAD+MODEL_F+ECHO_7"
+    },
+    {
+      "date": "2026-08-27",
+      "fusion_rank": 94,
+      "baseline_rank": 76,
+      "primary": "DATE_TRIAD+MODEL_F+ECHO_7"
+    },
+    {
+      "date": "2026-08-28",
+      "fusion_rank": 53,
+      "baseline_rank": 54,
+      "primary": "G_SQUARE_HARMONICS"
+    },
+    {
+      "date": "2026-08-29",
+      "fusion_rank": 82,
+      "baseline_rank": 30,
+      "primary": "G_SQUARE_HARMONICS"
+    }
+  ],
+  "Ghaziabad": [
+    {
+      "date": "2026-02-13",
+      "fusion_rank": 18,
+      "baseline_rank": 96,
+      "primary": "DATE_TRIAD"
+    },
+    {
+      "date": "2026-02-14",
+      "fusion_rank": 4,
+      "baseline_rank": 63,
+      "primary": "DATE_TRIAD"
+    },
+    {
+      "date": "2026-02-15",
+      "fusion_rank": 51,
+      "baseline_rank": 30,
+      "primary": "DATE_TRIAD"
+    },
+    {
+      "date": "2026-02-16",
+      "fusion_rank": 12,
+      "baseline_rank": 18,
+      "primary": "LOOKBACK_5"
+    },
+    {
+      "date": "2026-02-17",
+      "fusion_rank": 93,
+      "baseline_rank": 100,
+      "primary": "LOOKBACK_5"
+    },
+    {
+      "date": "2026-02-18",
+      "fusion_rank": 66,
+      "baseline_rank": 89,
+      "primary": "LOOKBACK_5"
+    },
+    {
+      "date": "2026-02-19",
+      "fusion_rank": 94,
+      "baseline_rank": 73,
+      "primary": "LOOKBACK_5"
+    },
+    {
+      "date": "2026-02-20",
+      "fusion_rank": 49,
+      "baseline_rank": 18,
+      "primary": "LOOKBACK_5"
+    },
+    {
+      "date": "2026-02-21",
+      "fusion_rank": 47,
+      "baseline_rank": 67,
+      "primary": "LOOKBACK_5"
+    },
+    {
+      "date": "2026-02-22",
+      "fusion_rank": 25,
+      "baseline_rank": 32,
+      "primary": "LOOKBACK_5"
+    },
+    {
+      "date": "2026-02-23",
+      "fusion_rank": 84,
+      "baseline_rank": 52,
+      "primary": "LOOKBACK_5"
+    },
+    {
+      "date": "2026-02-24",
+      "fusion_rank": 65,
+      "baseline_rank": 69,
+      "primary": "LOOKBACK_5"
+    },
+    {
+      "date": "2026-02-25",
+      "fusion_rank": 83,
+      "baseline_rank": 30,
+      "primary": "LOOKBACK_5"
+    },
+    {
+      "date": "2026-02-26",
+      "fusion_rank": 4,
+      "baseline_rank": 30,
+      "primary": "LOOKBACK_5"
+    },
+    {
+      "date": "2026-02-27",
+      "fusion_rank": 92,
+      "baseline_rank": 53,
+      "primary": "RASHI_FAMILY"
+    },
+    {
+      "date": "2026-03-01",
+      "fusion_rank": 37,
+      "baseline_rank": 21,
+      "primary": "RASHI_FAMILY"
+    },
+    {
+      "date": "2026-03-02",
+      "fusion_rank": 2,
+      "baseline_rank": 10,
+      "primary": "RASHI_FAMILY"
+    },
+    {
+      "date": "2026-03-03",
+      "fusion_rank": 10,
+      "baseline_rank": 20,
+      "primary": "RASHI_FAMILY"
+    },
+    {
+      "date": "2026-03-04",
+      "fusion_rank": 41,
+      "baseline_rank": 12,
+      "primary": "RASHI_FAMILY"
+    },
+    {
+      "date": "2026-03-05",
+      "fusion_rank": 53,
+      "baseline_rank": 19,
+      "primary": "G_SQUARE_HARMONICS"
+    },
+    {
+      "date": "2026-03-06",
+      "fusion_rank": 10,
+      "baseline_rank": 2,
+      "primary": "G_SQUARE_HARMONICS"
+    },
+    {
+      "date": "2026-03-07",
+      "fusion_rank": 55,
+      "baseline_rank": 14,
+      "primary": "G_SQUARE_HARMONICS"
+    },
+    {
+      "date": "2026-03-08",
+      "fusion_rank": 95,
+      "baseline_rank": 89,
+      "primary": "G_SQUARE_HARMONICS"
+    },
+    {
+      "date": "2026-03-09",
+      "fusion_rank": 80,
+      "baseline_rank": 54,
+      "primary": "G_SQUARE_HARMONICS"
+    },
+    {
+      "date": "2026-03-10",
+      "fusion_rank": 49,
+      "baseline_rank": 84,
+      "primary": "G_SQUARE_HARMONICS"
+    },
+    {
+      "date": "2026-03-11",
+      "fusion_rank": 86,
+      "baseline_rank": 72,
+      "primary": "G_SQUARE_HARMONICS"
+    },
+    {
+      "date": "2026-03-12",
+      "fusion_rank": 47,
+      "baseline_rank": 15,
+      "primary": "G_SQUARE_HARMONICS"
+    },
+    {
+      "date": "2026-03-13",
+      "fusion_rank": 71,
+      "baseline_rank": 81,
+      "primary": "G_SQUARE_HARMONICS"
+    },
+    {
+      "date": "2026-03-14",
+      "fusion_rank": 88,
+      "baseline_rank": 82,
+      "primary": "G_SQUARE_HARMONICS"
+    },
+    {
+      "date": "2026-03-15",
+      "fusion_rank": 2,
+      "baseline_rank": 5,
+      "primary": "G_SQUARE_HARMONICS"
+    },
+    {
+      "date": "2026-03-16",
+      "fusion_rank": 40,
+      "baseline_rank": 29,
+      "primary": "G_SQUARE_HARMONICS"
+    },
+    {
+      "date": "2026-03-17",
+      "fusion_rank": 30,
+      "baseline_rank": 53,
+      "primary": "G_SQUARE_HARMONICS"
+    },
+    {
+      "date": "2026-03-18",
+      "fusion_rank": 23,
+      "baseline_rank": 29,
+      "primary": "G_SQUARE_HARMONICS"
+    },
+    {
+      "date": "2026-03-19",
+      "fusion_rank": 2,
+      "baseline_rank": 19,
+      "primary": "G_SQUARE_HARMONICS"
+    },
+    {
+      "date": "2026-03-20",
+      "fusion_rank": 12,
+      "baseline_rank": 4,
+      "primary": "G_SQUARE_HARMONICS"
+    },
+    {
+      "date": "2026-03-21",
+      "fusion_rank": 19,
+      "baseline_rank": 6,
+      "primary": "G_SQUARE_HARMONICS"
+    },
+    {
+      "date": "2026-03-22",
+      "fusion_rank": 11,
+      "baseline_rank": 2,
+      "primary": "G_SQUARE_HARMONICS"
+    },
+    {
+      "date": "2026-03-23",
+      "fusion_rank": 27,
+      "baseline_rank": 8,
+      "primary": "G_SQUARE_HARMONICS"
+    },
+    {
+      "date": "2026-03-24",
+      "fusion_rank": 75,
+      "baseline_rank": 86,
+      "primary": "G_SQUARE_HARMONICS"
+    },
+    {
+      "date": "2026-03-25",
+      "fusion_rank": 97,
+      "baseline_rank": 76,
+      "primary": "G_SQUARE_HARMONICS"
+    },
+    {
+      "date": "2026-03-26",
+      "fusion_rank": 45,
+      "baseline_rank": 45,
+      "primary": "G_SQUARE_HARMONICS"
+    },
+    {
+      "date": "2026-03-27",
+      "fusion_rank": 7,
+      "baseline_rank": 8,
+      "primary": "G_SQUARE_HARMONICS"
+    },
+    {
+      "date": "2026-03-28",
+      "fusion_rank": 30,
+      "baseline_rank": 31,
+      "primary": "G_SQUARE_HARMONICS"
+    },
+    {
+      "date": "2026-03-29",
+      "fusion_rank": 34,
+      "baseline_rank": 27,
+      "primary": "G_SQUARE_HARMONICS"
+    },
+    {
+      "date": "2026-03-30",
+      "fusion_rank": 60,
+      "baseline_rank": 51,
+      "primary": "G_SQUARE_HARMONICS"
+    },
+    {
+      "date": "2026-04-01",
+      "fusion_rank": 38,
+      "baseline_rank": 33,
+      "primary": "G_SQUARE_HARMONICS"
+    },
+    {
+      "date": "2026-04-02",
+      "fusion_rank": 36,
+      "baseline_rank": 10,
+      "primary": "G_SQUARE_HARMONICS"
+    },
+    {
+      "date": "2026-04-03",
+      "fusion_rank": 20,
+      "baseline_rank": 37,
+      "primary": "G_SQUARE_HARMONICS"
+    },
+    {
+      "date": "2026-04-04",
+      "fusion_rank": 97,
+      "baseline_rank": 80,
+      "primary": "G_SQUARE_HARMONICS"
+    },
+    {
+      "date": "2026-04-05",
+      "fusion_rank": 49,
+      "baseline_rank": 34,
+      "primary": "G_SQUARE_HARMONICS"
+    },
+    {
+      "date": "2026-04-06",
+      "fusion_rank": 61,
+      "baseline_rank": 70,
+      "primary": "G_SQUARE_HARMONICS"
+    },
+    {
+      "date": "2026-04-07",
+      "fusion_rank": 55,
+      "baseline_rank": 43,
+      "primary": "G_SQUARE_HARMONICS"
+    },
+    {
+      "date": "2026-04-08",
+      "fusion_rank": 84,
+      "baseline_rank": 36,
+      "primary": "G_SQUARE_HARMONICS"
+    },
+    {
+      "date": "2026-04-09",
+      "fusion_rank": 82,
+      "baseline_rank": 98,
+      "primary": "G_SQUARE_HARMONICS"
+    },
+    {
+      "date": "2026-04-10",
+      "fusion_rank": 22,
+      "baseline_rank": 30,
+      "primary": "G_SQUARE_HARMONICS"
+    },
+    {
+      "date": "2026-04-11",
+      "fusion_rank": 67,
+      "baseline_rank": 62,
+      "primary": "G_SQUARE_HARMONICS"
+    },
+    {
+      "date": "2026-04-12",
+      "fusion_rank": 88,
+      "baseline_rank": 68,
+      "primary": "G_SQUARE_HARMONICS"
+    },
+    {
+      "date": "2026-04-13",
+      "fusion_rank": 17,
+      "baseline_rank": 12,
+      "primary": "G_SQUARE_HARMONICS"
+    },
+    {
+      "date": "2026-04-14",
+      "fusion_rank": 28,
+      "baseline_rank": 28,
+      "primary": "G_SQUARE_HARMONICS"
+    },
+    {
+      "date": "2026-04-15",
+      "fusion_rank": 55,
+      "baseline_rank": 50,
+      "primary": "G_SQUARE_HARMONICS"
+    },
+    {
+      "date": "2026-04-16",
+      "fusion_rank": 5,
+      "baseline_rank": 32,
+      "primary": "G_SQUARE_HARMONICS"
+    },
+    {
+      "date": "2026-04-17",
+      "fusion_rank": 59,
+      "baseline_rank": 25,
+      "primary": "G_SQUARE_HARMONICS"
+    },
+    {
+      "date": "2026-04-18",
+      "fusion_rank": 98,
+      "baseline_rank": 75,
+      "primary": "G_SQUARE_HARMONICS"
+    },
+    {
+      "date": "2026-04-19",
+      "fusion_rank": 96,
+      "baseline_rank": 86,
+      "primary": "G_SQUARE_HARMONICS"
+    },
+    {
+      "date": "2026-04-20",
+      "fusion_rank": 47,
+      "baseline_rank": 59,
+      "primary": "G_SQUARE_HARMONICS"
+    },
+    {
+      "date": "2026-04-21",
+      "fusion_rank": 35,
+      "baseline_rank": 34,
+      "primary": "G_SQUARE_HARMONICS"
+    },
+    {
+      "date": "2026-04-22",
+      "fusion_rank": 79,
+      "baseline_rank": 37,
+      "primary": "G_SQUARE_HARMONICS"
+    },
+    {
+      "date": "2026-04-23",
+      "fusion_rank": 66,
+      "baseline_rank": 27,
+      "primary": "G_SQUARE_HARMONICS"
+    },
+    {
+      "date": "2026-04-24",
+      "fusion_rank": 32,
+      "baseline_rank": 41,
+      "primary": "G_SQUARE_HARMONICS"
+    },
+    {
+      "date": "2026-04-25",
+      "fusion_rank": 61,
+      "baseline_rank": 19,
+      "primary": "G_SQUARE_HARMONICS"
+    },
+    {
+      "date": "2026-04-26",
+      "fusion_rank": 7,
+      "baseline_rank": 8,
+      "primary": "G_SQUARE_HARMONICS"
+    },
+    {
+      "date": "2026-04-27",
+      "fusion_rank": 49,
+      "baseline_rank": 10,
+      "primary": "G_SQUARE_HARMONICS"
+    },
+    {
+      "date": "2026-04-28",
+      "fusion_rank": 35,
+      "baseline_rank": 20,
+      "primary": "G_SQUARE_HARMONICS"
+    },
+    {
+      "date": "2026-04-29",
+      "fusion_rank": 29,
+      "baseline_rank": 24,
+      "primary": "G_SQUARE_HARMONICS"
+    },
+    {
+      "date": "2026-05-01",
+      "fusion_rank": 7,
+      "baseline_rank": 29,
+      "primary": "G_SQUARE_HARMONICS"
+    },
+    {
+      "date": "2026-05-02",
+      "fusion_rank": 21,
+      "baseline_rank": 85,
+      "primary": "G_SQUARE_HARMONICS"
+    },
+    {
+      "date": "2026-05-03",
+      "fusion_rank": 77,
+      "baseline_rank": 98,
+      "primary": "G_SQUARE_HARMONICS"
+    },
+    {
+      "date": "2026-05-04",
+      "fusion_rank": 99,
+      "baseline_rank": 91,
+      "primary": "G_SQUARE_HARMONICS"
+    },
+    {
+      "date": "2026-05-05",
+      "fusion_rank": 7,
+      "baseline_rank": 3,
+      "primary": "G_SQUARE_HARMONICS"
+    },
+    {
+      "date": "2026-05-06",
+      "fusion_rank": 99,
+      "baseline_rank": 93,
+      "primary": "G_SQUARE_HARMONICS"
+    },
+    {
+      "date": "2026-05-07",
+      "fusion_rank": 61,
+      "baseline_rank": 66,
+      "primary": "G_SQUARE_HARMONICS"
+    },
+    {
+      "date": "2026-05-08",
+      "fusion_rank": 57,
+      "baseline_rank": 58,
+      "primary": "G_SQUARE_HARMONICS"
+    },
+    {
+      "date": "2026-05-09",
+      "fusion_rank": 8,
+      "baseline_rank": 48,
+      "primary": "G_SQUARE_HARMONICS"
+    },
+    {
+      "date": "2026-05-10",
+      "fusion_rank": 51,
+      "baseline_rank": 15,
+      "primary": "G_SQUARE_HARMONICS"
+    },
+    {
+      "date": "2026-05-11",
+      "fusion_rank": 73,
+      "baseline_rank": 29,
+      "primary": "G_SQUARE_HARMONICS"
+    },
+    {
+      "date": "2026-05-12",
+      "fusion_rank": 12,
+      "baseline_rank": 8,
+      "primary": "G_SQUARE_HARMONICS"
+    },
+    {
+      "date": "2026-05-13",
+      "fusion_rank": 18,
+      "baseline_rank": 34,
+      "primary": "G_SQUARE_HARMONICS"
+    },
+    {
+      "date": "2026-05-14",
+      "fusion_rank": 50,
+      "baseline_rank": 43,
+      "primary": "G_SQUARE_HARMONICS"
+    },
+    {
+      "date": "2026-05-15",
+      "fusion_rank": 32,
+      "baseline_rank": 34,
+      "primary": "G_SQUARE_HARMONICS"
+    },
+    {
+      "date": "2026-05-16",
+      "fusion_rank": 51,
+      "baseline_rank": 29,
+      "primary": "G_SQUARE_HARMONICS"
+    },
+    {
+      "date": "2026-05-17",
+      "fusion_rank": 76,
+      "baseline_rank": 70,
+      "primary": "G_SQUARE_HARMONICS"
+    },
+    {
+      "date": "2026-05-18",
+      "fusion_rank": 96,
+      "baseline_rank": 86,
+      "primary": "G_SQUARE_HARMONICS"
+    },
+    {
+      "date": "2026-05-19",
+      "fusion_rank": 97,
+      "baseline_rank": 91,
+      "primary": "G_SQUARE_HARMONICS"
+    },
+    {
+      "date": "2026-05-20",
+      "fusion_rank": 46,
+      "baseline_rank": 36,
+      "primary": "G_SQUARE_HARMONICS"
+    },
+    {
+      "date": "2026-05-21",
+      "fusion_rank": 36,
+      "baseline_rank": 35,
+      "primary": "G_SQUARE_HARMONICS"
+    },
+    {
+      "date": "2026-05-22",
+      "fusion_rank": 13,
+      "baseline_rank": 17,
+      "primary": "G_SQUARE_HARMONICS"
+    },
+    {
+      "date": "2026-05-23",
+      "fusion_rank": 12,
+      "baseline_rank": 21,
+      "primary": "G_SQUARE_HARMONICS"
+    },
+    {
+      "date": "2026-05-24",
+      "fusion_rank": 9,
+      "baseline_rank": 4,
+      "primary": "G_SQUARE_HARMONICS"
+    },
+    {
+      "date": "2026-05-25",
+      "fusion_rank": 33,
+      "baseline_rank": 15,
+      "primary": "G_SQUARE_HARMONICS"
+    },
+    {
+      "date": "2026-05-26",
+      "fusion_rank": 17,
+      "baseline_rank": 16,
+      "primary": "G_SQUARE_HARMONICS"
+    },
+    {
+      "date": "2026-05-27",
+      "fusion_rank": 80,
+      "baseline_rank": 58,
+      "primary": "G_SQUARE_HARMONICS"
+    },
+    {
+      "date": "2026-05-28",
+      "fusion_rank": 70,
+      "baseline_rank": 58,
+      "primary": "G_SQUARE_HARMONICS"
+    },
+    {
+      "date": "2026-05-29",
+      "fusion_rank": 98,
+      "baseline_rank": 78,
+      "primary": "G_SQUARE_HARMONICS"
+    },
+    {
+      "date": "2026-05-30",
+      "fusion_rank": 64,
+      "baseline_rank": 77,
+      "primary": "G_SQUARE_HARMONICS"
+    },
+    {
+      "date": "2026-06-01",
+      "fusion_rank": 56,
+      "baseline_rank": 20,
+      "primary": "G_SQUARE_HARMONICS"
+    },
+    {
+      "date": "2026-06-02",
+      "fusion_rank": 66,
+      "baseline_rank": 45,
+      "primary": "G_SQUARE_HARMONICS"
+    },
+    {
+      "date": "2026-06-03",
+      "fusion_rank": 98,
+      "baseline_rank": 92,
+      "primary": "G_SQUARE_HARMONICS"
+    },
+    {
+      "date": "2026-06-04",
+      "fusion_rank": 72,
+      "baseline_rank": 91,
+      "primary": "G_SQUARE_HARMONICS"
+    },
+    {
+      "date": "2026-06-05",
+      "fusion_rank": 57,
+      "baseline_rank": 22,
+      "primary": "G_SQUARE_HARMONICS"
+    },
+    {
+      "date": "2026-06-06",
+      "fusion_rank": 43,
+      "baseline_rank": 75,
+      "primary": "G_SQUARE_HARMONICS"
+    },
+    {
+      "date": "2026-06-07",
+      "fusion_rank": 48,
+      "baseline_rank": 13,
+      "primary": "G_SQUARE_HARMONICS"
+    },
+    {
+      "date": "2026-06-08",
+      "fusion_rank": 97,
+      "baseline_rank": 85,
+      "primary": "G_SQUARE_HARMONICS"
+    },
+    {
+      "date": "2026-06-09",
+      "fusion_rank": 27,
+      "baseline_rank": 19,
+      "primary": "G_SQUARE_HARMONICS"
+    },
+    {
+      "date": "2026-06-10",
+      "fusion_rank": 60,
+      "baseline_rank": 24,
+      "primary": "G_SQUARE_HARMONICS"
+    },
+    {
+      "date": "2026-06-11",
+      "fusion_rank": 3,
+      "baseline_rank": 10,
+      "primary": "G_SQUARE_HARMONICS"
+    },
+    {
+      "date": "2026-06-12",
+      "fusion_rank": 41,
+      "baseline_rank": 23,
+      "primary": "G_SQUARE_HARMONICS"
+    },
+    {
+      "date": "2026-06-13",
+      "fusion_rank": 85,
+      "baseline_rank": 96,
+      "primary": "G_SQUARE_HARMONICS"
+    },
+    {
+      "date": "2026-06-14",
+      "fusion_rank": 78,
+      "baseline_rank": 63,
+      "primary": "G_SQUARE_HARMONICS"
+    },
+    {
+      "date": "2026-07-01",
+      "fusion_rank": 89,
+      "baseline_rank": 75,
+      "primary": "G_SQUARE_HARMONICS"
+    },
+    {
+      "date": "2026-07-02",
+      "fusion_rank": 2,
+      "baseline_rank": 42,
+      "primary": "G_SQUARE_HARMONICS"
+    },
+    {
+      "date": "2026-07-03",
+      "fusion_rank": 59,
+      "baseline_rank": 40,
+      "primary": "G_SQUARE_HARMONICS"
+    },
+    {
+      "date": "2026-07-04",
+      "fusion_rank": 91,
+      "baseline_rank": 79,
+      "primary": "G_SQUARE_HARMONICS"
+    },
+    {
+      "date": "2026-07-05",
+      "fusion_rank": 93,
+      "baseline_rank": 96,
+      "primary": "G_SQUARE_HARMONICS"
+    },
+    {
+      "date": "2026-07-06",
+      "fusion_rank": 82,
+      "baseline_rank": 65,
+      "primary": "G_SQUARE_HARMONICS"
+    },
+    {
+      "date": "2026-07-07",
+      "fusion_rank": 83,
+      "baseline_rank": 78,
+      "primary": "MODEL_F"
+    },
+    {
+      "date": "2026-07-08",
+      "fusion_rank": 96,
+      "baseline_rank": 94,
+      "primary": "MODEL_F"
+    },
+    {
+      "date": "2026-07-09",
+      "fusion_rank": 63,
+      "baseline_rank": 74,
+      "primary": "MODEL_F"
+    },
+    {
+      "date": "2026-07-10",
+      "fusion_rank": 67,
+      "baseline_rank": 55,
+      "primary": "MODEL_F"
+    },
+    {
+      "date": "2026-07-11",
+      "fusion_rank": 36,
+      "baseline_rank": 57,
+      "primary": "MODEL_F"
+    },
+    {
+      "date": "2026-07-12",
+      "fusion_rank": 44,
+      "baseline_rank": 35,
+      "primary": "MODEL_F"
+    },
+    {
+      "date": "2026-07-13",
+      "fusion_rank": 96,
+      "baseline_rank": 89,
+      "primary": "G_SQUARE_HARMONICS"
+    },
+    {
+      "date": "2026-07-14",
+      "fusion_rank": 30,
+      "baseline_rank": 23,
+      "primary": "G_SQUARE_HARMONICS"
+    },
+    {
+      "date": "2026-07-15",
+      "fusion_rank": 20,
+      "baseline_rank": 25,
+      "primary": "G_SQUARE_HARMONICS"
+    },
+    {
+      "date": "2026-07-16",
+      "fusion_rank": 40,
+      "baseline_rank": 33,
+      "primary": "G_SQUARE_HARMONICS+MODEL_F"
+    },
+    {
+      "date": "2026-07-17",
+      "fusion_rank": 62,
+      "baseline_rank": 57,
+      "primary": "G_SQUARE_HARMONICS+MODEL_F"
+    },
+    {
+      "date": "2026-07-18",
+      "fusion_rank": 82,
+      "baseline_rank": 75,
+      "primary": "G_SQUARE_HARMONICS+MODEL_F"
+    },
+    {
+      "date": "2026-07-19",
+      "fusion_rank": 28,
+      "baseline_rank": 34,
+      "primary": "G_SQUARE_HARMONICS+MODEL_F"
+    },
+    {
+      "date": "2026-07-20",
+      "fusion_rank": 68,
+      "baseline_rank": 62,
+      "primary": "G_SQUARE_HARMONICS+MODEL_F"
+    },
+    {
+      "date": "2026-07-21",
+      "fusion_rank": 91,
+      "baseline_rank": 92,
+      "primary": "G_SQUARE_HARMONICS+MODEL_F"
+    },
+    {
+      "date": "2026-07-22",
+      "fusion_rank": 77,
+      "baseline_rank": 72,
+      "primary": "G_SQUARE_HARMONICS+MODEL_F"
+    },
+    {
+      "date": "2026-07-23",
+      "fusion_rank": 18,
+      "baseline_rank": 21,
+      "primary": "G_SQUARE_HARMONICS+MODEL_F"
+    },
+    {
+      "date": "2026-07-24",
+      "fusion_rank": 86,
+      "baseline_rank": 90,
+      "primary": "G_SQUARE_HARMONICS+MODEL_F"
+    },
+    {
+      "date": "2026-07-25",
+      "fusion_rank": 27,
+      "baseline_rank": 35,
+      "primary": "G_SQUARE_HARMONICS+MODEL_F"
+    },
+    {
+      "date": "2026-07-26",
+      "fusion_rank": 95,
+      "baseline_rank": 92,
+      "primary": "G_SQUARE_HARMONICS+MODEL_F"
+    },
+    {
+      "date": "2026-07-27",
+      "fusion_rank": 31,
+      "baseline_rank": 18,
+      "primary": "MODEL_F"
+    },
+    {
+      "date": "2026-07-28",
+      "fusion_rank": 21,
+      "baseline_rank": 91,
+      "primary": "MODEL_F"
+    },
+    {
+      "date": "2026-07-29",
+      "fusion_rank": 45,
+      "baseline_rank": 35,
+      "primary": "MODEL_F"
+    },
+    {
+      "date": "2026-07-30",
+      "fusion_rank": 40,
+      "baseline_rank": 27,
+      "primary": "MODEL_F"
+    },
+    {
+      "date": "2026-08-01",
+      "fusion_rank": 65,
+      "baseline_rank": 39,
+      "primary": "TRANSITION_MARKOV"
+    },
+    {
+      "date": "2026-08-02",
+      "fusion_rank": 6,
+      "baseline_rank": 2,
+      "primary": "TRANSITION_MARKOV"
+    },
+    {
+      "date": "2026-08-03",
+      "fusion_rank": 81,
+      "baseline_rank": 62,
+      "primary": "TRANSITION_MARKOV"
+    },
+    {
+      "date": "2026-08-04",
+      "fusion_rank": 59,
+      "baseline_rank": 32,
+      "primary": "TRANSITION_MARKOV"
+    },
+    {
+      "date": "2026-08-05",
+      "fusion_rank": 42,
+      "baseline_rank": 93,
+      "primary": "TRANSITION_MARKOV"
+    },
+    {
+      "date": "2026-08-06",
+      "fusion_rank": 49,
+      "baseline_rank": 10,
+      "primary": "TRANSITION_MARKOV"
+    },
+    {
+      "date": "2026-08-07",
+      "fusion_rank": 61,
+      "baseline_rank": 86,
+      "primary": "TRANSITION_MARKOV"
+    },
+    {
+      "date": "2026-08-08",
+      "fusion_rank": 76,
+      "baseline_rank": 100,
+      "primary": "TRANSITION_MARKOV"
+    },
+    {
+      "date": "2026-08-09",
+      "fusion_rank": 48,
+      "baseline_rank": 17,
+      "primary": "TRANSITION_MARKOV"
+    },
+    {
+      "date": "2026-08-10",
+      "fusion_rank": 82,
+      "baseline_rank": 55,
+      "primary": "TRANSITION_MARKOV"
+    },
+    {
+      "date": "2026-08-11",
+      "fusion_rank": 60,
+      "baseline_rank": 63,
+      "primary": "TRANSITION_MARKOV"
+    },
+    {
+      "date": "2026-08-12",
+      "fusion_rank": 33,
+      "baseline_rank": 35,
+      "primary": "TRANSITION_MARKOV"
+    },
+    {
+      "date": "2026-08-13",
+      "fusion_rank": 59,
+      "baseline_rank": 21,
+      "primary": "TRANSITION_MARKOV"
+    },
+    {
+      "date": "2026-08-14",
+      "fusion_rank": 76,
+      "baseline_rank": 54,
+      "primary": "TRANSITION_MARKOV"
+    },
+    {
+      "date": "2026-08-15",
+      "fusion_rank": 17,
+      "baseline_rank": 4,
+      "primary": "TRANSITION_MARKOV"
+    },
+    {
+      "date": "2026-08-16",
+      "fusion_rank": 83,
+      "baseline_rank": 92,
+      "primary": "TRANSITION_MARKOV"
+    },
+    {
+      "date": "2026-08-17",
+      "fusion_rank": 52,
+      "baseline_rank": 77,
+      "primary": "TRANSITION_MARKOV"
+    },
+    {
+      "date": "2026-08-18",
+      "fusion_rank": 81,
+      "baseline_rank": 53,
+      "primary": "TRANSITION_MARKOV"
+    },
+    {
+      "date": "2026-08-19",
+      "fusion_rank": 83,
+      "baseline_rank": 65,
+      "primary": "TRANSITION_MARKOV"
+    },
+    {
+      "date": "2026-08-20",
+      "fusion_rank": 1,
+      "baseline_rank": 7,
+      "primary": "TRANSITION_MARKOV"
+    },
+    {
+      "date": "2026-08-21",
+      "fusion_rank": 84,
+      "baseline_rank": 68,
+      "primary": "TRANSITION_MARKOV"
+    },
+    {
+      "date": "2026-08-22",
+      "fusion_rank": 30,
+      "baseline_rank": 14,
+      "primary": "TRANSITION_MARKOV"
+    },
+    {
+      "date": "2026-08-23",
+      "fusion_rank": 5,
+      "baseline_rank": 93,
+      "primary": "TRANSITION_MARKOV"
+    },
+    {
+      "date": "2026-08-24",
+      "fusion_rank": 99,
+      "baseline_rank": 98,
+      "primary": "TRANSITION_MARKOV"
+    },
+    {
+      "date": "2026-08-25",
+      "fusion_rank": 12,
+      "baseline_rank": 3,
+      "primary": "TRANSITION_MARKOV"
+    },
+    {
+      "date": "2026-08-26",
+      "fusion_rank": 100,
+      "baseline_rank": 84,
+      "primary": "TRANSITION_MARKOV"
+    },
+    {
+      "date": "2026-08-27",
+      "fusion_rank": 91,
+      "baseline_rank": 95,
+      "primary": "TRANSITION_MARKOV"
+    },
+    {
+      "date": "2026-08-28",
+      "fusion_rank": 7,
+      "baseline_rank": 3,
+      "primary": "TRANSITION_MARKOV"
+    }
+  ],
+  "Gali": [
+    {
+      "date": "2026-02-13",
+      "fusion_rank": 100,
+      "baseline_rank": 89,
+      "primary": "G_SQUARE_HARMONICS"
+    },
+    {
+      "date": "2026-02-14",
+      "fusion_rank": 85,
+      "baseline_rank": 44,
+      "primary": "G_SQUARE_HARMONICS"
+    },
+    {
+      "date": "2026-02-15",
+      "fusion_rank": 58,
+      "baseline_rank": 44,
+      "primary": "G_SQUARE_HARMONICS"
+    },
+    {
+      "date": "2026-02-16",
+      "fusion_rank": 58,
+      "baseline_rank": 15,
+      "primary": "G_SQUARE_HARMONICS"
+    },
+    {
+      "date": "2026-02-17",
+      "fusion_rank": 41,
+      "baseline_rank": 7,
+      "primary": "G_SQUARE_HARMONICS"
+    },
+    {
+      "date": "2026-02-18",
+      "fusion_rank": 37,
+      "baseline_rank": 95,
+      "primary": "G_SQUARE_HARMONICS"
+    },
+    {
+      "date": "2026-02-19",
+      "fusion_rank": 1,
+      "baseline_rank": 9,
+      "primary": "G_SQUARE_HARMONICS"
+    },
+    {
+      "date": "2026-02-20",
+      "fusion_rank": 68,
+      "baseline_rank": 43,
+      "primary": "G_SQUARE_HARMONICS"
+    },
+    {
+      "date": "2026-02-21",
+      "fusion_rank": 27,
+      "baseline_rank": 6,
+      "primary": "G_SQUARE_HARMONICS"
+    },
+    {
+      "date": "2026-02-22",
+      "fusion_rank": 66,
+      "baseline_rank": 67,
+      "primary": "G_SQUARE_HARMONICS"
+    },
+    {
+      "date": "2026-02-23",
+      "fusion_rank": 86,
+      "baseline_rank": 72,
+      "primary": "G_SQUARE_HARMONICS"
+    },
+    {
+      "date": "2026-02-24",
+      "fusion_rank": 80,
+      "baseline_rank": 85,
+      "primary": "G_SQUARE_HARMONICS"
+    },
+    {
+      "date": "2026-02-25",
+      "fusion_rank": 37,
+      "baseline_rank": 19,
+      "primary": "G_SQUARE_HARMONICS"
+    },
+    {
+      "date": "2026-02-26",
+      "fusion_rank": 9,
+      "baseline_rank": 9,
+      "primary": "G_SQUARE_HARMONICS"
+    },
+    {
+      "date": "2026-02-27",
+      "fusion_rank": 95,
+      "baseline_rank": 84,
+      "primary": "G_SQUARE_HARMONICS"
+    },
+    {
+      "date": "2026-03-01",
+      "fusion_rank": 77,
+      "baseline_rank": 93,
+      "primary": "G_SQUARE_HARMONICS"
+    },
+    {
+      "date": "2026-03-02",
+      "fusion_rank": 53,
+      "baseline_rank": 49,
+      "primary": "G_SQUARE_HARMONICS"
+    },
+    {
+      "date": "2026-03-03",
+      "fusion_rank": 49,
+      "baseline_rank": 30,
+      "primary": "G_SQUARE_HARMONICS"
+    },
+    {
+      "date": "2026-03-04",
+      "fusion_rank": 93,
+      "baseline_rank": 91,
+      "primary": "G_SQUARE_HARMONICS"
+    },
+    {
+      "date": "2026-03-05",
+      "fusion_rank": 75,
+      "baseline_rank": 80,
+      "primary": "G_SQUARE_HARMONICS"
+    },
+    {
+      "date": "2026-03-06",
+      "fusion_rank": 20,
+      "baseline_rank": 4,
+      "primary": "G_SQUARE_HARMONICS"
+    },
+    {
+      "date": "2026-03-07",
+      "fusion_rank": 55,
+      "baseline_rank": 39,
+      "primary": "G_SQUARE_HARMONICS"
+    },
+    {
+      "date": "2026-03-08",
+      "fusion_rank": 66,
+      "baseline_rank": 60,
+      "primary": "G_SQUARE_HARMONICS"
+    },
+    {
+      "date": "2026-03-09",
+      "fusion_rank": 95,
+      "baseline_rank": 100,
+      "primary": "G_SQUARE_HARMONICS"
+    },
+    {
+      "date": "2026-03-10",
+      "fusion_rank": 83,
+      "baseline_rank": 76,
+      "primary": "G_SQUARE_HARMONICS"
+    },
+    {
+      "date": "2026-03-11",
+      "fusion_rank": 15,
+      "baseline_rank": 11,
+      "primary": "G_SQUARE_HARMONICS"
+    },
+    {
+      "date": "2026-03-12",
+      "fusion_rank": 42,
+      "baseline_rank": 40,
+      "primary": "G_SQUARE_HARMONICS"
+    },
+    {
+      "date": "2026-03-13",
+      "fusion_rank": 53,
+      "baseline_rank": 27,
+      "primary": "G_SQUARE_HARMONICS"
+    },
+    {
+      "date": "2026-03-14",
+      "fusion_rank": 80,
+      "baseline_rank": 83,
+      "primary": "G_SQUARE_HARMONICS"
+    },
+    {
+      "date": "2026-03-15",
+      "fusion_rank": 72,
+      "baseline_rank": 89,
+      "primary": "G_SQUARE_HARMONICS"
+    },
+    {
+      "date": "2026-03-16",
+      "fusion_rank": 39,
+      "baseline_rank": 13,
+      "primary": "G_SQUARE_HARMONICS"
+    },
+    {
+      "date": "2026-03-17",
+      "fusion_rank": 60,
+      "baseline_rank": 56,
+      "primary": "G_SQUARE_HARMONICS"
+    },
+    {
+      "date": "2026-03-18",
+      "fusion_rank": 96,
+      "baseline_rank": 83,
+      "primary": "G_SQUARE_HARMONICS"
+    },
+    {
+      "date": "2026-03-19",
+      "fusion_rank": 74,
+      "baseline_rank": 59,
+      "primary": "G_SQUARE_HARMONICS"
+    },
+    {
+      "date": "2026-03-20",
+      "fusion_rank": 47,
+      "baseline_rank": 86,
+      "primary": "G_SQUARE_HARMONICS"
+    },
+    {
+      "date": "2026-03-21",
+      "fusion_rank": 22,
+      "baseline_rank": 38,
+      "primary": "G_SQUARE_HARMONICS"
+    },
+    {
+      "date": "2026-03-22",
+      "fusion_rank": 91,
+      "baseline_rank": 72,
+      "primary": "DELTA_MATRIX"
+    },
+    {
+      "date": "2026-03-23",
+      "fusion_rank": 93,
+      "baseline_rank": 89,
+      "primary": "DELTA_MATRIX"
+    },
+    {
+      "date": "2026-03-24",
+      "fusion_rank": 28,
+      "baseline_rank": 84,
+      "primary": "DELTA_MATRIX"
+    },
+    {
+      "date": "2026-03-25",
+      "fusion_rank": 59,
+      "baseline_rank": 33,
+      "primary": "DELTA_MATRIX"
+    },
+    {
+      "date": "2026-03-26",
+      "fusion_rank": 59,
+      "baseline_rank": 70,
+      "primary": "DELTA_MATRIX"
+    },
+    {
+      "date": "2026-03-27",
+      "fusion_rank": 93,
+      "baseline_rank": 85,
+      "primary": "DELTA_MATRIX"
+    },
+    {
+      "date": "2026-03-28",
+      "fusion_rank": 44,
+      "baseline_rank": 30,
+      "primary": "DELTA_MATRIX"
+    },
+    {
+      "date": "2026-03-29",
+      "fusion_rank": 53,
+      "baseline_rank": 26,
+      "primary": "DELTA_MATRIX"
+    },
+    {
+      "date": "2026-03-30",
+      "fusion_rank": 25,
+      "baseline_rank": 42,
+      "primary": "DELTA_MATRIX"
+    },
+    {
+      "date": "2026-04-01",
+      "fusion_rank": 89,
+      "baseline_rank": 95,
+      "primary": "HARUF_PYRAMID"
+    },
+    {
+      "date": "2026-04-02",
+      "fusion_rank": 81,
+      "baseline_rank": 36,
+      "primary": "HARUF_PYRAMID"
+    },
+    {
+      "date": "2026-04-03",
+      "fusion_rank": 76,
+      "baseline_rank": 51,
+      "primary": "HARUF_PYRAMID"
+    },
+    {
+      "date": "2026-04-04",
+      "fusion_rank": 22,
+      "baseline_rank": 11,
+      "primary": "HARUF_PYRAMID"
+    },
+    {
+      "date": "2026-04-05",
+      "fusion_rank": 58,
+      "baseline_rank": 31,
+      "primary": "HARUF_PYRAMID"
+    },
+    {
+      "date": "2026-04-06",
+      "fusion_rank": 12,
+      "baseline_rank": 7,
+      "primary": "HARUF_PYRAMID"
+    },
+    {
+      "date": "2026-04-07",
+      "fusion_rank": 34,
+      "baseline_rank": 73,
+      "primary": "HARUF_PYRAMID"
+    },
+    {
+      "date": "2026-04-08",
+      "fusion_rank": 70,
+      "baseline_rank": 64,
+      "primary": "HARUF_PYRAMID"
+    },
+    {
+      "date": "2026-04-09",
+      "fusion_rank": 87,
+      "baseline_rank": 87,
+      "primary": "HARUF_PYRAMID"
+    },
+    {
+      "date": "2026-04-10",
+      "fusion_rank": 5,
+      "baseline_rank": 2,
+      "primary": "HARUF_PYRAMID"
+    },
+    {
+      "date": "2026-04-11",
+      "fusion_rank": 72,
+      "baseline_rank": 71,
+      "primary": "HARUF_PYRAMID"
+    },
+    {
+      "date": "2026-04-12",
+      "fusion_rank": 17,
+      "baseline_rank": 67,
+      "primary": "HARUF_PYRAMID"
+    },
+    {
+      "date": "2026-04-13",
+      "fusion_rank": 42,
+      "baseline_rank": 18,
+      "primary": "HARUF_PYRAMID"
+    },
+    {
+      "date": "2026-04-14",
+      "fusion_rank": 4,
+      "baseline_rank": 48,
+      "primary": "HARUF_PYRAMID"
+    },
+    {
+      "date": "2026-04-15",
+      "fusion_rank": 95,
+      "baseline_rank": 84,
+      "primary": "HARUF_PYRAMID"
+    },
+    {
+      "date": "2026-04-16",
+      "fusion_rank": 39,
+      "baseline_rank": 48,
+      "primary": "HARUF_PYRAMID"
+    },
+    {
+      "date": "2026-04-17",
+      "fusion_rank": 79,
+      "baseline_rank": 60,
+      "primary": "HARUF_PYRAMID"
+    },
+    {
+      "date": "2026-04-18",
+      "fusion_rank": 91,
+      "baseline_rank": 92,
+      "primary": "HARUF_PYRAMID"
+    },
+    {
+      "date": "2026-04-19",
+      "fusion_rank": 48,
+      "baseline_rank": 12,
+      "primary": "HARUF_PYRAMID"
+    },
+    {
+      "date": "2026-04-20",
+      "fusion_rank": 79,
+      "baseline_rank": 52,
+      "primary": "HARUF_PYRAMID"
+    },
+    {
+      "date": "2026-04-21",
+      "fusion_rank": 66,
+      "baseline_rank": 66,
+      "primary": "HARUF_PYRAMID"
+    },
+    {
+      "date": "2026-04-22",
+      "fusion_rank": 62,
+      "baseline_rank": 13,
+      "primary": "HARUF_PYRAMID"
+    },
+    {
+      "date": "2026-04-23",
+      "fusion_rank": 15,
+      "baseline_rank": 4,
+      "primary": "HARUF_PYRAMID"
+    },
+    {
+      "date": "2026-04-24",
+      "fusion_rank": 46,
+      "baseline_rank": 80,
+      "primary": "HARUF_PYRAMID"
+    },
+    {
+      "date": "2026-04-25",
+      "fusion_rank": 73,
+      "baseline_rank": 82,
+      "primary": "HARUF_PYRAMID"
+    },
+    {
+      "date": "2026-04-26",
+      "fusion_rank": 6,
+      "baseline_rank": 2,
+      "primary": "HARUF_PYRAMID"
+    },
+    {
+      "date": "2026-04-27",
+      "fusion_rank": 47,
+      "baseline_rank": 48,
+      "primary": "HARUF_PYRAMID"
+    },
+    {
+      "date": "2026-04-28",
+      "fusion_rank": 28,
+      "baseline_rank": 48,
+      "primary": "HARUF_PYRAMID"
+    },
+    {
+      "date": "2026-04-29",
+      "fusion_rank": 56,
+      "baseline_rank": 32,
+      "primary": "HARUF_PYRAMID"
+    },
+    {
+      "date": "2026-05-01",
+      "fusion_rank": 13,
+      "baseline_rank": 63,
+      "primary": "HARUF_PYRAMID"
+    },
+    {
+      "date": "2026-05-02",
+      "fusion_rank": 73,
+      "baseline_rank": 35,
+      "primary": "HARUF_PYRAMID"
+    },
+    {
+      "date": "2026-05-03",
+      "fusion_rank": 10,
+      "baseline_rank": 58,
+      "primary": "HARUF_PYRAMID"
+    },
+    {
+      "date": "2026-05-04",
+      "fusion_rank": 35,
+      "baseline_rank": 24,
+      "primary": "HARUF_PYRAMID"
+    },
+    {
+      "date": "2026-05-05",
+      "fusion_rank": 89,
+      "baseline_rank": 59,
+      "primary": "HARUF_PYRAMID"
+    },
+    {
+      "date": "2026-05-06",
+      "fusion_rank": 66,
+      "baseline_rank": 52,
+      "primary": "HARUF_PYRAMID"
+    },
+    {
+      "date": "2026-05-07",
+      "fusion_rank": 11,
+      "baseline_rank": 17,
+      "primary": "HARUF_PYRAMID"
+    },
+    {
+      "date": "2026-05-08",
+      "fusion_rank": 87,
+      "baseline_rank": 33,
+      "primary": "HARUF_PYRAMID"
+    },
+    {
+      "date": "2026-05-09",
+      "fusion_rank": 64,
+      "baseline_rank": 51,
+      "primary": "HARUF_PYRAMID"
+    },
+    {
+      "date": "2026-05-10",
+      "fusion_rank": 35,
+      "baseline_rank": 70,
+      "primary": "HARUF_PYRAMID"
+    },
+    {
+      "date": "2026-05-11",
+      "fusion_rank": 89,
+      "baseline_rank": 54,
+      "primary": "HARUF_PYRAMID"
+    },
+    {
+      "date": "2026-05-12",
+      "fusion_rank": 48,
+      "baseline_rank": 94,
+      "primary": "HARUF_PYRAMID"
+    },
+    {
+      "date": "2026-05-13",
+      "fusion_rank": 88,
+      "baseline_rank": 64,
+      "primary": "DATE_TRIAD"
+    },
+    {
+      "date": "2026-05-14",
+      "fusion_rank": 52,
+      "baseline_rank": 64,
+      "primary": "DATE_TRIAD"
+    },
+    {
+      "date": "2026-05-15",
+      "fusion_rank": 42,
+      "baseline_rank": 40,
+      "primary": "DATE_TRIAD"
+    },
+    {
+      "date": "2026-05-16",
+      "fusion_rank": 95,
+      "baseline_rank": 77,
+      "primary": "DATE_TRIAD"
+    },
+    {
+      "date": "2026-05-17",
+      "fusion_rank": 19,
+      "baseline_rank": 87,
+      "primary": "DATE_TRIAD"
+    },
+    {
+      "date": "2026-05-18",
+      "fusion_rank": 85,
+      "baseline_rank": 52,
+      "primary": "DATE_TRIAD"
+    },
+    {
+      "date": "2026-05-19",
+      "fusion_rank": 79,
+      "baseline_rank": 48,
+      "primary": "G_SQUARE_HARMONICS"
+    },
+    {
+      "date": "2026-05-20",
+      "fusion_rank": 49,
+      "baseline_rank": 44,
+      "primary": "G_SQUARE_HARMONICS"
+    },
+    {
+      "date": "2026-05-21",
+      "fusion_rank": 83,
+      "baseline_rank": 71,
+      "primary": "G_SQUARE_HARMONICS"
+    },
+    {
+      "date": "2026-05-22",
+      "fusion_rank": 41,
+      "baseline_rank": 59,
+      "primary": "G_SQUARE_HARMONICS"
+    },
+    {
+      "date": "2026-05-23",
+      "fusion_rank": 56,
+      "baseline_rank": 18,
+      "primary": "HARUF_PYRAMID"
+    },
+    {
+      "date": "2026-05-24",
+      "fusion_rank": 32,
+      "baseline_rank": 73,
+      "primary": "HARUF_PYRAMID"
+    },
+    {
+      "date": "2026-05-25",
+      "fusion_rank": 39,
+      "baseline_rank": 7,
+      "primary": "G_SQUARE_HARMONICS"
+    },
+    {
+      "date": "2026-05-26",
+      "fusion_rank": 7,
+      "baseline_rank": 12,
+      "primary": "G_SQUARE_HARMONICS"
+    },
+    {
+      "date": "2026-05-27",
+      "fusion_rank": 52,
+      "baseline_rank": 48,
+      "primary": "G_SQUARE_HARMONICS"
+    },
+    {
+      "date": "2026-05-28",
+      "fusion_rank": 52,
+      "baseline_rank": 15,
+      "primary": "G_SQUARE_HARMONICS"
+    },
+    {
+      "date": "2026-05-29",
+      "fusion_rank": 26,
+      "baseline_rank": 23,
+      "primary": "G_SQUARE_HARMONICS"
+    },
+    {
+      "date": "2026-05-30",
+      "fusion_rank": 81,
+      "baseline_rank": 89,
+      "primary": "G_SQUARE_HARMONICS"
+    },
+    {
+      "date": "2026-06-01",
+      "fusion_rank": 75,
+      "baseline_rank": 76,
+      "primary": "G_SQUARE_HARMONICS"
+    },
+    {
+      "date": "2026-06-02",
+      "fusion_rank": 60,
+      "baseline_rank": 66,
+      "primary": "G_SQUARE_HARMONICS"
+    },
+    {
+      "date": "2026-06-03",
+      "fusion_rank": 11,
+      "baseline_rank": 18,
+      "primary": "G_SQUARE_HARMONICS"
+    },
+    {
+      "date": "2026-06-04",
+      "fusion_rank": 44,
+      "baseline_rank": 37,
+      "primary": "G_SQUARE_HARMONICS"
+    },
+    {
+      "date": "2026-06-05",
+      "fusion_rank": 2,
+      "baseline_rank": 14,
+      "primary": "G_SQUARE_HARMONICS"
+    },
+    {
+      "date": "2026-06-06",
+      "fusion_rank": 5,
+      "baseline_rank": 80,
+      "primary": "G_SQUARE_HARMONICS"
+    },
+    {
+      "date": "2026-06-07",
+      "fusion_rank": 86,
+      "baseline_rank": 79,
+      "primary": "G_SQUARE_HARMONICS"
+    },
+    {
+      "date": "2026-06-08",
+      "fusion_rank": 11,
+      "baseline_rank": 85,
+      "primary": "G_SQUARE_HARMONICS"
+    },
+    {
+      "date": "2026-06-09",
+      "fusion_rank": 2,
+      "baseline_rank": 17,
+      "primary": "G_SQUARE_HARMONICS"
+    },
+    {
+      "date": "2026-06-10",
+      "fusion_rank": 48,
+      "baseline_rank": 34,
+      "primary": "G_SQUARE_HARMONICS"
+    },
+    {
+      "date": "2026-06-11",
+      "fusion_rank": 31,
+      "baseline_rank": 44,
+      "primary": "G_SQUARE"
+    },
+    {
+      "date": "2026-06-12",
+      "fusion_rank": 78,
+      "baseline_rank": 65,
+      "primary": "G_SQUARE"
+    },
+    {
+      "date": "2026-06-13",
+      "fusion_rank": 9,
+      "baseline_rank": 31,
+      "primary": "G_SQUARE"
+    },
+    {
+      "date": "2026-07-01",
+      "fusion_rank": 4,
+      "baseline_rank": 84,
+      "primary": "G_SQUARE"
+    },
+    {
+      "date": "2026-07-02",
+      "fusion_rank": 10,
+      "baseline_rank": 3,
+      "primary": "G_SQUARE"
+    },
+    {
+      "date": "2026-07-03",
+      "fusion_rank": 34,
+      "baseline_rank": 58,
+      "primary": "G_SQUARE"
+    },
+    {
+      "date": "2026-07-04",
+      "fusion_rank": 13,
+      "baseline_rank": 13,
+      "primary": "G_SQUARE"
+    },
+    {
+      "date": "2026-07-05",
+      "fusion_rank": 61,
+      "baseline_rank": 31,
+      "primary": "G_SQUARE"
+    },
+    {
+      "date": "2026-07-06",
+      "fusion_rank": 74,
+      "baseline_rank": 75,
+      "primary": "G_SQUARE"
+    },
+    {
+      "date": "2026-07-07",
+      "fusion_rank": 56,
+      "baseline_rank": 44,
+      "primary": "G_SQUARE"
+    },
+    {
+      "date": "2026-07-08",
+      "fusion_rank": 16,
+      "baseline_rank": 64,
+      "primary": "G_SQUARE"
+    },
+    {
+      "date": "2026-07-09",
+      "fusion_rank": 19,
+      "baseline_rank": 85,
+      "primary": "G_SQUARE"
+    },
+    {
+      "date": "2026-07-10",
+      "fusion_rank": 55,
+      "baseline_rank": 51,
+      "primary": "G_SQUARE"
+    },
+    {
+      "date": "2026-07-11",
+      "fusion_rank": 17,
+      "baseline_rank": 27,
+      "primary": "G_SQUARE"
+    },
+    {
+      "date": "2026-07-12",
+      "fusion_rank": 89,
+      "baseline_rank": 83,
+      "primary": "G_SQUARE"
+    },
+    {
+      "date": "2026-07-13",
+      "fusion_rank": 60,
+      "baseline_rank": 51,
+      "primary": "G_SQUARE"
+    },
+    {
+      "date": "2026-07-14",
+      "fusion_rank": 66,
+      "baseline_rank": 61,
+      "primary": "G_SQUARE"
+    },
+    {
+      "date": "2026-07-15",
+      "fusion_rank": 25,
+      "baseline_rank": 29,
+      "primary": "G_SQUARE"
+    },
+    {
+      "date": "2026-07-16",
+      "fusion_rank": 93,
+      "baseline_rank": 91,
+      "primary": "G_SQUARE"
+    },
+    {
+      "date": "2026-07-17",
+      "fusion_rank": 23,
+      "baseline_rank": 14,
+      "primary": "G_SQUARE"
+    },
+    {
+      "date": "2026-07-18",
+      "fusion_rank": 86,
+      "baseline_rank": 88,
+      "primary": "G_SQUARE"
+    },
+    {
+      "date": "2026-07-19",
+      "fusion_rank": 30,
+      "baseline_rank": 64,
+      "primary": "G_SQUARE"
+    },
+    {
+      "date": "2026-07-20",
+      "fusion_rank": 69,
+      "baseline_rank": 5,
+      "primary": "RASHI_FAMILY"
+    },
+    {
+      "date": "2026-07-21",
+      "fusion_rank": 2,
+      "baseline_rank": 37,
+      "primary": "RASHI_FAMILY"
+    },
+    {
+      "date": "2026-07-22",
+      "fusion_rank": 66,
+      "baseline_rank": 45,
+      "primary": "RASHI_FAMILY"
+    },
+    {
+      "date": "2026-07-23",
+      "fusion_rank": 65,
+      "baseline_rank": 63,
+      "primary": "G_SQUARE"
+    },
+    {
+      "date": "2026-07-24",
+      "fusion_rank": 88,
+      "baseline_rank": 90,
+      "primary": "G_SQUARE"
+    },
+    {
+      "date": "2026-07-25",
+      "fusion_rank": 27,
+      "baseline_rank": 85,
+      "primary": "HARUF_PYRAMID"
+    },
+    {
+      "date": "2026-07-27",
+      "fusion_rank": 13,
+      "baseline_rank": 6,
+      "primary": "MODEL_F"
+    },
+    {
+      "date": "2026-07-28",
+      "fusion_rank": 11,
+      "baseline_rank": 25,
+      "primary": "MODEL_F"
+    },
+    {
+      "date": "2026-07-29",
+      "fusion_rank": 35,
+      "baseline_rank": 29,
+      "primary": "RASHI_FAMILY"
+    },
+    {
+      "date": "2026-07-30",
+      "fusion_rank": 46,
+      "baseline_rank": 48,
+      "primary": "RASHI_FAMILY"
+    },
+    {
+      "date": "2026-08-01",
+      "fusion_rank": 95,
+      "baseline_rank": 98,
+      "primary": "RASHI_FAMILY"
+    },
+    {
+      "date": "2026-08-02",
+      "fusion_rank": 39,
+      "baseline_rank": 20,
+      "primary": "RASHI_FAMILY"
+    },
+    {
+      "date": "2026-08-03",
+      "fusion_rank": 57,
+      "baseline_rank": 29,
+      "primary": "RASHI_FAMILY"
+    },
+    {
+      "date": "2026-08-04",
+      "fusion_rank": 8,
+      "baseline_rank": 4,
+      "primary": "RASHI_FAMILY"
+    },
+    {
+      "date": "2026-08-05",
+      "fusion_rank": 80,
+      "baseline_rank": 87,
+      "primary": "DATE_TRIAD+PREVIOUS_DAY"
+    },
+    {
+      "date": "2026-08-06",
+      "fusion_rank": 35,
+      "baseline_rank": 83,
+      "primary": "DATE_TRIAD+PREVIOUS_DAY"
+    },
+    {
+      "date": "2026-08-07",
+      "fusion_rank": 30,
+      "baseline_rank": 19,
+      "primary": "DATE_TRIAD+PREVIOUS_DAY"
+    },
+    {
+      "date": "2026-08-08",
+      "fusion_rank": 88,
+      "baseline_rank": 94,
+      "primary": "DATE_TRIAD+PREVIOUS_DAY"
+    },
+    {
+      "date": "2026-08-09",
+      "fusion_rank": 51,
+      "baseline_rank": 98,
+      "primary": "DATE_TRIAD+PREVIOUS_DAY"
+    },
+    {
+      "date": "2026-08-10",
+      "fusion_rank": 14,
+      "baseline_rank": 66,
+      "primary": "DATE_TRIAD+PREVIOUS_DAY"
+    },
+    {
+      "date": "2026-08-11",
+      "fusion_rank": 98,
+      "baseline_rank": 95,
+      "primary": "DATE_TRIAD+HARUF_PYRAMID"
+    },
+    {
+      "date": "2026-08-12",
+      "fusion_rank": 63,
+      "baseline_rank": 67,
+      "primary": "DATE_TRIAD+HARUF_PYRAMID"
+    },
+    {
+      "date": "2026-08-13",
+      "fusion_rank": 14,
+      "baseline_rank": 15,
+      "primary": "DATE_TRIAD+HARUF_PYRAMID"
+    },
+    {
+      "date": "2026-08-14",
+      "fusion_rank": 53,
+      "baseline_rank": 83,
+      "primary": "DATE_TRIAD+HARUF_PYRAMID"
+    },
+    {
+      "date": "2026-08-15",
+      "fusion_rank": 25,
+      "baseline_rank": 78,
+      "primary": "DATE_TRIAD+HARUF_PYRAMID"
+    },
+    {
+      "date": "2026-08-16",
+      "fusion_rank": 71,
+      "baseline_rank": 73,
+      "primary": "DATE_TRIAD+HARUF_PYRAMID"
+    },
+    {
+      "date": "2026-08-17",
+      "fusion_rank": 36,
+      "baseline_rank": 43,
+      "primary": "DATE_TRIAD+HARUF_PYRAMID"
+    },
+    {
+      "date": "2026-08-18",
+      "fusion_rank": 97,
+      "baseline_rank": 96,
+      "primary": "DATE_TRIAD+HARUF_PYRAMID"
+    },
+    {
+      "date": "2026-08-19",
+      "fusion_rank": 82,
+      "baseline_rank": 61,
+      "primary": "ECHO_7"
+    },
+    {
+      "date": "2026-08-20",
+      "fusion_rank": 63,
+      "baseline_rank": 57,
+      "primary": "ECHO_7"
+    },
+    {
+      "date": "2026-08-21",
+      "fusion_rank": 51,
+      "baseline_rank": 41,
+      "primary": "ECHO_7"
+    },
+    {
+      "date": "2026-08-22",
+      "fusion_rank": 88,
+      "baseline_rank": 85,
+      "primary": "ECHO_7"
+    },
+    {
+      "date": "2026-08-23",
+      "fusion_rank": 91,
+      "baseline_rank": 86,
+      "primary": "ECHO_7"
+    },
+    {
+      "date": "2026-08-24",
+      "fusion_rank": 25,
+      "baseline_rank": 4,
+      "primary": "ECHO_7"
+    },
+    {
+      "date": "2026-08-25",
+      "fusion_rank": 91,
+      "baseline_rank": 91,
+      "primary": "ECHO_7"
+    },
+    {
+      "date": "2026-08-26",
+      "fusion_rank": 92,
+      "baseline_rank": 79,
+      "primary": "ECHO_7"
+    },
+    {
+      "date": "2026-08-27",
+      "fusion_rank": 76,
+      "baseline_rank": 65,
+      "primary": "ECHO_7"
+    },
+    {
+      "date": "2026-08-28",
+      "fusion_rank": 92,
+      "baseline_rank": 87,
+      "primary": "ECHO_7"
+    }
+  ]
+}

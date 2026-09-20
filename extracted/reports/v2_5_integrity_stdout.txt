@@ -1,0 +1,6 @@
+{
+  "checked_targets": 761,
+  "policy_records": 208,
+  "issues": [],
+  "pass": true
+}

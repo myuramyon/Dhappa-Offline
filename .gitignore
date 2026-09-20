@@ -1,0 +1,6 @@
+extracted/__pycache__/
+extracted/dhappa/__pycache__/
+extracted/data/backups/
+extracted/logs/*.jsonl
+extracted/*.pyc
+extracted/**/*.pyc

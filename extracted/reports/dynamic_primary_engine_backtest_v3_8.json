@@ -1,0 +1,53 @@
+{
+  "model": "v3.8 Rank-5 Boundary Dataset Expansion + OOS Replay",
+  "house_metrics": {
+    "Deshawar": {
+      "targets": 172,
+      "baseline_top5_pct": 8.14,
+      "oos_top5_pct": 8.14,
+      "baseline_top10_pct": 11.05,
+      "oos_top10_pct": 11.05,
+      "baseline_mrr": 0.0598,
+      "oos_mrr": 0.0598,
+      "oos_interventions": 0,
+      "realized_rescues": 0,
+      "realized_damages": 0
+    },
+    "Faridabad": {
+      "targets": 177,
+      "baseline_top5_pct": 5.65,
+      "oos_top5_pct": 5.65,
+      "baseline_top10_pct": 12.99,
+      "oos_top10_pct": 12.99,
+      "baseline_mrr": 0.0599,
+      "oos_mrr": 0.0599,
+      "oos_interventions": 0,
+      "realized_rescues": 0,
+      "realized_damages": 0
+    },
+    "Ghaziabad": {
+      "targets": 176,
+      "baseline_top5_pct": 5.68,
+      "oos_top5_pct": 5.68,
+      "baseline_top10_pct": 11.93,
+      "oos_top10_pct": 11.93,
+      "baseline_mrr": 0.0505,
+      "oos_mrr": 0.0505,
+      "oos_interventions": 0,
+      "realized_rescues": 0,
+      "realized_damages": 0
+    },
+    "Gali": {
+      "targets": 174,
+      "baseline_top5_pct": 4.6,
+      "oos_top5_pct": 4.6,
+      "baseline_top10_pct": 8.62,
+      "oos_top10_pct": 8.62,
+      "baseline_mrr": 0.0426,
+      "oos_mrr": 0.0426,
+      "oos_interventions": 0,
+      "realized_rescues": 0,
+      "realized_damages": 0
+    }
+  }
+}

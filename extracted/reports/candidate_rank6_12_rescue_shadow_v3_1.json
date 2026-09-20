@@ -1,0 +1,4314 @@
+{
+  "Faridabad": [
+    {
+      "date": "2026-02-14",
+      "baseline_rank": 32,
+      "rescue_rank": 32,
+      "incumbent": "94",
+      "challenger": "04",
+      "margin": 0.14558742836744432
+    },
+    {
+      "date": "2026-02-15",
+      "baseline_rank": 40,
+      "rescue_rank": 40,
+      "incumbent": "90",
+      "challenger": "22",
+      "margin": 0.45740665914860845
+    },
+    {
+      "date": "2026-02-16",
+      "baseline_rank": 9,
+      "rescue_rank": 9,
+      "incumbent": "54",
+      "challenger": "11",
+      "margin": 0.2021107842255534
+    },
+    {
+      "date": "2026-02-17",
+      "baseline_rank": 43,
+      "rescue_rank": 43,
+      "incumbent": "51",
+      "challenger": "54",
+      "margin": 0.06599141063556635
+    },
+    {
+      "date": "2026-02-18",
+      "baseline_rank": 49,
+      "rescue_rank": 49,
+      "incumbent": "43",
+      "challenger": "36",
+      "margin": 0.4862799596425402
+    },
+    {
+      "date": "2026-02-20",
+      "baseline_rank": 88,
+      "rescue_rank": 88,
+      "incumbent": "30",
+      "challenger": "01",
+      "margin": 0.442326986997438
+    },
+    {
+      "date": "2026-02-22",
+      "baseline_rank": 94,
+      "rescue_rank": 94,
+      "incumbent": "30",
+      "challenger": "00",
+      "margin": 0.06781381371549033
+    },
+    {
+      "date": "2026-02-23",
+      "baseline_rank": 8,
+      "rescue_rank": 8,
+      "incumbent": "54",
+      "challenger": "55",
+      "margin": 0.33655389618530274
+    },
+    {
+      "date": "2026-02-25",
+      "baseline_rank": 84,
+      "rescue_rank": 84,
+      "incumbent": "92",
+      "challenger": "12",
+      "margin": 0.7445614820025166
+    },
+    {
+      "date": "2026-02-26",
+      "baseline_rank": 100,
+      "rescue_rank": 100,
+      "incumbent": "29",
+      "challenger": "07",
+      "margin": 0.11260863502355098
+    },
+    {
+      "date": "2026-02-27",
+      "baseline_rank": 76,
+      "rescue_rank": 76,
+      "incumbent": "57",
+      "challenger": "00",
+      "margin": 0.31523464242894017
+    },
+    {
+      "date": "2026-03-01",
+      "baseline_rank": 12,
+      "rescue_rank": 12,
+      "incumbent": "35",
+      "challenger": "00",
+      "margin": 0.13416209888752456
+    },
+    {
+      "date": "2026-03-02",
+      "baseline_rank": 92,
+      "rescue_rank": 92,
+      "incumbent": "72",
+      "challenger": "02",
+      "margin": 0.3881139161617465
+    },
+    {
+      "date": "2026-03-03",
+      "baseline_rank": 16,
+      "rescue_rank": 16,
+      "incumbent": "54",
+      "challenger": "00",
+      "margin": 0.653704993354023
+    },
+    {
+      "date": "2026-03-04",
+      "baseline_rank": 9,
+      "rescue_rank": 9,
+      "incumbent": "68",
+      "challenger": "00",
+      "margin": 0.19155204567540732
+    },
+    {
+      "date": "2026-03-05",
+      "baseline_rank": 17,
+      "rescue_rank": 17,
+      "incumbent": "97",
+      "challenger": "00",
+      "margin": 0.46002648727189704
+    },
+    {
+      "date": "2026-03-06",
+      "baseline_rank": 45,
+      "rescue_rank": 45,
+      "incumbent": "75",
+      "challenger": "00",
+      "margin": 0.17350354288724767
+    },
+    {
+      "date": "2026-03-07",
+      "baseline_rank": 66,
+      "rescue_rank": 66,
+      "incumbent": "90",
+      "challenger": "99",
+      "margin": 0.3961245208388068
+    },
+    {
+      "date": "2026-03-08",
+      "baseline_rank": 36,
+      "rescue_rank": 36,
+      "incumbent": "54",
+      "challenger": "02",
+      "margin": 0.48473096063750576
+    },
+    {
+      "date": "2026-03-09",
+      "baseline_rank": 53,
+      "rescue_rank": 53,
+      "incumbent": "48",
+      "challenger": "68",
+      "margin": 0.0798731452924259
+    },
+    {
+      "date": "2026-03-10",
+      "baseline_rank": 80,
+      "rescue_rank": 80,
+      "incumbent": "42",
+      "challenger": "00",
+      "margin": 0.0800356648349585
+    },
+    {
+      "date": "2026-03-11",
+      "baseline_rank": 39,
+      "rescue_rank": 39,
+      "incumbent": "45",
+      "challenger": "46",
+      "margin": 0.18382624997767497
+    },
+    {
+      "date": "2026-03-12",
+      "baseline_rank": 91,
+      "rescue_rank": 91,
+      "incumbent": "57",
+      "challenger": "00",
+      "margin": 0.13028765708528145
+    },
+    {
+      "date": "2026-03-13",
+      "baseline_rank": 55,
+      "rescue_rank": 55,
+      "incumbent": "45",
+      "challenger": "00",
+      "margin": 0.1346921823729492
+    },
+    {
+      "date": "2026-03-15",
+      "baseline_rank": 46,
+      "rescue_rank": 46,
+      "incumbent": "47",
+      "challenger": "02",
+      "margin": 0.2556919160331699
+    },
+    {
+      "date": "2026-03-16",
+      "baseline_rank": 74,
+      "rescue_rank": 74,
+      "incumbent": "69",
+      "challenger": "00",
+      "margin": 0.05879476040030135
+    },
+    {
+      "date": "2026-03-17",
+      "baseline_rank": 62,
+      "rescue_rank": 62,
+      "incumbent": "17",
+      "challenger": "00",
+      "margin": 0.3256468666056166
+    },
+    {
+      "date": "2026-03-18",
+      "baseline_rank": 91,
+      "rescue_rank": 91,
+      "incumbent": "84",
+      "challenger": "02",
+      "margin": 0.09285320243945178
+    },
+    {
+      "date": "2026-03-19",
+      "baseline_rank": 88,
+      "rescue_rank": 88,
+      "incumbent": "47",
+      "challenger": "00",
+      "margin": 0.13866709739199126
+    },
+    {
+      "date": "2026-03-20",
+      "baseline_rank": 1,
+      "rescue_rank": 1,
+      "incumbent": "61",
+      "challenger": "00",
+      "margin": 0.1168502873168498
+    },
+    {
+      "date": "2026-03-21",
+      "baseline_rank": 51,
+      "rescue_rank": 51,
+      "incumbent": "30",
+      "challenger": "00",
+      "margin": 0.05924520839700878
+    },
+    {
+      "date": "2026-03-25",
+      "baseline_rank": 53,
+      "rescue_rank": 53,
+      "incumbent": "53",
+      "challenger": "02",
+      "margin": 0.0379257314416995
+    },
+    {
+      "date": "2026-03-26",
+      "baseline_rank": 46,
+      "rescue_rank": 46,
+      "incumbent": "86",
+      "challenger": "01",
+      "margin": 0.04797214235645686
+    },
+    {
+      "date": "2026-03-28",
+      "baseline_rank": 40,
+      "rescue_rank": 40,
+      "incumbent": "69",
+      "challenger": "02",
+      "margin": 0.06926237542642807
+    },
+    {
+      "date": "2026-04-01",
+      "baseline_rank": 39,
+      "rescue_rank": 39,
+      "incumbent": "86",
+      "challenger": "00",
+      "margin": 0.3408099764220454
+    },
+    {
+      "date": "2026-04-02",
+      "baseline_rank": 37,
+      "rescue_rank": 37,
+      "incumbent": "40",
+      "challenger": "00",
+      "margin": 0.1896721836929287
+    },
+    {
+      "date": "2026-04-04",
+      "baseline_rank": 60,
+      "rescue_rank": 60,
+      "incumbent": "01",
+      "challenger": "04",
+      "margin": 0.05171437508749405
+    },
+    {
+      "date": "2026-04-07",
+      "baseline_rank": 42,
+      "rescue_rank": 42,
+      "incumbent": "53",
+      "challenger": "33",
+      "margin": 0.1922958914739745
+    },
+    {
+      "date": "2026-04-08",
+      "baseline_rank": 70,
+      "rescue_rank": 70,
+      "incumbent": "46",
+      "challenger": "59",
+      "margin": 0.2825946475445222
+    },
+    {
+      "date": "2026-04-09",
+      "baseline_rank": 81,
+      "rescue_rank": 81,
+      "incumbent": "83",
+      "challenger": "35",
+      "margin": 0.24728925436799215
+    },
+    {
+      "date": "2026-04-10",
+      "baseline_rank": 10,
+      "rescue_rank": 10,
+      "incumbent": "95",
+      "challenger": "39",
+      "margin": 0.32441980929723546
+    },
+    {
+      "date": "2026-04-11",
+      "baseline_rank": 73,
+      "rescue_rank": 73,
+      "incumbent": "93",
+      "challenger": "91",
+      "margin": 0.18071378437225147
+    },
+    {
+      "date": "2026-04-12",
+      "baseline_rank": 38,
+      "rescue_rank": 38,
+      "incumbent": "97",
+      "challenger": "59",
+      "margin": 0.15540449858695737
+    },
+    {
+      "date": "2026-04-14",
+      "baseline_rank": 75,
+      "rescue_rank": 75,
+      "incumbent": "23",
+      "challenger": "88",
+      "margin": 0.31878282001946767
+    },
+    {
+      "date": "2026-04-15",
+      "baseline_rank": 79,
+      "rescue_rank": 79,
+      "incumbent": "88",
+      "challenger": "75",
+      "margin": 0.19107477798064304
+    },
+    {
+      "date": "2026-04-16",
+      "baseline_rank": 18,
+      "rescue_rank": 18,
+      "incumbent": "93",
+      "challenger": "33",
+      "margin": 0.7453903093123377
+    },
+    {
+      "date": "2026-04-18",
+      "baseline_rank": 52,
+      "rescue_rank": 52,
+      "incumbent": "62",
+      "challenger": "33",
+      "margin": 0.18542100051707405
+    },
+    {
+      "date": "2026-04-19",
+      "baseline_rank": 27,
+      "rescue_rank": 27,
+      "incumbent": "43",
+      "challenger": "04",
+      "margin": 0.39784597101676855
+    },
+    {
+      "date": "2026-04-20",
+      "baseline_rank": 8,
+      "rescue_rank": 8,
+      "incumbent": "40",
+      "challenger": "44",
+      "margin": 0.9254056657809495
+    },
+    {
+      "date": "2026-04-22",
+      "baseline_rank": 9,
+      "rescue_rank": 9,
+      "incumbent": "65",
+      "challenger": "64",
+      "margin": 0.6487811424434933
+    },
+    {
+      "date": "2026-04-23",
+      "baseline_rank": 34,
+      "rescue_rank": 34,
+      "incumbent": "57",
+      "challenger": "60",
+      "margin": 0.9878922701423147
+    },
+    {
+      "date": "2026-04-24",
+      "baseline_rank": 92,
+      "rescue_rank": 92,
+      "incumbent": "77",
+      "challenger": "64",
+      "margin": 0.2569469951608547
+    },
+    {
+      "date": "2026-04-25",
+      "baseline_rank": 55,
+      "rescue_rank": 55,
+      "incumbent": "66",
+      "challenger": "60",
+      "margin": 0.0612080794643875
+    },
+    {
+      "date": "2026-04-26",
+      "baseline_rank": 67,
+      "rescue_rank": 67,
+      "incumbent": "70",
+      "challenger": "04",
+      "margin": 0.6614363984887865
+    },
+    {
+      "date": "2026-04-27",
+      "baseline_rank": 38,
+      "rescue_rank": 38,
+      "incumbent": "14",
+      "challenger": "64",
+      "margin": 0.20064539129785908
+    },
+    {
+      "date": "2026-04-28",
+      "baseline_rank": 29,
+      "rescue_rank": 29,
+      "incumbent": "66",
+      "challenger": "59",
+      "margin": 0.18982202526550912
+    },
+    {
+      "date": "2026-04-29",
+      "baseline_rank": 76,
+      "rescue_rank": 76,
+      "incumbent": "56",
+      "challenger": "15",
+      "margin": 0.12371300500879456
+    },
+    {
+      "date": "2026-05-01",
+      "baseline_rank": 21,
+      "rescue_rank": 21,
+      "incumbent": "67",
+      "challenger": "65",
+      "margin": 0.1950192846784116
+    },
+    {
+      "date": "2026-05-02",
+      "baseline_rank": 29,
+      "rescue_rank": 29,
+      "incumbent": "47",
+      "challenger": "66",
+      "margin": 0.18329494075974495
+    },
+    {
+      "date": "2026-05-03",
+      "baseline_rank": 38,
+      "rescue_rank": 38,
+      "incumbent": "71",
+      "challenger": "44",
+      "margin": 0.6421699596723474
+    },
+    {
+      "date": "2026-05-04",
+      "baseline_rank": 75,
+      "rescue_rank": 75,
+      "incumbent": "41",
+      "challenger": "31",
+      "margin": 0.51975966201809
+    },
+    {
+      "date": "2026-05-05",
+      "baseline_rank": 88,
+      "rescue_rank": 88,
+      "incumbent": "45",
+      "challenger": "84",
+      "margin": 0.3872312125051987
+    },
+    {
+      "date": "2026-05-06",
+      "baseline_rank": 69,
+      "rescue_rank": 69,
+      "incumbent": "81",
+      "challenger": "33",
+      "margin": 0.09151986717300836
+    },
+    {
+      "date": "2026-05-09",
+      "baseline_rank": 43,
+      "rescue_rank": 43,
+      "incumbent": "83",
+      "challenger": "88",
+      "margin": 0.4004996740861292
+    },
+    {
+      "date": "2026-05-10",
+      "baseline_rank": 15,
+      "rescue_rank": 15,
+      "incumbent": "40",
+      "challenger": "00",
+      "margin": 0.28604258476823324
+    },
+    {
+      "date": "2026-05-11",
+      "baseline_rank": 83,
+      "rescue_rank": 83,
+      "incumbent": "41",
+      "challenger": "66",
+      "margin": 0.5443227004891849
+    },
+    {
+      "date": "2026-05-12",
+      "baseline_rank": 2,
+      "rescue_rank": 2,
+      "incumbent": "29",
+      "challenger": "24",
+      "margin": 0.1900986391680891
+    },
+    {
+      "date": "2026-05-13",
+      "baseline_rank": 11,
+      "rescue_rank": 11,
+      "incumbent": "14",
+      "challenger": "74",
+      "margin": 0.20252252033869578
+    },
+    {
+      "date": "2026-05-17",
+      "baseline_rank": 80,
+      "rescue_rank": 80,
+      "incumbent": "20",
+      "challenger": "01",
+      "margin": 0.054917170364260415
+    },
+    {
+      "date": "2026-05-19",
+      "baseline_rank": 58,
+      "rescue_rank": 58,
+      "incumbent": "07",
+      "challenger": "13",
+      "margin": 0.6689141266910045
+    },
+    {
+      "date": "2026-05-21",
+      "baseline_rank": 83,
+      "rescue_rank": 83,
+      "incumbent": "98",
+      "challenger": "69",
+      "margin": 0.4924133982837285
+    },
+    {
+      "date": "2026-05-22",
+      "baseline_rank": 4,
+      "rescue_rank": 4,
+      "incumbent": "06",
+      "challenger": "09",
+      "margin": 0.04920828339330657
+    },
+    {
+      "date": "2026-05-26",
+      "baseline_rank": 7,
+      "rescue_rank": 7,
+      "incumbent": "10",
+      "challenger": "01",
+      "margin": 0.2587551073782488
+    },
+    {
+      "date": "2026-05-28",
+      "baseline_rank": 34,
+      "rescue_rank": 34,
+      "incumbent": "42",
+      "challenger": "69",
+      "margin": 0.13213855601628105
+    },
+    {
+      "date": "2026-05-29",
+      "baseline_rank": 78,
+      "rescue_rank": 78,
+      "incumbent": "53",
+      "challenger": "77",
+      "margin": 0.6737224590619487
+    },
+    {
+      "date": "2026-05-30",
+      "baseline_rank": 52,
+      "rescue_rank": 52,
+      "incumbent": "64",
+      "challenger": "00",
+      "margin": 0.7069146649721685
+    },
+    {
+      "date": "2026-06-01",
+      "baseline_rank": 14,
+      "rescue_rank": 14,
+      "incumbent": "86",
+      "challenger": "00",
+      "margin": 0.7725254784721158
+    },
+    {
+      "date": "2026-06-02",
+      "baseline_rank": 11,
+      "rescue_rank": 11,
+      "incumbent": "79",
+      "challenger": "02",
+      "margin": 0.3230047784084217
+    },
+    {
+      "date": "2026-06-03",
+      "baseline_rank": 71,
+      "rescue_rank": 71,
+      "incumbent": "69",
+      "challenger": "48",
+      "margin": 0.15740604211069625
+    },
+    {
+      "date": "2026-06-04",
+      "baseline_rank": 10,
+      "rescue_rank": 10,
+      "incumbent": "90",
+      "challenger": "01",
+      "margin": 0.32986209769274155
+    },
+    {
+      "date": "2026-06-07",
+      "baseline_rank": 2,
+      "rescue_rank": 2,
+      "incumbent": "68",
+      "challenger": "42",
+      "margin": 0.09835433857504233
+    },
+    {
+      "date": "2026-06-08",
+      "baseline_rank": 18,
+      "rescue_rank": 18,
+      "incumbent": "53",
+      "challenger": "88",
+      "margin": 0.5302495850752831
+    },
+    {
+      "date": "2026-06-10",
+      "baseline_rank": 57,
+      "rescue_rank": 57,
+      "incumbent": "33",
+      "challenger": "35",
+      "margin": 0.5873674343772051
+    },
+    {
+      "date": "2026-06-11",
+      "baseline_rank": 8,
+      "rescue_rank": 8,
+      "incumbent": "38",
+      "challenger": "35",
+      "margin": 0.515455695325967
+    },
+    {
+      "date": "2026-06-14",
+      "baseline_rank": 36,
+      "rescue_rank": 36,
+      "incumbent": "18",
+      "challenger": "58",
+      "margin": 0.6445580106606091
+    },
+    {
+      "date": "2026-07-01",
+      "baseline_rank": 6,
+      "rescue_rank": 6,
+      "incumbent": "91",
+      "challenger": "11",
+      "margin": 0.4141579252422326
+    },
+    {
+      "date": "2026-07-06",
+      "baseline_rank": 59,
+      "rescue_rank": 59,
+      "incumbent": "25",
+      "challenger": "21",
+      "margin": 0.07526175931907964
+    },
+    {
+      "date": "2026-07-07",
+      "baseline_rank": 15,
+      "rescue_rank": 15,
+      "incumbent": "70",
+      "challenger": "22",
+      "margin": 0.0638467245873594
+    },
+    {
+      "date": "2026-07-08",
+      "baseline_rank": 4,
+      "rescue_rank": 4,
+      "incumbent": "80",
+      "challenger": "00",
+      "margin": 0.25142883098844854
+    },
+    {
+      "date": "2026-07-10",
+      "baseline_rank": 91,
+      "rescue_rank": 91,
+      "incumbent": "86",
+      "challenger": "68",
+      "margin": 0.1465383801183079
+    },
+    {
+      "date": "2026-07-11",
+      "baseline_rank": 28,
+      "rescue_rank": 28,
+      "incumbent": "39",
+      "challenger": "13",
+      "margin": 0.09894728071392866
+    },
+    {
+      "date": "2026-07-12",
+      "baseline_rank": 15,
+      "rescue_rank": 15,
+      "incumbent": "93",
+      "challenger": "85",
+      "margin": 0.05784220052970923
+    },
+    {
+      "date": "2026-07-13",
+      "baseline_rank": 11,
+      "rescue_rank": 4,
+      "incumbent": "90",
+      "challenger": "05",
+      "margin": 0.2891358988463228
+    },
+    {
+      "date": "2026-07-14",
+      "baseline_rank": 94,
+      "rescue_rank": 94,
+      "incumbent": "20",
+      "challenger": "19",
+      "margin": 0.6779161176381052
+    },
+    {
+      "date": "2026-07-15",
+      "baseline_rank": 65,
+      "rescue_rank": 65,
+      "incumbent": "94",
+      "challenger": "00",
+      "margin": 0.2631138644781355
+    },
+    {
+      "date": "2026-07-16",
+      "baseline_rank": 25,
+      "rescue_rank": 25,
+      "incumbent": "42",
+      "challenger": "66",
+      "margin": 0.21497286686364714
+    },
+    {
+      "date": "2026-07-17",
+      "baseline_rank": 39,
+      "rescue_rank": 39,
+      "incumbent": "53",
+      "challenger": "01",
+      "margin": 0.3771713108191754
+    },
+    {
+      "date": "2026-07-18",
+      "baseline_rank": 17,
+      "rescue_rank": 17,
+      "incumbent": "64",
+      "challenger": "00",
+      "margin": 0.6639346316512399
+    },
+    {
+      "date": "2026-07-19",
+      "baseline_rank": 85,
+      "rescue_rank": 85,
+      "incumbent": "57",
+      "challenger": "00",
+      "margin": 0.31848109993638
+    },
+    {
+      "date": "2026-07-20",
+      "baseline_rank": 55,
+      "rescue_rank": 55,
+      "incumbent": "90",
+      "challenger": "13",
+      "margin": 0.604397291263211
+    },
+    {
+      "date": "2026-07-21",
+      "baseline_rank": 17,
+      "rescue_rank": 17,
+      "incumbent": "97",
+      "challenger": "02",
+      "margin": 0.06561322439647715
+    },
+    {
+      "date": "2026-07-22",
+      "baseline_rank": 42,
+      "rescue_rank": 42,
+      "incumbent": "69",
+      "challenger": "00",
+      "margin": 0.2422622872646399
+    },
+    {
+      "date": "2026-07-23",
+      "baseline_rank": 43,
+      "rescue_rank": 43,
+      "incumbent": "81",
+      "challenger": "99",
+      "margin": 0.8709582979494175
+    },
+    {
+      "date": "2026-07-24",
+      "baseline_rank": 46,
+      "rescue_rank": 46,
+      "incumbent": "20",
+      "challenger": "06",
+      "margin": 0.14696539093798977
+    },
+    {
+      "date": "2026-07-25",
+      "baseline_rank": 6,
+      "rescue_rank": 6,
+      "incumbent": "42",
+      "challenger": "13",
+      "margin": 0.691860040077394
+    },
+    {
+      "date": "2026-07-27",
+      "baseline_rank": 90,
+      "rescue_rank": 90,
+      "incumbent": "36",
+      "challenger": "03",
+      "margin": 0.10049643806658293
+    },
+    {
+      "date": "2026-07-28",
+      "baseline_rank": 62,
+      "rescue_rank": 62,
+      "incumbent": "64",
+      "challenger": "55",
+      "margin": 0.35824793600594884
+    },
+    {
+      "date": "2026-07-30",
+      "baseline_rank": 7,
+      "rescue_rank": 7,
+      "incumbent": "04",
+      "challenger": "60",
+      "margin": 0.2673201020323783
+    },
+    {
+      "date": "2026-08-01",
+      "baseline_rank": 84,
+      "rescue_rank": 84,
+      "incumbent": "81",
+      "challenger": "59",
+      "margin": 0.10787746042763702
+    },
+    {
+      "date": "2026-08-03",
+      "baseline_rank": 66,
+      "rescue_rank": 66,
+      "incumbent": "92",
+      "challenger": "66",
+      "margin": 0.8494107684295038
+    },
+    {
+      "date": "2026-08-08",
+      "baseline_rank": 93,
+      "rescue_rank": 93,
+      "incumbent": "19",
+      "challenger": "75",
+      "margin": 0.1876169053733851
+    },
+    {
+      "date": "2026-08-09",
+      "baseline_rank": 73,
+      "rescue_rank": 73,
+      "incumbent": "95",
+      "challenger": "22",
+      "margin": 0.18666922572813216
+    },
+    {
+      "date": "2026-08-11",
+      "baseline_rank": 26,
+      "rescue_rank": 26,
+      "incumbent": "97",
+      "challenger": "99",
+      "margin": 0.36905043407157806
+    },
+    {
+      "date": "2026-08-12",
+      "baseline_rank": 11,
+      "rescue_rank": 11,
+      "incumbent": "47",
+      "challenger": "57",
+      "margin": 0.3984715820934122
+    },
+    {
+      "date": "2026-08-13",
+      "baseline_rank": 87,
+      "rescue_rank": 87,
+      "incumbent": "37",
+      "challenger": "72",
+      "margin": 0.1031051112996465
+    },
+    {
+      "date": "2026-08-14",
+      "baseline_rank": 40,
+      "rescue_rank": 40,
+      "incumbent": "87",
+      "challenger": "58",
+      "margin": 0.49577703720865035
+    },
+    {
+      "date": "2026-08-15",
+      "baseline_rank": 24,
+      "rescue_rank": 24,
+      "incumbent": "70",
+      "challenger": "57",
+      "margin": 0.8396654092122873
+    },
+    {
+      "date": "2026-08-16",
+      "baseline_rank": 95,
+      "rescue_rank": 95,
+      "incumbent": "46",
+      "challenger": "77",
+      "margin": 0.7854038487222518
+    },
+    {
+      "date": "2026-08-17",
+      "baseline_rank": 17,
+      "rescue_rank": 17,
+      "incumbent": "07",
+      "challenger": "90",
+      "margin": 0.5666360602334399
+    },
+    {
+      "date": "2026-08-18",
+      "baseline_rank": 15,
+      "rescue_rank": 15,
+      "incumbent": "10",
+      "challenger": "33",
+      "margin": 0.6912568466578529
+    },
+    {
+      "date": "2026-08-19",
+      "baseline_rank": 74,
+      "rescue_rank": 74,
+      "incumbent": "13",
+      "challenger": "75",
+      "margin": 0.0586963150781169
+    },
+    {
+      "date": "2026-08-20",
+      "baseline_rank": 94,
+      "rescue_rank": 94,
+      "incumbent": "65",
+      "challenger": "58",
+      "margin": 0.3409668836541324
+    },
+    {
+      "date": "2026-08-22",
+      "baseline_rank": 27,
+      "rescue_rank": 27,
+      "incumbent": "58",
+      "challenger": "34",
+      "margin": 0.1293278141451959
+    },
+    {
+      "date": "2026-08-23",
+      "baseline_rank": 27,
+      "rescue_rank": 27,
+      "incumbent": "02",
+      "challenger": "41",
+      "margin": 0.38818681721160264
+    },
+    {
+      "date": "2026-08-24",
+      "baseline_rank": 32,
+      "rescue_rank": 32,
+      "incumbent": "46",
+      "challenger": "33",
+      "margin": 0.4269509058597969
+    },
+    {
+      "date": "2026-08-26",
+      "baseline_rank": 75,
+      "rescue_rank": 75,
+      "incumbent": "59",
+      "challenger": "88",
+      "margin": 0.17886999707379725
+    },
+    {
+      "date": "2026-08-27",
+      "baseline_rank": 76,
+      "rescue_rank": 76,
+      "incumbent": "91",
+      "challenger": "88",
+      "margin": 0.2190566743818625
+    },
+    {
+      "date": "2026-08-28",
+      "baseline_rank": 54,
+      "rescue_rank": 54,
+      "incumbent": "79",
+      "challenger": "11",
+      "margin": 0.40722824113400014
+    },
+    {
+      "date": "2026-08-29",
+      "baseline_rank": 30,
+      "rescue_rank": 30,
+      "incumbent": "15",
+      "challenger": "22",
+      "margin": 0.3468395816754844
+    }
+  ],
+  "Ghaziabad": [
+    {
+      "date": "2026-02-13",
+      "baseline_rank": 96,
+      "rescue_rank": 96,
+      "incumbent": "64",
+      "challenger": "74",
+      "margin": 0.3377718151632014
+    },
+    {
+      "date": "2026-02-14",
+      "baseline_rank": 63,
+      "rescue_rank": 63,
+      "incumbent": "56",
+      "challenger": "33",
+      "margin": 0.15577368104883937
+    },
+    {
+      "date": "2026-02-15",
+      "baseline_rank": 30,
+      "rescue_rank": 30,
+      "incumbent": "68",
+      "challenger": "95",
+      "margin": 0.6001679485854213
+    },
+    {
+      "date": "2026-02-17",
+      "baseline_rank": 100,
+      "rescue_rank": 100,
+      "incumbent": "91",
+      "challenger": "99",
+      "margin": 0.18290547535038015
+    },
+    {
+      "date": "2026-02-18",
+      "baseline_rank": 89,
+      "rescue_rank": 89,
+      "incumbent": "19",
+      "challenger": "95",
+      "margin": 0.14170081288321568
+    },
+    {
+      "date": "2026-02-19",
+      "baseline_rank": 73,
+      "rescue_rank": 73,
+      "incumbent": "98",
+      "challenger": "95",
+      "margin": 0.19971787500947574
+    },
+    {
+      "date": "2026-02-21",
+      "baseline_rank": 67,
+      "rescue_rank": 67,
+      "incumbent": "18",
+      "challenger": "00",
+      "margin": 0.2014044048251447
+    },
+    {
+      "date": "2026-02-22",
+      "baseline_rank": 32,
+      "rescue_rank": 32,
+      "incumbent": "50",
+      "challenger": "59",
+      "margin": 0.13972599865752067
+    },
+    {
+      "date": "2026-02-23",
+      "baseline_rank": 52,
+      "rescue_rank": 52,
+      "incumbent": "78",
+      "challenger": "59",
+      "margin": 0.21404463776193383
+    },
+    {
+      "date": "2026-02-24",
+      "baseline_rank": 69,
+      "rescue_rank": 69,
+      "incumbent": "40",
+      "challenger": "59",
+      "margin": 0.17802710634482283
+    },
+    {
+      "date": "2026-02-25",
+      "baseline_rank": 30,
+      "rescue_rank": 30,
+      "incumbent": "92",
+      "challenger": "55",
+      "margin": 0.4188476269401834
+    },
+    {
+      "date": "2026-02-26",
+      "baseline_rank": 30,
+      "rescue_rank": 30,
+      "incumbent": "92",
+      "challenger": "55",
+      "margin": 0.07275061797618226
+    },
+    {
+      "date": "2026-03-01",
+      "baseline_rank": 21,
+      "rescue_rank": 21,
+      "incumbent": "05",
+      "challenger": "36",
+      "margin": 0.2583211000066815
+    },
+    {
+      "date": "2026-03-02",
+      "baseline_rank": 10,
+      "rescue_rank": 4,
+      "incumbent": "45",
+      "challenger": "10",
+      "margin": 0.7598396239651931
+    },
+    {
+      "date": "2026-03-03",
+      "baseline_rank": 20,
+      "rescue_rank": 20,
+      "incumbent": "29",
+      "challenger": "83",
+      "margin": 0.11209521748186108
+    },
+    {
+      "date": "2026-03-04",
+      "baseline_rank": 12,
+      "rescue_rank": 12,
+      "incumbent": "92",
+      "challenger": "10",
+      "margin": 0.707557842299241
+    },
+    {
+      "date": "2026-03-05",
+      "baseline_rank": 19,
+      "rescue_rank": 19,
+      "incumbent": "14",
+      "challenger": "15",
+      "margin": 0.2674969777423418
+    },
+    {
+      "date": "2026-03-06",
+      "baseline_rank": 2,
+      "rescue_rank": 2,
+      "incumbent": "04",
+      "challenger": "06",
+      "margin": 0.11888912507536725
+    },
+    {
+      "date": "2026-03-07",
+      "baseline_rank": 14,
+      "rescue_rank": 14,
+      "incumbent": "27",
+      "challenger": "00",
+      "margin": 0.3358605672686817
+    },
+    {
+      "date": "2026-03-08",
+      "baseline_rank": 89,
+      "rescue_rank": 89,
+      "incumbent": "63",
+      "challenger": "00",
+      "margin": 0.2682877077496586
+    },
+    {
+      "date": "2026-03-09",
+      "baseline_rank": 54,
+      "rescue_rank": 54,
+      "incumbent": "18",
+      "challenger": "22",
+      "margin": 0.20047415204182456
+    },
+    {
+      "date": "2026-03-10",
+      "baseline_rank": 84,
+      "rescue_rank": 84,
+      "incumbent": "23",
+      "challenger": "62",
+      "margin": 0.28958297843040554
+    },
+    {
+      "date": "2026-03-11",
+      "baseline_rank": 72,
+      "rescue_rank": 72,
+      "incumbent": "51",
+      "challenger": "11",
+      "margin": 0.11750479833081254
+    },
+    {
+      "date": "2026-03-12",
+      "baseline_rank": 15,
+      "rescue_rank": 15,
+      "incumbent": "34",
+      "challenger": "38",
+      "margin": 0.17901121084332083
+    },
+    {
+      "date": "2026-03-13",
+      "baseline_rank": 81,
+      "rescue_rank": 81,
+      "incumbent": "15",
+      "challenger": "58",
+      "margin": 0.1951123914872166
+    },
+    {
+      "date": "2026-03-14",
+      "baseline_rank": 82,
+      "rescue_rank": 82,
+      "incumbent": "33",
+      "challenger": "72",
+      "margin": 0.5991195853816802
+    },
+    {
+      "date": "2026-03-15",
+      "baseline_rank": 5,
+      "rescue_rank": 5,
+      "incumbent": "26",
+      "challenger": "72",
+      "margin": 0.20925224142093152
+    },
+    {
+      "date": "2026-03-16",
+      "baseline_rank": 29,
+      "rescue_rank": 29,
+      "incumbent": "32",
+      "challenger": "72",
+      "margin": 0.56829687403231
+    },
+    {
+      "date": "2026-03-17",
+      "baseline_rank": 53,
+      "rescue_rank": 53,
+      "incumbent": "37",
+      "challenger": "72",
+      "margin": 0.6738597710572338
+    },
+    {
+      "date": "2026-03-18",
+      "baseline_rank": 29,
+      "rescue_rank": 29,
+      "incumbent": "20",
+      "challenger": "27",
+      "margin": 0.45117347336280883
+    },
+    {
+      "date": "2026-03-19",
+      "baseline_rank": 19,
+      "rescue_rank": 19,
+      "incumbent": "23",
+      "challenger": "27",
+      "margin": 0.20108212804692588
+    },
+    {
+      "date": "2026-03-20",
+      "baseline_rank": 4,
+      "rescue_rank": 4,
+      "incumbent": "20",
+      "challenger": "27",
+      "margin": 0.3134156200524405
+    },
+    {
+      "date": "2026-03-21",
+      "baseline_rank": 6,
+      "rescue_rank": 6,
+      "incumbent": "16",
+      "challenger": "26",
+      "margin": 0.778249753399209
+    },
+    {
+      "date": "2026-03-22",
+      "baseline_rank": 2,
+      "rescue_rank": 2,
+      "incumbent": "88",
+      "challenger": "27",
+      "margin": 0.38359990062107574
+    },
+    {
+      "date": "2026-03-23",
+      "baseline_rank": 8,
+      "rescue_rank": 5,
+      "incumbent": "06",
+      "challenger": "10",
+      "margin": 0.2086478534062517
+    },
+    {
+      "date": "2026-03-26",
+      "baseline_rank": 45,
+      "rescue_rank": 45,
+      "incumbent": "27",
+      "challenger": "71",
+      "margin": 0.10597126880871588
+    },
+    {
+      "date": "2026-03-27",
+      "baseline_rank": 8,
+      "rescue_rank": 4,
+      "incumbent": "55",
+      "challenger": "43",
+      "margin": 0.39675663103724434
+    },
+    {
+      "date": "2026-03-28",
+      "baseline_rank": 31,
+      "rescue_rank": 31,
+      "incumbent": "55",
+      "challenger": "43",
+      "margin": 0.772638560935615
+    },
+    {
+      "date": "2026-03-29",
+      "baseline_rank": 27,
+      "rescue_rank": 27,
+      "incumbent": "54",
+      "challenger": "00",
+      "margin": 0.24028941452830097
+    },
+    {
+      "date": "2026-03-30",
+      "baseline_rank": 51,
+      "rescue_rank": 51,
+      "incumbent": "51",
+      "challenger": "11",
+      "margin": 0.6539033748050638
+    },
+    {
+      "date": "2026-04-02",
+      "baseline_rank": 10,
+      "rescue_rank": 10,
+      "incumbent": "37",
+      "challenger": "11",
+      "margin": 0.6354776655701583
+    },
+    {
+      "date": "2026-04-03",
+      "baseline_rank": 37,
+      "rescue_rank": 37,
+      "incumbent": "18",
+      "challenger": "22",
+      "margin": 0.2086775742602826
+    },
+    {
+      "date": "2026-04-04",
+      "baseline_rank": 80,
+      "rescue_rank": 80,
+      "incumbent": "90",
+      "challenger": "02",
+      "margin": 0.4193267774336679
+    },
+    {
+      "date": "2026-04-05",
+      "baseline_rank": 34,
+      "rescue_rank": 34,
+      "incumbent": "72",
+      "challenger": "78",
+      "margin": 0.3927203477973432
+    },
+    {
+      "date": "2026-04-06",
+      "baseline_rank": 70,
+      "rescue_rank": 70,
+      "incumbent": "88",
+      "challenger": "12",
+      "margin": 0.04681570958695169
+    },
+    {
+      "date": "2026-04-07",
+      "baseline_rank": 43,
+      "rescue_rank": 43,
+      "incumbent": "42",
+      "challenger": "49",
+      "margin": 0.31306008061248686
+    },
+    {
+      "date": "2026-04-08",
+      "baseline_rank": 36,
+      "rescue_rank": 36,
+      "incumbent": "23",
+      "challenger": "62",
+      "margin": 0.3161694537761048
+    },
+    {
+      "date": "2026-04-09",
+      "baseline_rank": 98,
+      "rescue_rank": 98,
+      "incumbent": "18",
+      "challenger": "88",
+      "margin": 0.6621529154790683
+    },
+    {
+      "date": "2026-04-10",
+      "baseline_rank": 30,
+      "rescue_rank": 30,
+      "incumbent": "07",
+      "challenger": "22",
+      "margin": 0.17450449386539169
+    },
+    {
+      "date": "2026-04-11",
+      "baseline_rank": 62,
+      "rescue_rank": 62,
+      "incumbent": "72",
+      "challenger": "88",
+      "margin": 0.35204301547256805
+    },
+    {
+      "date": "2026-04-12",
+      "baseline_rank": 68,
+      "rescue_rank": 68,
+      "incumbent": "34",
+      "challenger": "46",
+      "margin": 0.056488107598365256
+    },
+    {
+      "date": "2026-04-14",
+      "baseline_rank": 28,
+      "rescue_rank": 28,
+      "incumbent": "45",
+      "challenger": "11",
+      "margin": 0.31215882429028363
+    },
+    {
+      "date": "2026-04-15",
+      "baseline_rank": 50,
+      "rescue_rank": 50,
+      "incumbent": "36",
+      "challenger": "00",
+      "margin": 0.4359651213614139
+    },
+    {
+      "date": "2026-04-17",
+      "baseline_rank": 25,
+      "rescue_rank": 25,
+      "incumbent": "51",
+      "challenger": "11",
+      "margin": 0.7633675030237476
+    },
+    {
+      "date": "2026-04-18",
+      "baseline_rank": 75,
+      "rescue_rank": 75,
+      "incumbent": "51",
+      "challenger": "52",
+      "margin": 0.1351404525483461
+    },
+    {
+      "date": "2026-04-19",
+      "baseline_rank": 86,
+      "rescue_rank": 86,
+      "incumbent": "23",
+      "challenger": "62",
+      "margin": 0.6701416690042186
+    },
+    {
+      "date": "2026-04-20",
+      "baseline_rank": 59,
+      "rescue_rank": 59,
+      "incumbent": "07",
+      "challenger": "22",
+      "margin": 0.3212637151322713
+    },
+    {
+      "date": "2026-04-21",
+      "baseline_rank": 34,
+      "rescue_rank": 34,
+      "incumbent": "55",
+      "challenger": "43",
+      "margin": 0.48148621964847294
+    },
+    {
+      "date": "2026-04-22",
+      "baseline_rank": 37,
+      "rescue_rank": 37,
+      "incumbent": "48",
+      "challenger": "00",
+      "margin": 0.17616532415192976
+    },
+    {
+      "date": "2026-04-23",
+      "baseline_rank": 27,
+      "rescue_rank": 27,
+      "incumbent": "57",
+      "challenger": "11",
+      "margin": 0.31408243095987765
+    },
+    {
+      "date": "2026-04-24",
+      "baseline_rank": 41,
+      "rescue_rank": 41,
+      "incumbent": "86",
+      "challenger": "18",
+      "margin": 0.15252916582830472
+    },
+    {
+      "date": "2026-04-25",
+      "baseline_rank": 19,
+      "rescue_rank": 19,
+      "incumbent": "27",
+      "challenger": "62",
+      "margin": 0.18859851919545928
+    },
+    {
+      "date": "2026-04-27",
+      "baseline_rank": 10,
+      "rescue_rank": 10,
+      "incumbent": "84",
+      "challenger": "43",
+      "margin": 0.20024298628006543
+    },
+    {
+      "date": "2026-04-28",
+      "baseline_rank": 20,
+      "rescue_rank": 20,
+      "incumbent": "55",
+      "challenger": "59",
+      "margin": 0.14123649232310628
+    },
+    {
+      "date": "2026-04-29",
+      "baseline_rank": 24,
+      "rescue_rank": 24,
+      "incumbent": "99",
+      "challenger": "30",
+      "margin": 0.5463835177850809
+    },
+    {
+      "date": "2026-05-01",
+      "baseline_rank": 29,
+      "rescue_rank": 29,
+      "incumbent": "44",
+      "challenger": "88",
+      "margin": 0.45067330883539364
+    },
+    {
+      "date": "2026-05-02",
+      "baseline_rank": 85,
+      "rescue_rank": 85,
+      "incumbent": "88",
+      "challenger": "18",
+      "margin": 0.056411672798821755
+    },
+    {
+      "date": "2026-05-03",
+      "baseline_rank": 98,
+      "rescue_rank": 98,
+      "incumbent": "07",
+      "challenger": "20",
+      "margin": 0.23181083047417245
+    },
+    {
+      "date": "2026-05-04",
+      "baseline_rank": 91,
+      "rescue_rank": 91,
+      "incumbent": "08",
+      "challenger": "20",
+      "margin": 0.13911584930724186
+    },
+    {
+      "date": "2026-05-05",
+      "baseline_rank": 3,
+      "rescue_rank": 3,
+      "incumbent": "18",
+      "challenger": "21",
+      "margin": 0.06786502917581311
+    },
+    {
+      "date": "2026-05-07",
+      "baseline_rank": 66,
+      "rescue_rank": 66,
+      "incumbent": "59",
+      "challenger": "92",
+      "margin": 0.6421286830510862
+    },
+    {
+      "date": "2026-05-08",
+      "baseline_rank": 58,
+      "rescue_rank": 58,
+      "incumbent": "45",
+      "challenger": "52",
+      "margin": 0.06051304866055657
+    },
+    {
+      "date": "2026-05-09",
+      "baseline_rank": 48,
+      "rescue_rank": 48,
+      "incumbent": "62",
+      "challenger": "33",
+      "margin": 1.1118946812690236
+    },
+    {
+      "date": "2026-05-10",
+      "baseline_rank": 15,
+      "rescue_rank": 15,
+      "incumbent": "54",
+      "challenger": "66",
+      "margin": 0.27341448141588126
+    },
+    {
+      "date": "2026-05-11",
+      "baseline_rank": 29,
+      "rescue_rank": 29,
+      "incumbent": "36",
+      "challenger": "86",
+      "margin": 0.535015912562343
+    },
+    {
+      "date": "2026-05-12",
+      "baseline_rank": 8,
+      "rescue_rank": 3,
+      "incumbent": "53",
+      "challenger": "43",
+      "margin": 0.5316169360552649
+    },
+    {
+      "date": "2026-05-13",
+      "baseline_rank": 34,
+      "rescue_rank": 34,
+      "incumbent": "55",
+      "challenger": "43",
+      "margin": 1.2969869881063947
+    },
+    {
+      "date": "2026-05-14",
+      "baseline_rank": 43,
+      "rescue_rank": 43,
+      "incumbent": "48",
+      "challenger": "00",
+      "margin": 0.16828434097344458
+    },
+    {
+      "date": "2026-05-15",
+      "baseline_rank": 34,
+      "rescue_rank": 34,
+      "incumbent": "32",
+      "challenger": "77",
+      "margin": 0.6930064647306535
+    },
+    {
+      "date": "2026-05-16",
+      "baseline_rank": 29,
+      "rescue_rank": 29,
+      "incumbent": "88",
+      "challenger": "08",
+      "margin": 0.22310243728374696
+    },
+    {
+      "date": "2026-05-17",
+      "baseline_rank": 70,
+      "rescue_rank": 70,
+      "incumbent": "63",
+      "challenger": "08",
+      "margin": 0.348130561200165
+    },
+    {
+      "date": "2026-05-18",
+      "baseline_rank": 86,
+      "rescue_rank": 86,
+      "incumbent": "55",
+      "challenger": "99",
+      "margin": 0.642077156247103
+    },
+    {
+      "date": "2026-05-20",
+      "baseline_rank": 36,
+      "rescue_rank": 36,
+      "incumbent": "77",
+      "challenger": "18",
+      "margin": 0.4456728959825099
+    },
+    {
+      "date": "2026-05-23",
+      "baseline_rank": 21,
+      "rescue_rank": 21,
+      "incumbent": "90",
+      "challenger": "04",
+      "margin": 0.16004873918633272
+    },
+    {
+      "date": "2026-05-24",
+      "baseline_rank": 4,
+      "rescue_rank": 4,
+      "incumbent": "15",
+      "challenger": "19",
+      "margin": 0.04855037338757218
+    },
+    {
+      "date": "2026-05-25",
+      "baseline_rank": 15,
+      "rescue_rank": 15,
+      "incumbent": "22",
+      "challenger": "88",
+      "margin": 1.363666756765595
+    },
+    {
+      "date": "2026-05-26",
+      "baseline_rank": 16,
+      "rescue_rank": 16,
+      "incumbent": "36",
+      "challenger": "86",
+      "margin": 0.5859303097074758
+    },
+    {
+      "date": "2026-05-27",
+      "baseline_rank": 58,
+      "rescue_rank": 58,
+      "incumbent": "48",
+      "challenger": "00",
+      "margin": 0.558944054586118
+    },
+    {
+      "date": "2026-05-28",
+      "baseline_rank": 58,
+      "rescue_rank": 58,
+      "incumbent": "55",
+      "challenger": "99",
+      "margin": 0.2569483363871245
+    },
+    {
+      "date": "2026-05-29",
+      "baseline_rank": 78,
+      "rescue_rank": 78,
+      "incumbent": "51",
+      "challenger": "54",
+      "margin": 0.3541322148254152
+    },
+    {
+      "date": "2026-05-30",
+      "baseline_rank": 77,
+      "rescue_rank": 77,
+      "incumbent": "33",
+      "challenger": "15",
+      "margin": 0.21344842619237264
+    },
+    {
+      "date": "2026-06-02",
+      "baseline_rank": 45,
+      "rescue_rank": 45,
+      "incumbent": "57",
+      "challenger": "11",
+      "margin": 0.28846949117326803
+    },
+    {
+      "date": "2026-06-03",
+      "baseline_rank": 92,
+      "rescue_rank": 92,
+      "incumbent": "59",
+      "challenger": "92",
+      "margin": 0.4175598462925101
+    },
+    {
+      "date": "2026-06-04",
+      "baseline_rank": 91,
+      "rescue_rank": 91,
+      "incumbent": "34",
+      "challenger": "53",
+      "margin": 0.10802082283654996
+    },
+    {
+      "date": "2026-06-06",
+      "baseline_rank": 75,
+      "rescue_rank": 75,
+      "incumbent": "32",
+      "challenger": "72",
+      "margin": 0.47459263601424734
+    },
+    {
+      "date": "2026-06-07",
+      "baseline_rank": 13,
+      "rescue_rank": 13,
+      "incumbent": "44",
+      "challenger": "66",
+      "margin": 0.8026444052891581
+    },
+    {
+      "date": "2026-06-08",
+      "baseline_rank": 85,
+      "rescue_rank": 85,
+      "incumbent": "16",
+      "challenger": "23",
+      "margin": 0.24234277311361369
+    },
+    {
+      "date": "2026-06-10",
+      "baseline_rank": 24,
+      "rescue_rank": 24,
+      "incumbent": "57",
+      "challenger": "78",
+      "margin": 0.2088071162424983
+    },
+    {
+      "date": "2026-06-11",
+      "baseline_rank": 10,
+      "rescue_rank": 10,
+      "incumbent": "62",
+      "challenger": "33",
+      "margin": 0.8370141872650134
+    },
+    {
+      "date": "2026-06-12",
+      "baseline_rank": 23,
+      "rescue_rank": 23,
+      "incumbent": "90",
+      "challenger": "02",
+      "margin": 0.19170898273897824
+    },
+    {
+      "date": "2026-06-13",
+      "baseline_rank": 96,
+      "rescue_rank": 96,
+      "incumbent": "26",
+      "challenger": "00",
+      "margin": 0.8285173019346042
+    },
+    {
+      "date": "2026-07-02",
+      "baseline_rank": 42,
+      "rescue_rank": 42,
+      "incumbent": "36",
+      "challenger": "00",
+      "margin": 0.16302519323534273
+    },
+    {
+      "date": "2026-07-03",
+      "baseline_rank": 40,
+      "rescue_rank": 40,
+      "incumbent": "44",
+      "challenger": "12",
+      "margin": 0.325968059534524
+    },
+    {
+      "date": "2026-07-04",
+      "baseline_rank": 79,
+      "rescue_rank": 79,
+      "incumbent": "46",
+      "challenger": "00",
+      "margin": 0.38260751321177855
+    },
+    {
+      "date": "2026-07-05",
+      "baseline_rank": 96,
+      "rescue_rank": 96,
+      "incumbent": "32",
+      "challenger": "72",
+      "margin": 0.5907600406142072
+    },
+    {
+      "date": "2026-07-06",
+      "baseline_rank": 65,
+      "rescue_rank": 65,
+      "incumbent": "88",
+      "challenger": "10",
+      "margin": 0.17393246999232082
+    },
+    {
+      "date": "2026-07-08",
+      "baseline_rank": 94,
+      "rescue_rank": 94,
+      "incumbent": "54",
+      "challenger": "55",
+      "margin": 0.1212821175252406
+    },
+    {
+      "date": "2026-07-11",
+      "baseline_rank": 57,
+      "rescue_rank": 57,
+      "incumbent": "42",
+      "challenger": "91",
+      "margin": 0.11889044311847002
+    },
+    {
+      "date": "2026-07-12",
+      "baseline_rank": 35,
+      "rescue_rank": 35,
+      "incumbent": "29",
+      "challenger": "44",
+      "margin": 0.36863380735151896
+    },
+    {
+      "date": "2026-07-13",
+      "baseline_rank": 89,
+      "rescue_rank": 89,
+      "incumbent": "16",
+      "challenger": "46",
+      "margin": 0.06087416519385297
+    },
+    {
+      "date": "2026-07-18",
+      "baseline_rank": 75,
+      "rescue_rank": 75,
+      "incumbent": "39",
+      "challenger": "55",
+      "margin": 0.15524968596072214
+    },
+    {
+      "date": "2026-07-19",
+      "baseline_rank": 34,
+      "rescue_rank": 34,
+      "incumbent": "68",
+      "challenger": "11",
+      "margin": 0.19834520394856953
+    },
+    {
+      "date": "2026-07-20",
+      "baseline_rank": 62,
+      "rescue_rank": 62,
+      "incumbent": "49",
+      "challenger": "22",
+      "margin": 0.04274925895234383
+    },
+    {
+      "date": "2026-07-22",
+      "baseline_rank": 72,
+      "rescue_rank": 72,
+      "incumbent": "02",
+      "challenger": "33",
+      "margin": 0.08826657194515297
+    },
+    {
+      "date": "2026-07-23",
+      "baseline_rank": 21,
+      "rescue_rank": 21,
+      "incumbent": "45",
+      "challenger": "05",
+      "margin": 0.06976978541334022
+    },
+    {
+      "date": "2026-07-24",
+      "baseline_rank": 90,
+      "rescue_rank": 90,
+      "incumbent": "44",
+      "challenger": "11",
+      "margin": 0.12219949623601345
+    },
+    {
+      "date": "2026-07-25",
+      "baseline_rank": 35,
+      "rescue_rank": 35,
+      "incumbent": "06",
+      "challenger": "33",
+      "margin": 0.28029732210724045
+    },
+    {
+      "date": "2026-07-27",
+      "baseline_rank": 18,
+      "rescue_rank": 18,
+      "incumbent": "70",
+      "challenger": "28",
+      "margin": 0.3119041430955386
+    },
+    {
+      "date": "2026-07-28",
+      "baseline_rank": 91,
+      "rescue_rank": 91,
+      "incumbent": "73",
+      "challenger": "77",
+      "margin": 0.492475747151169
+    },
+    {
+      "date": "2026-07-30",
+      "baseline_rank": 27,
+      "rescue_rank": 27,
+      "incumbent": "07",
+      "challenger": "54",
+      "margin": 0.25297964936986916
+    },
+    {
+      "date": "2026-08-01",
+      "baseline_rank": 39,
+      "rescue_rank": 39,
+      "incumbent": "19",
+      "challenger": "09",
+      "margin": 0.13682859587238938
+    },
+    {
+      "date": "2026-08-02",
+      "baseline_rank": 2,
+      "rescue_rank": 2,
+      "incumbent": "14",
+      "challenger": "11",
+      "margin": 0.5746044446895502
+    },
+    {
+      "date": "2026-08-03",
+      "baseline_rank": 62,
+      "rescue_rank": 62,
+      "incumbent": "13",
+      "challenger": "07",
+      "margin": 0.7412359345703351
+    },
+    {
+      "date": "2026-08-04",
+      "baseline_rank": 32,
+      "rescue_rank": 32,
+      "incumbent": "08",
+      "challenger": "15",
+      "margin": 0.3867548031629633
+    },
+    {
+      "date": "2026-08-05",
+      "baseline_rank": 93,
+      "rescue_rank": 93,
+      "incumbent": "16",
+      "challenger": "33",
+      "margin": 0.2775821025889938
+    },
+    {
+      "date": "2026-08-06",
+      "baseline_rank": 10,
+      "rescue_rank": 10,
+      "incumbent": "11",
+      "challenger": "15",
+      "margin": 0.18821756795382943
+    },
+    {
+      "date": "2026-08-07",
+      "baseline_rank": 86,
+      "rescue_rank": 86,
+      "incumbent": "14",
+      "challenger": "01",
+      "margin": 0.2261147095278303
+    },
+    {
+      "date": "2026-08-08",
+      "baseline_rank": 100,
+      "rescue_rank": 100,
+      "incumbent": "18",
+      "challenger": "15",
+      "margin": 0.13638332076588922
+    },
+    {
+      "date": "2026-08-09",
+      "baseline_rank": 17,
+      "rescue_rank": 17,
+      "incumbent": "74",
+      "challenger": "04",
+      "margin": 0.10594915621619252
+    },
+    {
+      "date": "2026-08-10",
+      "baseline_rank": 55,
+      "rescue_rank": 55,
+      "incumbent": "20",
+      "challenger": "28",
+      "margin": 0.16743865907953664
+    },
+    {
+      "date": "2026-08-11",
+      "baseline_rank": 63,
+      "rescue_rank": 63,
+      "incumbent": "74",
+      "challenger": "24",
+      "margin": 0.32174054181806644
+    },
+    {
+      "date": "2026-08-12",
+      "baseline_rank": 35,
+      "rescue_rank": 35,
+      "incumbent": "05",
+      "challenger": "00",
+      "margin": 0.07880452749654482
+    },
+    {
+      "date": "2026-08-13",
+      "baseline_rank": 21,
+      "rescue_rank": 21,
+      "incumbent": "14",
+      "challenger": "35",
+      "margin": 0.06914558746376154
+    },
+    {
+      "date": "2026-08-14",
+      "baseline_rank": 54,
+      "rescue_rank": 54,
+      "incumbent": "74",
+      "challenger": "97",
+      "margin": 0.1485269379264762
+    },
+    {
+      "date": "2026-08-15",
+      "baseline_rank": 4,
+      "rescue_rank": 4,
+      "incumbent": "50",
+      "challenger": "01",
+      "margin": 0.042035982043781034
+    },
+    {
+      "date": "2026-08-16",
+      "baseline_rank": 92,
+      "rescue_rank": 92,
+      "incumbent": "54",
+      "challenger": "02",
+      "margin": 0.07054280433666399
+    },
+    {
+      "date": "2026-08-18",
+      "baseline_rank": 53,
+      "rescue_rank": 53,
+      "incumbent": "10",
+      "challenger": "15",
+      "margin": 0.11747922104775058
+    },
+    {
+      "date": "2026-08-19",
+      "baseline_rank": 65,
+      "rescue_rank": 65,
+      "incumbent": "19",
+      "challenger": "04",
+      "margin": 0.13243635912698415
+    },
+    {
+      "date": "2026-08-20",
+      "baseline_rank": 7,
+      "rescue_rank": 5,
+      "incumbent": "60",
+      "challenger": "22",
+      "margin": 0.23223759551922715
+    },
+    {
+      "date": "2026-08-21",
+      "baseline_rank": 68,
+      "rescue_rank": 68,
+      "incumbent": "79",
+      "challenger": "11",
+      "margin": 0.34570476039769515
+    },
+    {
+      "date": "2026-08-22",
+      "baseline_rank": 14,
+      "rescue_rank": 14,
+      "incumbent": "14",
+      "challenger": "22",
+      "margin": 0.48419930369875225
+    },
+    {
+      "date": "2026-08-23",
+      "baseline_rank": 93,
+      "rescue_rank": 93,
+      "incumbent": "72",
+      "challenger": "02",
+      "margin": 0.42708403590452804
+    },
+    {
+      "date": "2026-08-24",
+      "baseline_rank": 98,
+      "rescue_rank": 98,
+      "incumbent": "52",
+      "challenger": "44",
+      "margin": 0.1968156626427842
+    },
+    {
+      "date": "2026-08-25",
+      "baseline_rank": 3,
+      "rescue_rank": 3,
+      "incumbent": "51",
+      "challenger": "13",
+      "margin": 0.10001806779391922
+    },
+    {
+      "date": "2026-08-26",
+      "baseline_rank": 84,
+      "rescue_rank": 84,
+      "incumbent": "29",
+      "challenger": "28",
+      "margin": 0.06416827713672532
+    },
+    {
+      "date": "2026-08-28",
+      "baseline_rank": 3,
+      "rescue_rank": 3,
+      "incumbent": "54",
+      "challenger": "52",
+      "margin": 0.04993486815889456
+    }
+  ],
+  "Gali": [
+    {
+      "date": "2026-02-13",
+      "baseline_rank": 89,
+      "rescue_rank": 89,
+      "incumbent": "26",
+      "challenger": "52",
+      "margin": 0.0723512888126297
+    },
+    {
+      "date": "2026-02-14",
+      "baseline_rank": 44,
+      "rescue_rank": 44,
+      "incumbent": "22",
+      "challenger": "88",
+      "margin": 0.714960024277053
+    },
+    {
+      "date": "2026-02-16",
+      "baseline_rank": 15,
+      "rescue_rank": 15,
+      "incumbent": "15",
+      "challenger": "19",
+      "margin": 0.23466645564309857
+    },
+    {
+      "date": "2026-02-17",
+      "baseline_rank": 7,
+      "rescue_rank": 7,
+      "incumbent": "42",
+      "challenger": "00",
+      "margin": 0.42556788015767727
+    },
+    {
+      "date": "2026-02-18",
+      "baseline_rank": 95,
+      "rescue_rank": 95,
+      "incumbent": "14",
+      "challenger": "00",
+      "margin": 0.08952068522290654
+    },
+    {
+      "date": "2026-02-19",
+      "baseline_rank": 9,
+      "rescue_rank": 5,
+      "incumbent": "22",
+      "challenger": "88",
+      "margin": 0.8231226658413061
+    },
+    {
+      "date": "2026-02-20",
+      "baseline_rank": 43,
+      "rescue_rank": 43,
+      "incumbent": "21",
+      "challenger": "88",
+      "margin": 1.4873543143547636
+    },
+    {
+      "date": "2026-02-21",
+      "baseline_rank": 6,
+      "rescue_rank": 6,
+      "incumbent": "55",
+      "challenger": "43",
+      "margin": 0.23871152826498454
+    },
+    {
+      "date": "2026-02-24",
+      "baseline_rank": 85,
+      "rescue_rank": 85,
+      "incumbent": "44",
+      "challenger": "66",
+      "margin": 1.0175068290697886
+    },
+    {
+      "date": "2026-02-25",
+      "baseline_rank": 19,
+      "rescue_rank": 19,
+      "incumbent": "28",
+      "challenger": "84",
+      "margin": 0.49427620770424363
+    },
+    {
+      "date": "2026-02-26",
+      "baseline_rank": 9,
+      "rescue_rank": 9,
+      "incumbent": "37",
+      "challenger": "11",
+      "margin": 0.3629846248812931
+    },
+    {
+      "date": "2026-02-27",
+      "baseline_rank": 84,
+      "rescue_rank": 84,
+      "incumbent": "26",
+      "challenger": "52",
+      "margin": 0.13991276042356732
+    },
+    {
+      "date": "2026-03-01",
+      "baseline_rank": 93,
+      "rescue_rank": 93,
+      "incumbent": "77",
+      "challenger": "16",
+      "margin": 0.11400894770882314
+    },
+    {
+      "date": "2026-03-02",
+      "baseline_rank": 49,
+      "rescue_rank": 49,
+      "incumbent": "59",
+      "challenger": "92",
+      "margin": 0.6528084867442504
+    },
+    {
+      "date": "2026-03-03",
+      "baseline_rank": 30,
+      "rescue_rank": 30,
+      "incumbent": "93",
+      "challenger": "30",
+      "margin": 0.5833636991265143
+    },
+    {
+      "date": "2026-03-06",
+      "baseline_rank": 4,
+      "rescue_rank": 4,
+      "incumbent": "51",
+      "challenger": "75",
+      "margin": 0.3403425288690517
+    },
+    {
+      "date": "2026-03-07",
+      "baseline_rank": 39,
+      "rescue_rank": 39,
+      "incumbent": "55",
+      "challenger": "47",
+      "margin": 0.24377662134933237
+    },
+    {
+      "date": "2026-03-08",
+      "baseline_rank": 60,
+      "rescue_rank": 60,
+      "incumbent": "72",
+      "challenger": "42",
+      "margin": 0.21245709383825323
+    },
+    {
+      "date": "2026-03-09",
+      "baseline_rank": 100,
+      "rescue_rank": 100,
+      "incumbent": "16",
+      "challenger": "48",
+      "margin": 0.14374843586292282
+    },
+    {
+      "date": "2026-03-11",
+      "baseline_rank": 11,
+      "rescue_rank": 11,
+      "incumbent": "05",
+      "challenger": "20",
+      "margin": 0.21254789137877375
+    },
+    {
+      "date": "2026-03-15",
+      "baseline_rank": 89,
+      "rescue_rank": 89,
+      "incumbent": "25",
+      "challenger": "54",
+      "margin": 0.14332796797795244
+    },
+    {
+      "date": "2026-03-17",
+      "baseline_rank": 56,
+      "rescue_rank": 56,
+      "incumbent": "88",
+      "challenger": "18",
+      "margin": 0.04606308046116786
+    },
+    {
+      "date": "2026-03-18",
+      "baseline_rank": 83,
+      "rescue_rank": 83,
+      "incumbent": "55",
+      "challenger": "95",
+      "margin": 0.06949695576201939
+    },
+    {
+      "date": "2026-03-19",
+      "baseline_rank": 59,
+      "rescue_rank": 59,
+      "incumbent": "77",
+      "challenger": "36",
+      "margin": 0.0424419361733846
+    },
+    {
+      "date": "2026-03-20",
+      "baseline_rank": 86,
+      "rescue_rank": 86,
+      "incumbent": "55",
+      "challenger": "43",
+      "margin": 0.1818728023316839
+    },
+    {
+      "date": "2026-03-22",
+      "baseline_rank": 72,
+      "rescue_rank": 72,
+      "incumbent": "63",
+      "challenger": "01",
+      "margin": 0.2819230794993295
+    },
+    {
+      "date": "2026-03-23",
+      "baseline_rank": 89,
+      "rescue_rank": 89,
+      "incumbent": "78",
+      "challenger": "02",
+      "margin": 0.3358028086316299
+    },
+    {
+      "date": "2026-03-24",
+      "baseline_rank": 84,
+      "rescue_rank": 84,
+      "incumbent": "72",
+      "challenger": "03",
+      "margin": 0.20395782217668487
+    },
+    {
+      "date": "2026-03-26",
+      "baseline_rank": 70,
+      "rescue_rank": 70,
+      "incumbent": "51",
+      "challenger": "03",
+      "margin": 0.46149992197878725
+    },
+    {
+      "date": "2026-03-27",
+      "baseline_rank": 85,
+      "rescue_rank": 85,
+      "incumbent": "18",
+      "challenger": "03",
+      "margin": 0.34844075984822287
+    },
+    {
+      "date": "2026-03-28",
+      "baseline_rank": 30,
+      "rescue_rank": 30,
+      "incumbent": "53",
+      "challenger": "01",
+      "margin": 0.2080542215316185
+    },
+    {
+      "date": "2026-03-29",
+      "baseline_rank": 26,
+      "rescue_rank": 26,
+      "incumbent": "09",
+      "challenger": "03",
+      "margin": 0.0615114644918921
+    },
+    {
+      "date": "2026-04-01",
+      "baseline_rank": 95,
+      "rescue_rank": 95,
+      "incumbent": "43",
+      "challenger": "14",
+      "margin": 0.10768586735991117
+    },
+    {
+      "date": "2026-04-06",
+      "baseline_rank": 7,
+      "rescue_rank": 7,
+      "incumbent": "36",
+      "challenger": "47",
+      "margin": 0.06852243589743587
+    },
+    {
+      "date": "2026-04-09",
+      "baseline_rank": 87,
+      "rescue_rank": 87,
+      "incumbent": "08",
+      "challenger": "80",
+      "margin": 0.05199794238683128
+    },
+    {
+      "date": "2026-04-12",
+      "baseline_rank": 67,
+      "rescue_rank": 67,
+      "incumbent": "93",
+      "challenger": "11",
+      "margin": 0.048771628218777924
+    },
+    {
+      "date": "2026-04-14",
+      "baseline_rank": 48,
+      "rescue_rank": 48,
+      "incumbent": "44",
+      "challenger": "00",
+      "margin": 0.18924696545284775
+    },
+    {
+      "date": "2026-04-15",
+      "baseline_rank": 84,
+      "rescue_rank": 84,
+      "incumbent": "61",
+      "challenger": "60",
+      "margin": 0.25178396736511754
+    },
+    {
+      "date": "2026-04-16",
+      "baseline_rank": 48,
+      "rescue_rank": 48,
+      "incumbent": "21",
+      "challenger": "02",
+      "margin": 0.24099735867341476
+    },
+    {
+      "date": "2026-04-17",
+      "baseline_rank": 60,
+      "rescue_rank": 60,
+      "incumbent": "54",
+      "challenger": "24",
+      "margin": 0.08599659373160504
+    },
+    {
+      "date": "2026-04-18",
+      "baseline_rank": 92,
+      "rescue_rank": 92,
+      "incumbent": "41",
+      "challenger": "44",
+      "margin": 0.4296437044193406
+    },
+    {
+      "date": "2026-04-19",
+      "baseline_rank": 12,
+      "rescue_rank": 12,
+      "incumbent": "16",
+      "challenger": "51",
+      "margin": 0.10706845477568022
+    },
+    {
+      "date": "2026-04-20",
+      "baseline_rank": 52,
+      "rescue_rank": 52,
+      "incumbent": "61",
+      "challenger": "66",
+      "margin": 0.04337817151477122
+    },
+    {
+      "date": "2026-04-21",
+      "baseline_rank": 66,
+      "rescue_rank": 66,
+      "incumbent": "89",
+      "challenger": "55",
+      "margin": 0.20213584084855035
+    },
+    {
+      "date": "2026-04-22",
+      "baseline_rank": 13,
+      "rescue_rank": 13,
+      "incumbent": "99",
+      "challenger": "57",
+      "margin": 0.1805905555555555
+    },
+    {
+      "date": "2026-04-23",
+      "baseline_rank": 4,
+      "rescue_rank": 4,
+      "incumbent": "48",
+      "challenger": "04",
+      "margin": 0.21949691874148394
+    },
+    {
+      "date": "2026-04-25",
+      "baseline_rank": 82,
+      "rescue_rank": 82,
+      "incumbent": "93",
+      "challenger": "59",
+      "margin": 0.2571675214314194
+    },
+    {
+      "date": "2026-04-26",
+      "baseline_rank": 2,
+      "rescue_rank": 2,
+      "incumbent": "79",
+      "challenger": "59",
+      "margin": 0.14817249551961667
+    },
+    {
+      "date": "2026-04-27",
+      "baseline_rank": 48,
+      "rescue_rank": 48,
+      "incumbent": "95",
+      "challenger": "99",
+      "margin": 0.2324460112911144
+    },
+    {
+      "date": "2026-04-28",
+      "baseline_rank": 48,
+      "rescue_rank": 48,
+      "incumbent": "59",
+      "challenger": "19",
+      "margin": 0.28585271481581476
+    },
+    {
+      "date": "2026-05-04",
+      "baseline_rank": 24,
+      "rescue_rank": 24,
+      "incumbent": "21",
+      "challenger": "33",
+      "margin": 0.05513647933099636
+    },
+    {
+      "date": "2026-05-07",
+      "baseline_rank": 17,
+      "rescue_rank": 17,
+      "incumbent": "39",
+      "challenger": "13",
+      "margin": 0.1742779111455616
+    },
+    {
+      "date": "2026-05-08",
+      "baseline_rank": 33,
+      "rescue_rank": 33,
+      "incumbent": "99",
+      "challenger": "14",
+      "margin": 0.23791546794163193
+    },
+    {
+      "date": "2026-05-10",
+      "baseline_rank": 70,
+      "rescue_rank": 70,
+      "incumbent": "45",
+      "challenger": "24",
+      "margin": 0.21642984225299172
+    },
+    {
+      "date": "2026-05-11",
+      "baseline_rank": 54,
+      "rescue_rank": 54,
+      "incumbent": "29",
+      "challenger": "02",
+      "margin": 0.05604268134986784
+    },
+    {
+      "date": "2026-05-12",
+      "baseline_rank": 94,
+      "rescue_rank": 94,
+      "incumbent": "23",
+      "challenger": "88",
+      "margin": 0.1868729327344866
+    },
+    {
+      "date": "2026-05-13",
+      "baseline_rank": 64,
+      "rescue_rank": 64,
+      "incumbent": "26",
+      "challenger": "11",
+      "margin": 0.5954958064908797
+    },
+    {
+      "date": "2026-05-14",
+      "baseline_rank": 64,
+      "rescue_rank": 64,
+      "incumbent": "27",
+      "challenger": "01",
+      "margin": 0.13438822346192877
+    },
+    {
+      "date": "2026-05-15",
+      "baseline_rank": 40,
+      "rescue_rank": 40,
+      "incumbent": "90",
+      "challenger": "01",
+      "margin": 0.05401249653903642
+    },
+    {
+      "date": "2026-05-16",
+      "baseline_rank": 77,
+      "rescue_rank": 77,
+      "incumbent": "02",
+      "challenger": "88",
+      "margin": 0.3389385287286179
+    },
+    {
+      "date": "2026-05-17",
+      "baseline_rank": 87,
+      "rescue_rank": 87,
+      "incumbent": "86",
+      "challenger": "01",
+      "margin": 0.0932751219807671
+    },
+    {
+      "date": "2026-05-19",
+      "baseline_rank": 48,
+      "rescue_rank": 48,
+      "incumbent": "05",
+      "challenger": "22",
+      "margin": 0.04632508322463283
+    },
+    {
+      "date": "2026-05-20",
+      "baseline_rank": 44,
+      "rescue_rank": 44,
+      "incumbent": "36",
+      "challenger": "86",
+      "margin": 0.351560348639924
+    },
+    {
+      "date": "2026-05-22",
+      "baseline_rank": 59,
+      "rescue_rank": 59,
+      "incumbent": "63",
+      "challenger": "86",
+      "margin": 0.2184774489583546
+    },
+    {
+      "date": "2026-05-23",
+      "baseline_rank": 18,
+      "rescue_rank": 18,
+      "incumbent": "30",
+      "challenger": "35",
+      "margin": 0.06361143074671077
+    },
+    {
+      "date": "2026-05-24",
+      "baseline_rank": 73,
+      "rescue_rank": 73,
+      "incumbent": "39",
+      "challenger": "22",
+      "margin": 0.1193807718299941
+    },
+    {
+      "date": "2026-05-25",
+      "baseline_rank": 7,
+      "rescue_rank": 7,
+      "incumbent": "57",
+      "challenger": "11",
+      "margin": 0.23430622275997362
+    },
+    {
+      "date": "2026-05-26",
+      "baseline_rank": 12,
+      "rescue_rank": 12,
+      "incumbent": "33",
+      "challenger": "72",
+      "margin": 0.5376278393625498
+    },
+    {
+      "date": "2026-05-27",
+      "baseline_rank": 48,
+      "rescue_rank": 48,
+      "incumbent": "07",
+      "challenger": "22",
+      "margin": 0.6976455305391641
+    },
+    {
+      "date": "2026-05-29",
+      "baseline_rank": 23,
+      "rescue_rank": 23,
+      "incumbent": "15",
+      "challenger": "91",
+      "margin": 0.05598370211852857
+    },
+    {
+      "date": "2026-05-30",
+      "baseline_rank": 89,
+      "rescue_rank": 89,
+      "incumbent": "63",
+      "challenger": "00",
+      "margin": 0.20797948120251128
+    },
+    {
+      "date": "2026-06-01",
+      "baseline_rank": 76,
+      "rescue_rank": 76,
+      "incumbent": "17",
+      "challenger": "22",
+      "margin": 0.057276961701403895
+    },
+    {
+      "date": "2026-06-03",
+      "baseline_rank": 18,
+      "rescue_rank": 18,
+      "incumbent": "54",
+      "challenger": "00",
+      "margin": 0.20485738636363635
+    },
+    {
+      "date": "2026-06-04",
+      "baseline_rank": 37,
+      "rescue_rank": 37,
+      "incumbent": "26",
+      "challenger": "00",
+      "margin": 0.3124614299678815
+    },
+    {
+      "date": "2026-06-05",
+      "baseline_rank": 14,
+      "rescue_rank": 14,
+      "incumbent": "69",
+      "challenger": "11",
+      "margin": 0.2574992135811701
+    },
+    {
+      "date": "2026-06-06",
+      "baseline_rank": 80,
+      "rescue_rank": 80,
+      "incumbent": "79",
+      "challenger": "97",
+      "margin": 0.26543012221143825
+    },
+    {
+      "date": "2026-06-07",
+      "baseline_rank": 79,
+      "rescue_rank": 79,
+      "incumbent": "40",
+      "challenger": "55",
+      "margin": 0.9645791512493312
+    },
+    {
+      "date": "2026-06-08",
+      "baseline_rank": 85,
+      "rescue_rank": 85,
+      "incumbent": "17",
+      "challenger": "21",
+      "margin": 0.1960864460542458
+    },
+    {
+      "date": "2026-06-09",
+      "baseline_rank": 17,
+      "rescue_rank": 17,
+      "incumbent": "43",
+      "challenger": "66",
+      "margin": 0.7281310604865208
+    },
+    {
+      "date": "2026-06-10",
+      "baseline_rank": 34,
+      "rescue_rank": 34,
+      "incumbent": "90",
+      "challenger": "02",
+      "margin": 0.4530529243240245
+    },
+    {
+      "date": "2026-06-11",
+      "baseline_rank": 44,
+      "rescue_rank": 44,
+      "incumbent": "33",
+      "challenger": "66",
+      "margin": 0.6286557109148355
+    },
+    {
+      "date": "2026-06-12",
+      "baseline_rank": 65,
+      "rescue_rank": 65,
+      "incumbent": "37",
+      "challenger": "00",
+      "margin": 0.4458690719653715
+    },
+    {
+      "date": "2026-06-13",
+      "baseline_rank": 31,
+      "rescue_rank": 31,
+      "incumbent": "64",
+      "challenger": "00",
+      "margin": 0.46366577900479167
+    },
+    {
+      "date": "2026-07-01",
+      "baseline_rank": 84,
+      "rescue_rank": 84,
+      "incumbent": "91",
+      "challenger": "00",
+      "margin": 0.2384741259354528
+    },
+    {
+      "date": "2026-07-02",
+      "baseline_rank": 3,
+      "rescue_rank": 3,
+      "incumbent": "77",
+      "challenger": "12",
+      "margin": 0.44237805794154506
+    },
+    {
+      "date": "2026-07-03",
+      "baseline_rank": 58,
+      "rescue_rank": 58,
+      "incumbent": "80",
+      "challenger": "66",
+      "margin": 0.2241271792082349
+    },
+    {
+      "date": "2026-07-04",
+      "baseline_rank": 13,
+      "rescue_rank": 13,
+      "incumbent": "95",
+      "challenger": "49",
+      "margin": 0.40477423734519724
+    },
+    {
+      "date": "2026-07-06",
+      "baseline_rank": 75,
+      "rescue_rank": 75,
+      "incumbent": "88",
+      "challenger": "36",
+      "margin": 0.6608360292398703
+    },
+    {
+      "date": "2026-07-08",
+      "baseline_rank": 64,
+      "rescue_rank": 64,
+      "incumbent": "66",
+      "challenger": "41",
+      "margin": 0.6504247374002748
+    },
+    {
+      "date": "2026-07-09",
+      "baseline_rank": 85,
+      "rescue_rank": 85,
+      "incumbent": "22",
+      "challenger": "21",
+      "margin": 0.6491936169426978
+    },
+    {
+      "date": "2026-07-10",
+      "baseline_rank": 51,
+      "rescue_rank": 51,
+      "incumbent": "52",
+      "challenger": "00",
+      "margin": 0.3602609259855022
+    },
+    {
+      "date": "2026-07-11",
+      "baseline_rank": 27,
+      "rescue_rank": 27,
+      "incumbent": "58",
+      "challenger": "00",
+      "margin": 0.16042332623396882
+    },
+    {
+      "date": "2026-07-12",
+      "baseline_rank": 83,
+      "rescue_rank": 83,
+      "incumbent": "64",
+      "challenger": "99",
+      "margin": 0.24244221441132519
+    },
+    {
+      "date": "2026-07-13",
+      "baseline_rank": 51,
+      "rescue_rank": 51,
+      "incumbent": "20",
+      "challenger": "04",
+      "margin": 0.44215225865928043
+    },
+    {
+      "date": "2026-07-14",
+      "baseline_rank": 61,
+      "rescue_rank": 61,
+      "incumbent": "59",
+      "challenger": "11",
+      "margin": 0.4189059264537248
+    },
+    {
+      "date": "2026-07-15",
+      "baseline_rank": 29,
+      "rescue_rank": 29,
+      "incumbent": "73",
+      "challenger": "22",
+      "margin": 0.534936372994553
+    },
+    {
+      "date": "2026-07-16",
+      "baseline_rank": 91,
+      "rescue_rank": 91,
+      "incumbent": "82",
+      "challenger": "33",
+      "margin": 0.7099049421234046
+    },
+    {
+      "date": "2026-07-17",
+      "baseline_rank": 14,
+      "rescue_rank": 14,
+      "incumbent": "91",
+      "challenger": "00",
+      "margin": 0.6369830945008288
+    },
+    {
+      "date": "2026-07-18",
+      "baseline_rank": 88,
+      "rescue_rank": 88,
+      "incumbent": "66",
+      "challenger": "14",
+      "margin": 0.8185140467115712
+    },
+    {
+      "date": "2026-07-19",
+      "baseline_rank": 64,
+      "rescue_rank": 64,
+      "incumbent": "82",
+      "challenger": "00",
+      "margin": 0.2583948306479602
+    },
+    {
+      "date": "2026-07-20",
+      "baseline_rank": 5,
+      "rescue_rank": 5,
+      "incumbent": "53",
+      "challenger": "77",
+      "margin": 0.34778472710443636
+    },
+    {
+      "date": "2026-07-23",
+      "baseline_rank": 63,
+      "rescue_rank": 63,
+      "incumbent": "64",
+      "challenger": "00",
+      "margin": 0.5659267718175683
+    },
+    {
+      "date": "2026-07-24",
+      "baseline_rank": 90,
+      "rescue_rank": 90,
+      "incumbent": "44",
+      "challenger": "19",
+      "margin": 0.14471277702567042
+    },
+    {
+      "date": "2026-07-25",
+      "baseline_rank": 85,
+      "rescue_rank": 85,
+      "incumbent": "34",
+      "challenger": "43",
+      "margin": 0.04670654466285351
+    },
+    {
+      "date": "2026-07-27",
+      "baseline_rank": 6,
+      "rescue_rank": 6,
+      "incumbent": "66",
+      "challenger": "93",
+      "margin": 0.3456910438767039
+    },
+    {
+      "date": "2026-07-28",
+      "baseline_rank": 25,
+      "rescue_rank": 25,
+      "incumbent": "66",
+      "challenger": "33",
+      "margin": 0.3191127545549102
+    },
+    {
+      "date": "2026-07-29",
+      "baseline_rank": 29,
+      "rescue_rank": 29,
+      "incumbent": "93",
+      "challenger": "02",
+      "margin": 0.5059232062518679
+    },
+    {
+      "date": "2026-07-30",
+      "baseline_rank": 48,
+      "rescue_rank": 48,
+      "incumbent": "45",
+      "challenger": "39",
+      "margin": 0.2982617738508263
+    },
+    {
+      "date": "2026-08-01",
+      "baseline_rank": 98,
+      "rescue_rank": 98,
+      "incumbent": "93",
+      "challenger": "68",
+      "margin": 0.26978131898566016
+    },
+    {
+      "date": "2026-08-02",
+      "baseline_rank": 20,
+      "rescue_rank": 20,
+      "incumbent": "34",
+      "challenger": "29",
+      "margin": 0.308980114945622
+    },
+    {
+      "date": "2026-08-03",
+      "baseline_rank": 29,
+      "rescue_rank": 29,
+      "incumbent": "27",
+      "challenger": "07",
+      "margin": 0.23430117460328231
+    },
+    {
+      "date": "2026-08-04",
+      "baseline_rank": 4,
+      "rescue_rank": 9,
+      "incumbent": "27",
+      "challenger": "22",
+      "margin": 0.492530664817989
+    },
+    {
+      "date": "2026-08-05",
+      "baseline_rank": 87,
+      "rescue_rank": 87,
+      "incumbent": "42",
+      "challenger": "59",
+      "margin": 0.09318337912145636
+    },
+    {
+      "date": "2026-08-06",
+      "baseline_rank": 83,
+      "rescue_rank": 83,
+      "incumbent": "58",
+      "challenger": "53",
+      "margin": 0.24202044200757594
+    },
+    {
+      "date": "2026-08-07",
+      "baseline_rank": 19,
+      "rescue_rank": 19,
+      "incumbent": "19",
+      "challenger": "00",
+      "margin": 0.08610863415497672
+    },
+    {
+      "date": "2026-08-08",
+      "baseline_rank": 94,
+      "rescue_rank": 94,
+      "incumbent": "38",
+      "challenger": "80",
+      "margin": 0.5744106076585209
+    },
+    {
+      "date": "2026-08-09",
+      "baseline_rank": 98,
+      "rescue_rank": 98,
+      "incumbent": "23",
+      "challenger": "00",
+      "margin": 0.6413210968086573
+    },
+    {
+      "date": "2026-08-10",
+      "baseline_rank": 66,
+      "rescue_rank": 66,
+      "incumbent": "02",
+      "challenger": "01",
+      "margin": 0.24812879806605298
+    },
+    {
+      "date": "2026-08-12",
+      "baseline_rank": 67,
+      "rescue_rank": 67,
+      "incumbent": "09",
+      "challenger": "92",
+      "margin": 0.1426637199879739
+    },
+    {
+      "date": "2026-08-13",
+      "baseline_rank": 15,
+      "rescue_rank": 15,
+      "incumbent": "59",
+      "challenger": "16",
+      "margin": 0.12518598184223173
+    },
+    {
+      "date": "2026-08-14",
+      "baseline_rank": 83,
+      "rescue_rank": 83,
+      "incumbent": "31",
+      "challenger": "14",
+      "margin": 0.18851478760393614
+    },
+    {
+      "date": "2026-08-19",
+      "baseline_rank": 61,
+      "rescue_rank": 61,
+      "incumbent": "58",
+      "challenger": "00",
+      "margin": 0.3108619466571785
+    },
+    {
+      "date": "2026-08-20",
+      "baseline_rank": 57,
+      "rescue_rank": 57,
+      "incumbent": "38",
+      "challenger": "00",
+      "margin": 0.1286896001617069
+    },
+    {
+      "date": "2026-08-21",
+      "baseline_rank": 41,
+      "rescue_rank": 41,
+      "incumbent": "86",
+      "challenger": "00",
+      "margin": 0.13333660600444988
+    },
+    {
+      "date": "2026-08-22",
+      "baseline_rank": 85,
+      "rescue_rank": 85,
+      "incumbent": "39",
+      "challenger": "00",
+      "margin": 0.5190023126513577
+    },
+    {
+      "date": "2026-08-23",
+      "baseline_rank": 86,
+      "rescue_rank": 86,
+      "incumbent": "31",
+      "challenger": "02",
+      "margin": 0.42602866602556455
+    },
+    {
+      "date": "2026-08-24",
+      "baseline_rank": 4,
+      "rescue_rank": 4,
+      "incumbent": "59",
+      "challenger": "84",
+      "margin": 0.23239266335832012
+    },
+    {
+      "date": "2026-08-26",
+      "baseline_rank": 79,
+      "rescue_rank": 79,
+      "incumbent": "85",
+      "challenger": "00",
+      "margin": 0.35802706908751325
+    },
+    {
+      "date": "2026-08-27",
+      "baseline_rank": 65,
+      "rescue_rank": 65,
+      "incumbent": "80",
+      "challenger": "00",
+      "margin": 0.28954834508079785
+    }
+  ],
+  "Deshawar": [
+    {
+      "date": "2026-02-14",
+      "baseline_rank": 24,
+      "rescue_rank": 24,
+      "incumbent": "32",
+      "challenger": "35",
+      "margin": 0.1918547905662586
+    },
+    {
+      "date": "2026-02-15",
+      "baseline_rank": 28,
+      "rescue_rank": 28,
+      "incumbent": "75",
+      "challenger": "28",
+      "margin": 0.6112584520642474
+    },
+    {
+      "date": "2026-02-16",
+      "baseline_rank": 67,
+      "rescue_rank": 67,
+      "incumbent": "52",
+      "challenger": "54",
+      "margin": 0.5993437864098613
+    },
+    {
+      "date": "2026-02-17",
+      "baseline_rank": 23,
+      "rescue_rank": 23,
+      "incumbent": "75",
+      "challenger": "54",
+      "margin": 0.20825441316917587
+    },
+    {
+      "date": "2026-02-19",
+      "baseline_rank": 29,
+      "rescue_rank": 29,
+      "incumbent": "23",
+      "challenger": "99",
+      "margin": 0.2045352669203275
+    },
+    {
+      "date": "2026-02-20",
+      "baseline_rank": 95,
+      "rescue_rank": 95,
+      "incumbent": "34",
+      "challenger": "29",
+      "margin": 0.18814272824440156
+    },
+    {
+      "date": "2026-02-23",
+      "baseline_rank": 43,
+      "rescue_rank": 43,
+      "incumbent": "89",
+      "challenger": "09",
+      "margin": 0.04074480770781361
+    },
+    {
+      "date": "2026-02-24",
+      "baseline_rank": 59,
+      "rescue_rank": 59,
+      "incumbent": "63",
+      "challenger": "61",
+      "margin": 0.48903467494379665
+    },
+    {
+      "date": "2026-02-25",
+      "baseline_rank": 24,
+      "rescue_rank": 24,
+      "incumbent": "98",
+      "challenger": "99",
+      "margin": 0.1905934143017477
+    },
+    {
+      "date": "2026-02-26",
+      "baseline_rank": 2,
+      "rescue_rank": 2,
+      "incumbent": "77",
+      "challenger": "95",
+      "margin": 0.13904628733842872
+    },
+    {
+      "date": "2026-02-27",
+      "baseline_rank": 72,
+      "rescue_rank": 72,
+      "incumbent": "73",
+      "challenger": "78",
+      "margin": 0.36044242406414806
+    },
+    {
+      "date": "2026-03-02",
+      "baseline_rank": 80,
+      "rescue_rank": 80,
+      "incumbent": "49",
+      "challenger": "94",
+      "margin": 0.10808952655377954
+    },
+    {
+      "date": "2026-03-03",
+      "baseline_rank": 43,
+      "rescue_rank": 43,
+      "incumbent": "55",
+      "challenger": "68",
+      "margin": 0.9368590356808395
+    },
+    {
+      "date": "2026-03-04",
+      "baseline_rank": 84,
+      "rescue_rank": 84,
+      "incumbent": "25",
+      "challenger": "27",
+      "margin": 0.4504175940742192
+    },
+    {
+      "date": "2026-03-06",
+      "baseline_rank": 65,
+      "rescue_rank": 65,
+      "incumbent": "52",
+      "challenger": "57",
+      "margin": 0.3942427274228758
+    },
+    {
+      "date": "2026-03-08",
+      "baseline_rank": 39,
+      "rescue_rank": 39,
+      "incumbent": "48",
+      "challenger": "68",
+      "margin": 0.255868677215524
+    },
+    {
+      "date": "2026-03-09",
+      "baseline_rank": 14,
+      "rescue_rank": 14,
+      "incumbent": "35",
+      "challenger": "27",
+      "margin": 0.2492885571440527
+    },
+    {
+      "date": "2026-03-10",
+      "baseline_rank": 73,
+      "rescue_rank": 73,
+      "incumbent": "58",
+      "challenger": "15",
+      "margin": 0.1465385047721881
+    },
+    {
+      "date": "2026-03-12",
+      "baseline_rank": 33,
+      "rescue_rank": 33,
+      "incumbent": "93",
+      "challenger": "94",
+      "margin": 0.1622583217449154
+    },
+    {
+      "date": "2026-03-15",
+      "baseline_rank": 20,
+      "rescue_rank": 20,
+      "incumbent": "46",
+      "challenger": "49",
+      "margin": 0.35344234753270704
+    },
+    {
+      "date": "2026-03-16",
+      "baseline_rank": 63,
+      "rescue_rank": 63,
+      "incumbent": "46",
+      "challenger": "60",
+      "margin": 0.11548669047753155
+    },
+    {
+      "date": "2026-03-18",
+      "baseline_rank": 45,
+      "rescue_rank": 45,
+      "incumbent": "04",
+      "challenger": "47",
+      "margin": 0.46307953983596684
+    },
+    {
+      "date": "2026-03-19",
+      "baseline_rank": 93,
+      "rescue_rank": 93,
+      "incumbent": "62",
+      "challenger": "33",
+      "margin": 0.09696265368234414
+    },
+    {
+      "date": "2026-03-21",
+      "baseline_rank": 29,
+      "rescue_rank": 29,
+      "incumbent": "11",
+      "challenger": "12",
+      "margin": 0.5225373949569445
+    },
+    {
+      "date": "2026-03-22",
+      "baseline_rank": 29,
+      "rescue_rank": 29,
+      "incumbent": "44",
+      "challenger": "27",
+      "margin": 0.03803666355279178
+    },
+    {
+      "date": "2026-03-23",
+      "baseline_rank": 53,
+      "rescue_rank": 53,
+      "incumbent": "13",
+      "challenger": "29",
+      "margin": 0.09750830590087545
+    },
+    {
+      "date": "2026-03-24",
+      "baseline_rank": 75,
+      "rescue_rank": 75,
+      "incumbent": "02",
+      "challenger": "52",
+      "margin": 0.10181063119187073
+    },
+    {
+      "date": "2026-03-25",
+      "baseline_rank": 29,
+      "rescue_rank": 29,
+      "incumbent": "20",
+      "challenger": "27",
+      "margin": 0.3295431314411277
+    },
+    {
+      "date": "2026-03-27",
+      "baseline_rank": 40,
+      "rescue_rank": 40,
+      "incumbent": "71",
+      "challenger": "12",
+      "margin": 0.2151382111983704
+    },
+    {
+      "date": "2026-03-28",
+      "baseline_rank": 93,
+      "rescue_rank": 93,
+      "incumbent": "87",
+      "challenger": "86",
+      "margin": 0.0423100783837356
+    },
+    {
+      "date": "2026-03-29",
+      "baseline_rank": 87,
+      "rescue_rank": 87,
+      "incumbent": "88",
+      "challenger": "31",
+      "margin": 0.10979317932392985
+    },
+    {
+      "date": "2026-04-06",
+      "baseline_rank": 52,
+      "rescue_rank": 52,
+      "incumbent": "61",
+      "challenger": "00",
+      "margin": 0.24109833477925577
+    },
+    {
+      "date": "2026-04-07",
+      "baseline_rank": 48,
+      "rescue_rank": 48,
+      "incumbent": "06",
+      "challenger": "29",
+      "margin": 0.08027083333333332
+    },
+    {
+      "date": "2026-04-09",
+      "baseline_rank": 70,
+      "rescue_rank": 70,
+      "incumbent": "74",
+      "challenger": "33",
+      "margin": 0.25589433593975874
+    },
+    {
+      "date": "2026-04-10",
+      "baseline_rank": 87,
+      "rescue_rank": 87,
+      "incumbent": "82",
+      "challenger": "58",
+      "margin": 0.06444074840066868
+    },
+    {
+      "date": "2026-04-14",
+      "baseline_rank": 58,
+      "rescue_rank": 58,
+      "incumbent": "47",
+      "challenger": "44",
+      "margin": 0.1735589256535947
+    },
+    {
+      "date": "2026-04-15",
+      "baseline_rank": 12,
+      "rescue_rank": 12,
+      "incumbent": "47",
+      "challenger": "05",
+      "margin": 0.3245345481470482
+    },
+    {
+      "date": "2026-04-17",
+      "baseline_rank": 43,
+      "rescue_rank": 43,
+      "incumbent": "82",
+      "challenger": "00",
+      "margin": 0.42039406879305774
+    },
+    {
+      "date": "2026-04-18",
+      "baseline_rank": 64,
+      "rescue_rank": 64,
+      "incumbent": "92",
+      "challenger": "99",
+      "margin": 0.6157248355263157
+    },
+    {
+      "date": "2026-04-19",
+      "baseline_rank": 2,
+      "rescue_rank": 2,
+      "incumbent": "82",
+      "challenger": "15",
+      "margin": 0.4561165303521779
+    },
+    {
+      "date": "2026-04-20",
+      "baseline_rank": 95,
+      "rescue_rank": 95,
+      "incumbent": "82",
+      "challenger": "99",
+      "margin": 0.2207685845588236
+    },
+    {
+      "date": "2026-04-21",
+      "baseline_rank": 24,
+      "rescue_rank": 24,
+      "incumbent": "49",
+      "challenger": "99",
+      "margin": 0.14007138762578408
+    },
+    {
+      "date": "2026-04-22",
+      "baseline_rank": 83,
+      "rescue_rank": 83,
+      "incumbent": "49",
+      "challenger": "87",
+      "margin": 0.13592392561571123
+    },
+    {
+      "date": "2026-04-23",
+      "baseline_rank": 20,
+      "rescue_rank": 20,
+      "incumbent": "92",
+      "challenger": "87",
+      "margin": 0.1145114436370733
+    },
+    {
+      "date": "2026-04-24",
+      "baseline_rank": 92,
+      "rescue_rank": 92,
+      "incumbent": "85",
+      "challenger": "99",
+      "margin": 0.15966190811009373
+    },
+    {
+      "date": "2026-04-25",
+      "baseline_rank": 65,
+      "rescue_rank": 65,
+      "incumbent": "85",
+      "challenger": "99",
+      "margin": 0.28789699898959603
+    },
+    {
+      "date": "2026-04-26",
+      "baseline_rank": 96,
+      "rescue_rank": 96,
+      "incumbent": "85",
+      "challenger": "79",
+      "margin": 0.12220441305303653
+    },
+    {
+      "date": "2026-04-27",
+      "baseline_rank": 14,
+      "rescue_rank": 14,
+      "incumbent": "85",
+      "challenger": "11",
+      "margin": 0.7152536483948411
+    },
+    {
+      "date": "2026-04-28",
+      "baseline_rank": 3,
+      "rescue_rank": 3,
+      "incumbent": "41",
+      "challenger": "88",
+      "margin": 0.3617203828916522
+    },
+    {
+      "date": "2026-04-29",
+      "baseline_rank": 58,
+      "rescue_rank": 58,
+      "incumbent": "85",
+      "challenger": "88",
+      "margin": 0.4141728064749728
+    },
+    {
+      "date": "2026-04-30",
+      "baseline_rank": 4,
+      "rescue_rank": 4,
+      "incumbent": "85",
+      "challenger": "11",
+      "margin": 0.2827220071920089
+    },
+    {
+      "date": "2026-05-02",
+      "baseline_rank": 9,
+      "rescue_rank": 9,
+      "incumbent": "85",
+      "challenger": "11",
+      "margin": 0.346218804418036
+    },
+    {
+      "date": "2026-05-03",
+      "baseline_rank": 21,
+      "rescue_rank": 21,
+      "incumbent": "93",
+      "challenger": "11",
+      "margin": 0.4254497126948102
+    },
+    {
+      "date": "2026-05-04",
+      "baseline_rank": 20,
+      "rescue_rank": 20,
+      "incumbent": "15",
+      "challenger": "88",
+      "margin": 0.1673352719659722
+    },
+    {
+      "date": "2026-05-05",
+      "baseline_rank": 63,
+      "rescue_rank": 63,
+      "incumbent": "44",
+      "challenger": "27",
+      "margin": 0.34632581863408973
+    },
+    {
+      "date": "2026-05-06",
+      "baseline_rank": 37,
+      "rescue_rank": 37,
+      "incumbent": "15",
+      "challenger": "06",
+      "margin": 0.36125011517764993
+    },
+    {
+      "date": "2026-05-07",
+      "baseline_rank": 94,
+      "rescue_rank": 94,
+      "incumbent": "15",
+      "challenger": "03",
+      "margin": 0.6071386005076794
+    },
+    {
+      "date": "2026-05-08",
+      "baseline_rank": 10,
+      "rescue_rank": 10,
+      "incumbent": "79",
+      "challenger": "84",
+      "margin": 0.526039709317865
+    },
+    {
+      "date": "2026-05-09",
+      "baseline_rank": 48,
+      "rescue_rank": 48,
+      "incumbent": "56",
+      "challenger": "03",
+      "margin": 0.09085256860062851
+    },
+    {
+      "date": "2026-05-10",
+      "baseline_rank": 22,
+      "rescue_rank": 22,
+      "incumbent": "79",
+      "challenger": "19",
+      "margin": 0.4590107309660501
+    },
+    {
+      "date": "2026-05-11",
+      "baseline_rank": 64,
+      "rescue_rank": 64,
+      "incumbent": "79",
+      "challenger": "00",
+      "margin": 0.2501990899365544
+    },
+    {
+      "date": "2026-05-12",
+      "baseline_rank": 63,
+      "rescue_rank": 63,
+      "incumbent": "79",
+      "challenger": "10",
+      "margin": 0.7814300766977206
+    },
+    {
+      "date": "2026-05-13",
+      "baseline_rank": 78,
+      "rescue_rank": 78,
+      "incumbent": "79",
+      "challenger": "08",
+      "margin": 0.6627956577066211
+    },
+    {
+      "date": "2026-05-14",
+      "baseline_rank": 92,
+      "rescue_rank": 92,
+      "incumbent": "79",
+      "challenger": "46",
+      "margin": 0.6779706409354591
+    },
+    {
+      "date": "2026-05-15",
+      "baseline_rank": 90,
+      "rescue_rank": 90,
+      "incumbent": "79",
+      "challenger": "76",
+      "margin": 0.8018702931008508
+    },
+    {
+      "date": "2026-05-16",
+      "baseline_rank": 90,
+      "rescue_rank": 90,
+      "incumbent": "44",
+      "challenger": "74",
+      "margin": 0.5857680565951362
+    },
+    {
+      "date": "2026-05-18",
+      "baseline_rank": 26,
+      "rescue_rank": 26,
+      "incumbent": "44",
+      "challenger": "73",
+      "margin": 0.29459579633607824
+    },
+    {
+      "date": "2026-05-19",
+      "baseline_rank": 45,
+      "rescue_rank": 45,
+      "incumbent": "44",
+      "challenger": "15",
+      "margin": 0.16101206384829453
+    },
+    {
+      "date": "2026-05-20",
+      "baseline_rank": 11,
+      "rescue_rank": 11,
+      "incumbent": "56",
+      "challenger": "44",
+      "margin": 0.3529848456532256
+    },
+    {
+      "date": "2026-05-21",
+      "baseline_rank": 99,
+      "rescue_rank": 99,
+      "incumbent": "06",
+      "challenger": "56",
+      "margin": 0.05042223396937401
+    },
+    {
+      "date": "2026-05-23",
+      "baseline_rank": 42,
+      "rescue_rank": 42,
+      "incumbent": "06",
+      "challenger": "96",
+      "margin": 0.06612197427206828
+    },
+    {
+      "date": "2026-05-24",
+      "baseline_rank": 100,
+      "rescue_rank": 100,
+      "incumbent": "96",
+      "challenger": "74",
+      "margin": 0.43464483751378874
+    },
+    {
+      "date": "2026-05-25",
+      "baseline_rank": 87,
+      "rescue_rank": 87,
+      "incumbent": "61",
+      "challenger": "74",
+      "margin": 0.4711597428154203
+    },
+    {
+      "date": "2026-05-27",
+      "baseline_rank": 13,
+      "rescue_rank": 13,
+      "incumbent": "37",
+      "challenger": "16",
+      "margin": 0.05859776639300063
+    },
+    {
+      "date": "2026-05-29",
+      "baseline_rank": 73,
+      "rescue_rank": 73,
+      "incumbent": "90",
+      "challenger": "73",
+      "margin": 0.45388596188606073
+    },
+    {
+      "date": "2026-05-30",
+      "baseline_rank": 21,
+      "rescue_rank": 21,
+      "incumbent": "83",
+      "challenger": "73",
+      "margin": 0.3880656046479805
+    },
+    {
+      "date": "2026-06-02",
+      "baseline_rank": 48,
+      "rescue_rank": 48,
+      "incumbent": "46",
+      "challenger": "64",
+      "margin": 0.055115158647403184
+    },
+    {
+      "date": "2026-06-03",
+      "baseline_rank": 21,
+      "rescue_rank": 21,
+      "incumbent": "35",
+      "challenger": "88",
+      "margin": 0.710504470252747
+    },
+    {
+      "date": "2026-06-04",
+      "baseline_rank": 53,
+      "rescue_rank": 53,
+      "incumbent": "08",
+      "challenger": "00",
+      "margin": 0.321970162845499
+    },
+    {
+      "date": "2026-06-07",
+      "baseline_rank": 71,
+      "rescue_rank": 71,
+      "incumbent": "71",
+      "challenger": "78",
+      "margin": 0.06553418513986728
+    },
+    {
+      "date": "2026-06-08",
+      "baseline_rank": 68,
+      "rescue_rank": 68,
+      "incumbent": "00",
+      "challenger": "47",
+      "margin": 0.29551131403774866
+    },
+    {
+      "date": "2026-06-09",
+      "baseline_rank": 10,
+      "rescue_rank": 10,
+      "incumbent": "64",
+      "challenger": "28",
+      "margin": 0.1878602462557604
+    },
+    {
+      "date": "2026-06-10",
+      "baseline_rank": 77,
+      "rescue_rank": 77,
+      "incumbent": "66",
+      "challenger": "28",
+      "margin": 0.0766114046564681
+    },
+    {
+      "date": "2026-06-12",
+      "baseline_rank": 89,
+      "rescue_rank": 89,
+      "incumbent": "11",
+      "challenger": "13",
+      "margin": 0.19463913646104725
+    },
+    {
+      "date": "2026-06-13",
+      "baseline_rank": 19,
+      "rescue_rank": 19,
+      "incumbent": "44",
+      "challenger": "25",
+      "margin": 0.2543682556355875
+    },
+    {
+      "date": "2026-06-14",
+      "baseline_rank": 84,
+      "rescue_rank": 84,
+      "incumbent": "00",
+      "challenger": "17",
+      "margin": 0.04118163005799208
+    },
+    {
+      "date": "2026-07-02",
+      "baseline_rank": 85,
+      "rescue_rank": 85,
+      "incumbent": "55",
+      "challenger": "62",
+      "margin": 0.2003367790416033
+    },
+    {
+      "date": "2026-07-04",
+      "baseline_rank": 100,
+      "rescue_rank": 100,
+      "incumbent": "11",
+      "challenger": "71",
+      "margin": 0.29616222260692376
+    },
+    {
+      "date": "2026-07-05",
+      "baseline_rank": 51,
+      "rescue_rank": 51,
+      "incumbent": "62",
+      "challenger": "76",
+      "margin": 0.08428287544811428
+    },
+    {
+      "date": "2026-07-08",
+      "baseline_rank": 27,
+      "rescue_rank": 27,
+      "incumbent": "39",
+      "challenger": "91",
+      "margin": 0.31181805099092713
+    },
+    {
+      "date": "2026-07-10",
+      "baseline_rank": 4,
+      "rescue_rank": 4,
+      "incumbent": "62",
+      "challenger": "02",
+      "margin": 0.44576136968960484
+    },
+    {
+      "date": "2026-07-11",
+      "baseline_rank": 58,
+      "rescue_rank": 58,
+      "incumbent": "56",
+      "challenger": "02",
+      "margin": 0.3274358974338813
+    },
+    {
+      "date": "2026-07-12",
+      "baseline_rank": 34,
+      "rescue_rank": 34,
+      "incumbent": "47",
+      "challenger": "02",
+      "margin": 0.24338475673572182
+    },
+    {
+      "date": "2026-07-13",
+      "baseline_rank": 70,
+      "rescue_rank": 70,
+      "incumbent": "78",
+      "challenger": "00",
+      "margin": 0.4236345054475521
+    },
+    {
+      "date": "2026-07-14",
+      "baseline_rank": 77,
+      "rescue_rank": 77,
+      "incumbent": "17",
+      "challenger": "02",
+      "margin": 0.15026570209862938
+    },
+    {
+      "date": "2026-07-15",
+      "baseline_rank": 25,
+      "rescue_rank": 25,
+      "incumbent": "28",
+      "challenger": "00",
+      "margin": 0.1999652935215538
+    },
+    {
+      "date": "2026-07-16",
+      "baseline_rank": 34,
+      "rescue_rank": 34,
+      "incumbent": "42",
+      "challenger": "26",
+      "margin": 0.40451772436870653
+    },
+    {
+      "date": "2026-07-17",
+      "baseline_rank": 38,
+      "rescue_rank": 38,
+      "incumbent": "93",
+      "challenger": "00",
+      "margin": 0.8783154186082892
+    },
+    {
+      "date": "2026-07-18",
+      "baseline_rank": 87,
+      "rescue_rank": 87,
+      "incumbent": "65",
+      "challenger": "46",
+      "margin": 0.31929752433877934
+    },
+    {
+      "date": "2026-07-19",
+      "baseline_rank": 25,
+      "rescue_rank": 25,
+      "incumbent": "31",
+      "challenger": "13",
+      "margin": 0.10699093016213551
+    },
+    {
+      "date": "2026-07-20",
+      "baseline_rank": 85,
+      "rescue_rank": 85,
+      "incumbent": "25",
+      "challenger": "47",
+      "margin": 0.15667950425750204
+    },
+    {
+      "date": "2026-07-21",
+      "baseline_rank": 1,
+      "rescue_rank": 1,
+      "incumbent": "91",
+      "challenger": "26",
+      "margin": 0.2787768467980834
+    },
+    {
+      "date": "2026-07-22",
+      "baseline_rank": 14,
+      "rescue_rank": 14,
+      "incumbent": "35",
+      "challenger": "00",
+      "margin": 0.35947827761455275
+    },
+    {
+      "date": "2026-07-23",
+      "baseline_rank": 4,
+      "rescue_rank": 4,
+      "incumbent": "24",
+      "challenger": "00",
+      "margin": 0.3511395044926234
+    },
+    {
+      "date": "2026-07-24",
+      "baseline_rank": 72,
+      "rescue_rank": 72,
+      "incumbent": "39",
+      "challenger": "02",
+      "margin": 0.9541728328228567
+    },
+    {
+      "date": "2026-07-25",
+      "baseline_rank": 91,
+      "rescue_rank": 91,
+      "incumbent": "91",
+      "challenger": "02",
+      "margin": 0.2570217797115114
+    },
+    {
+      "date": "2026-07-26",
+      "baseline_rank": 69,
+      "rescue_rank": 69,
+      "incumbent": "62",
+      "challenger": "73",
+      "margin": 0.5953024613379089
+    },
+    {
+      "date": "2026-07-27",
+      "baseline_rank": 4,
+      "rescue_rank": 4,
+      "incumbent": "60",
+      "challenger": "16",
+      "margin": 0.485460019558661
+    },
+    {
+      "date": "2026-07-28",
+      "baseline_rank": 78,
+      "rescue_rank": 78,
+      "incumbent": "91",
+      "challenger": "03",
+      "margin": 0.16717937727871315
+    },
+    {
+      "date": "2026-07-29",
+      "baseline_rank": 3,
+      "rescue_rank": 3,
+      "incumbent": "53",
+      "challenger": "00",
+      "margin": 0.3472089560001773
+    },
+    {
+      "date": "2026-07-30",
+      "baseline_rank": 72,
+      "rescue_rank": 72,
+      "incumbent": "82",
+      "challenger": "97",
+      "margin": 0.07982020707056897
+    },
+    {
+      "date": "2026-07-31",
+      "baseline_rank": 15,
+      "rescue_rank": 15,
+      "incumbent": "26",
+      "challenger": "67",
+      "margin": 0.7316247423500624
+    },
+    {
+      "date": "2026-08-02",
+      "baseline_rank": 39,
+      "rescue_rank": 39,
+      "incumbent": "58",
+      "challenger": "00",
+      "margin": 0.1144627993459339
+    },
+    {
+      "date": "2026-08-04",
+      "baseline_rank": 38,
+      "rescue_rank": 38,
+      "incumbent": "38",
+      "challenger": "16",
+      "margin": 0.5419093731521669
+    },
+    {
+      "date": "2026-08-05",
+      "baseline_rank": 94,
+      "rescue_rank": 94,
+      "incumbent": "37",
+      "challenger": "05",
+      "margin": 0.2673968179297408
+    },
+    {
+      "date": "2026-08-06",
+      "baseline_rank": 55,
+      "rescue_rank": 55,
+      "incumbent": "83",
+      "challenger": "06",
+      "margin": 0.14626648242982887
+    },
+    {
+      "date": "2026-08-07",
+      "baseline_rank": 84,
+      "rescue_rank": 84,
+      "incumbent": "28",
+      "challenger": "00",
+      "margin": 0.04975258040153396
+    },
+    {
+      "date": "2026-08-08",
+      "baseline_rank": 4,
+      "rescue_rank": 4,
+      "incumbent": "32",
+      "challenger": "01",
+      "margin": 0.3114092141323086
+    },
+    {
+      "date": "2026-08-10",
+      "baseline_rank": 68,
+      "rescue_rank": 68,
+      "incumbent": "56",
+      "challenger": "83",
+      "margin": 0.593517598324933
+    },
+    {
+      "date": "2026-08-11",
+      "baseline_rank": 90,
+      "rescue_rank": 90,
+      "incumbent": "60",
+      "challenger": "16",
+      "margin": 0.8923388001223437
+    },
+    {
+      "date": "2026-08-12",
+      "baseline_rank": 28,
+      "rescue_rank": 28,
+      "incumbent": "57",
+      "challenger": "00",
+      "margin": 0.34677313026172746
+    },
+    {
+      "date": "2026-08-13",
+      "baseline_rank": 82,
+      "rescue_rank": 82,
+      "incumbent": "61",
+      "challenger": "83",
+      "margin": 0.06375433273297654
+    },
+    {
+      "date": "2026-08-14",
+      "baseline_rank": 21,
+      "rescue_rank": 21,
+      "incumbent": "67",
+      "challenger": "79",
+      "margin": 0.6440420985293769
+    },
+    {
+      "date": "2026-08-15",
+      "baseline_rank": 76,
+      "rescue_rank": 76,
+      "incumbent": "83",
+      "challenger": "96",
+      "margin": 0.33285916904311846
+    },
+    {
+      "date": "2026-08-16",
+      "baseline_rank": 80,
+      "rescue_rank": 80,
+      "incumbent": "83",
+      "challenger": "12",
+      "margin": 0.21674273322040022
+    },
+    {
+      "date": "2026-08-17",
+      "baseline_rank": 36,
+      "rescue_rank": 36,
+      "incumbent": "83",
+      "challenger": "49",
+      "margin": 0.37986617015257645
+    },
+    {
+      "date": "2026-08-18",
+      "baseline_rank": 65,
+      "rescue_rank": 65,
+      "incumbent": "83",
+      "challenger": "88",
+      "margin": 0.2883480441471047
+    },
+    {
+      "date": "2026-08-19",
+      "baseline_rank": 3,
+      "rescue_rank": 3,
+      "incumbent": "83",
+      "challenger": "19",
+      "margin": 0.2344740024093027
+    },
+    {
+      "date": "2026-08-20",
+      "baseline_rank": 49,
+      "rescue_rank": 49,
+      "incumbent": "83",
+      "challenger": "79",
+      "margin": 0.34211410206009574
+    },
+    {
+      "date": "2026-08-21",
+      "baseline_rank": 61,
+      "rescue_rank": 61,
+      "incumbent": "31",
+      "challenger": "12",
+      "margin": 0.1918030890738497
+    },
+    {
+      "date": "2026-08-23",
+      "baseline_rank": 72,
+      "rescue_rank": 72,
+      "incumbent": "31",
+      "challenger": "57",
+      "margin": 0.13504510982416945
+    },
+    {
+      "date": "2026-08-25",
+      "baseline_rank": 70,
+      "rescue_rank": 70,
+      "incumbent": "40",
+      "challenger": "18",
+      "margin": 0.08464187073294305
+    },
+    {
+      "date": "2026-08-26",
+      "baseline_rank": 89,
+      "rescue_rank": 89,
+      "incumbent": "31",
+      "challenger": "41",
+      "margin": 0.18542123156063264
+    },
+    {
+      "date": "2026-08-29",
+      "baseline_rank": 7,
+      "rescue_rank": 7,
+      "incumbent": "40",
+      "challenger": "80",
+      "margin": 0.06454673282622986
+    }
+  ]
+}

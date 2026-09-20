@@ -1,0 +1,137 @@
+{
+  "metrics": {
+    "Deshawar": {
+      "all_targets": 188,
+      "elected_targets": 172,
+      "coverage_pct": 91.49,
+      "baseline_top5_pct": 8.14,
+      "v4_top5_pct": 8.14,
+      "baseline_top10_pct": 11.05,
+      "v4_top10_pct": 11.05,
+      "baseline_top21_pct": 23.26,
+      "v4_top21_pct": 23.26,
+      "baseline_top36_pct": 39.53,
+      "v4_top36_pct": 39.53,
+      "baseline_mrr": 0.0598,
+      "v4_mrr": 0.0598,
+      "all_target_top5_pct": 7.45,
+      "live_targets": 0,
+      "rescues": 0,
+      "damages": 0,
+      "final_state": "SHADOW",
+      "shadow_stats": {
+        "n": 147,
+        "net5": -2,
+        "net10": 5,
+        "mrr_delta": 0.003949746323228885
+      },
+      "recent_shadow_stats": {
+        "n": 30,
+        "net5": 0,
+        "net10": 0,
+        "mrr_delta": 0.025692333355872562
+      }
+    },
+    "Faridabad": {
+      "all_targets": 192,
+      "elected_targets": 177,
+      "coverage_pct": 92.19,
+      "baseline_top5_pct": 5.65,
+      "v4_top5_pct": 5.65,
+      "baseline_top10_pct": 12.99,
+      "v4_top10_pct": 12.99,
+      "baseline_top21_pct": 26.55,
+      "v4_top21_pct": 26.55,
+      "baseline_top36_pct": 38.42,
+      "v4_top36_pct": 38.42,
+      "baseline_mrr": 0.0599,
+      "v4_mrr": 0.0599,
+      "all_target_top5_pct": 5.21,
+      "live_targets": 0,
+      "rescues": 0,
+      "damages": 0,
+      "final_state": "SHADOW",
+      "shadow_stats": {
+        "n": 152,
+        "net5": -3,
+        "net10": -5,
+        "mrr_delta": -0.01159085433827072
+      },
+      "recent_shadow_stats": {
+        "n": 30,
+        "net5": 2,
+        "net10": 3,
+        "mrr_delta": 0.061417219008810815
+      }
+    },
+    "Ghaziabad": {
+      "all_targets": 191,
+      "elected_targets": 176,
+      "coverage_pct": 92.15,
+      "baseline_top5_pct": 5.68,
+      "v4_top5_pct": 5.68,
+      "baseline_top10_pct": 11.93,
+      "v4_top10_pct": 11.93,
+      "baseline_top21_pct": 26.14,
+      "v4_top21_pct": 26.14,
+      "baseline_top36_pct": 47.73,
+      "v4_top36_pct": 47.73,
+      "baseline_mrr": 0.0505,
+      "v4_mrr": 0.0505,
+      "all_target_top5_pct": 5.24,
+      "live_targets": 0,
+      "rescues": 0,
+      "damages": 0,
+      "final_state": "SHADOW",
+      "shadow_stats": {
+        "n": 151,
+        "net5": -4,
+        "net10": -3,
+        "mrr_delta": 0.00012314137541230569
+      },
+      "recent_shadow_stats": {
+        "n": 30,
+        "net5": -3,
+        "net10": -2,
+        "mrr_delta": -0.02806252694238276
+      }
+    },
+    "Gali": {
+      "all_targets": 190,
+      "elected_targets": 174,
+      "coverage_pct": 91.58,
+      "baseline_top5_pct": 4.6,
+      "v4_top5_pct": 4.6,
+      "baseline_top10_pct": 8.62,
+      "v4_top10_pct": 8.62,
+      "baseline_top21_pct": 20.11,
+      "v4_top21_pct": 20.11,
+      "baseline_top36_pct": 31.61,
+      "v4_top36_pct": 31.61,
+      "baseline_mrr": 0.0426,
+      "v4_mrr": 0.0426,
+      "all_target_top5_pct": 4.21,
+      "live_targets": 0,
+      "rescues": 0,
+      "damages": 0,
+      "final_state": "PROBATION",
+      "shadow_stats": {
+        "n": 149,
+        "net5": 1,
+        "net10": 8,
+        "mrr_delta": 0.00984233437495714
+      },
+      "recent_shadow_stats": {
+        "n": 30,
+        "net5": 0,
+        "net10": 2,
+        "mrr_delta": 0.01838205242448866
+      }
+    }
+  },
+  "integrity": {
+    "records_checked": 761,
+    "issues": [],
+    "pass": true
+  }
+}

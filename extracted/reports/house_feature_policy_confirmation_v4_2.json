@@ -1,0 +1,2250 @@
+[
+  {
+    "date": "2026-06-03",
+    "source_cutoff": "2026-06-02",
+    "house": "Deshawar",
+    "policy": "DROP_PRIMARY_EVIDENCE",
+    "baseline_rank": 21,
+    "ltr_rank": 41
+  },
+  {
+    "date": "2026-06-04",
+    "source_cutoff": "2026-06-03",
+    "house": "Deshawar",
+    "policy": "DROP_PRIMARY_EVIDENCE",
+    "baseline_rank": 53,
+    "ltr_rank": 53
+  },
+  {
+    "date": "2026-06-06",
+    "source_cutoff": "2026-06-05",
+    "house": "Deshawar",
+    "policy": "DROP_PRIMARY_EVIDENCE",
+    "baseline_rank": 31,
+    "ltr_rank": 96
+  },
+  {
+    "date": "2026-06-07",
+    "source_cutoff": "2026-06-06",
+    "house": "Deshawar",
+    "policy": "DROP_PRIMARY_EVIDENCE",
+    "baseline_rank": 71,
+    "ltr_rank": 3
+  },
+  {
+    "date": "2026-06-08",
+    "source_cutoff": "2026-06-07",
+    "house": "Deshawar",
+    "policy": "DROP_PRIMARY_EVIDENCE",
+    "baseline_rank": 68,
+    "ltr_rank": 83
+  },
+  {
+    "date": "2026-06-09",
+    "source_cutoff": "2026-06-08",
+    "house": "Deshawar",
+    "policy": "DROP_PRIMARY_EVIDENCE",
+    "baseline_rank": 10,
+    "ltr_rank": 100
+  },
+  {
+    "date": "2026-06-10",
+    "source_cutoff": "2026-06-09",
+    "house": "Deshawar",
+    "policy": "DROP_PRIMARY_EVIDENCE",
+    "baseline_rank": 77,
+    "ltr_rank": 14
+  },
+  {
+    "date": "2026-06-11",
+    "source_cutoff": "2026-06-10",
+    "house": "Deshawar",
+    "policy": "DROP_PRIMARY_EVIDENCE",
+    "baseline_rank": 86,
+    "ltr_rank": 68
+  },
+  {
+    "date": "2026-06-12",
+    "source_cutoff": "2026-06-11",
+    "house": "Deshawar",
+    "policy": "DROP_PRIMARY_EVIDENCE",
+    "baseline_rank": 89,
+    "ltr_rank": 63
+  },
+  {
+    "date": "2026-06-13",
+    "source_cutoff": "2026-06-12",
+    "house": "Deshawar",
+    "policy": "DROP_PRIMARY_EVIDENCE",
+    "baseline_rank": 19,
+    "ltr_rank": 50
+  },
+  {
+    "date": "2026-06-14",
+    "source_cutoff": "2026-06-13",
+    "house": "Deshawar",
+    "policy": "DROP_PRIMARY_EVIDENCE",
+    "baseline_rank": 84,
+    "ltr_rank": 28
+  },
+  {
+    "date": "2026-07-02",
+    "source_cutoff": "2026-07-01",
+    "house": "Deshawar",
+    "policy": "DROP_PRIMARY_EVIDENCE",
+    "baseline_rank": 85,
+    "ltr_rank": 80
+  },
+  {
+    "date": "2026-07-03",
+    "source_cutoff": "2026-07-02",
+    "house": "Deshawar",
+    "policy": "DROP_PRIMARY_EVIDENCE",
+    "baseline_rank": 74,
+    "ltr_rank": 19
+  },
+  {
+    "date": "2026-07-04",
+    "source_cutoff": "2026-07-03",
+    "house": "Deshawar",
+    "policy": "DROP_PRIMARY_EVIDENCE",
+    "baseline_rank": 100,
+    "ltr_rank": 11
+  },
+  {
+    "date": "2026-07-05",
+    "source_cutoff": "2026-07-04",
+    "house": "Deshawar",
+    "policy": "DROP_PRIMARY_EVIDENCE",
+    "baseline_rank": 51,
+    "ltr_rank": 33
+  },
+  {
+    "date": "2026-07-06",
+    "source_cutoff": "2026-07-05",
+    "house": "Deshawar",
+    "policy": "DROP_PRIMARY_EVIDENCE",
+    "baseline_rank": 20,
+    "ltr_rank": 76
+  },
+  {
+    "date": "2026-07-07",
+    "source_cutoff": "2026-07-06",
+    "house": "Deshawar",
+    "policy": "DROP_PRIMARY_EVIDENCE",
+    "baseline_rank": 35,
+    "ltr_rank": 39
+  },
+  {
+    "date": "2026-07-08",
+    "source_cutoff": "2026-07-07",
+    "house": "Deshawar",
+    "policy": "DROP_PRIMARY_EVIDENCE",
+    "baseline_rank": 27,
+    "ltr_rank": 42
+  },
+  {
+    "date": "2026-07-09",
+    "source_cutoff": "2026-07-08",
+    "house": "Deshawar",
+    "policy": "DROP_PRIMARY_EVIDENCE",
+    "baseline_rank": 12,
+    "ltr_rank": 5
+  },
+  {
+    "date": "2026-07-10",
+    "source_cutoff": "2026-07-09",
+    "house": "Deshawar",
+    "policy": "DROP_PRIMARY_EVIDENCE",
+    "baseline_rank": 4,
+    "ltr_rank": 19
+  },
+  {
+    "date": "2026-07-11",
+    "source_cutoff": "2026-07-10",
+    "house": "Deshawar",
+    "policy": "DROP_PRIMARY_EVIDENCE",
+    "baseline_rank": 58,
+    "ltr_rank": 67
+  },
+  {
+    "date": "2026-07-12",
+    "source_cutoff": "2026-07-11",
+    "house": "Deshawar",
+    "policy": "DROP_PRIMARY_EVIDENCE",
+    "baseline_rank": 34,
+    "ltr_rank": 28
+  },
+  {
+    "date": "2026-07-13",
+    "source_cutoff": "2026-07-12",
+    "house": "Deshawar",
+    "policy": "DROP_PRIMARY_EVIDENCE",
+    "baseline_rank": 70,
+    "ltr_rank": 94
+  },
+  {
+    "date": "2026-07-14",
+    "source_cutoff": "2026-07-13",
+    "house": "Deshawar",
+    "policy": "DROP_PRIMARY_EVIDENCE",
+    "baseline_rank": 77,
+    "ltr_rank": 35
+  },
+  {
+    "date": "2026-07-15",
+    "source_cutoff": "2026-07-14",
+    "house": "Deshawar",
+    "policy": "DROP_PRIMARY_EVIDENCE",
+    "baseline_rank": 25,
+    "ltr_rank": 26
+  },
+  {
+    "date": "2026-07-16",
+    "source_cutoff": "2026-07-15",
+    "house": "Deshawar",
+    "policy": "DROP_PRIMARY_EVIDENCE",
+    "baseline_rank": 34,
+    "ltr_rank": 3
+  },
+  {
+    "date": "2026-07-17",
+    "source_cutoff": "2026-07-16",
+    "house": "Deshawar",
+    "policy": "DROP_PRIMARY_EVIDENCE",
+    "baseline_rank": 38,
+    "ltr_rank": 63
+  },
+  {
+    "date": "2026-07-18",
+    "source_cutoff": "2026-07-17",
+    "house": "Deshawar",
+    "policy": "DROP_PRIMARY_EVIDENCE",
+    "baseline_rank": 87,
+    "ltr_rank": 99
+  },
+  {
+    "date": "2026-07-19",
+    "source_cutoff": "2026-07-18",
+    "house": "Deshawar",
+    "policy": "DROP_PRIMARY_EVIDENCE",
+    "baseline_rank": 25,
+    "ltr_rank": 6
+  },
+  {
+    "date": "2026-07-20",
+    "source_cutoff": "2026-07-19",
+    "house": "Deshawar",
+    "policy": "DROP_PRIMARY_EVIDENCE",
+    "baseline_rank": 85,
+    "ltr_rank": 7
+  },
+  {
+    "date": "2026-07-21",
+    "source_cutoff": "2026-07-20",
+    "house": "Deshawar",
+    "policy": "DROP_PRIMARY_EVIDENCE",
+    "baseline_rank": 1,
+    "ltr_rank": 25
+  },
+  {
+    "date": "2026-07-22",
+    "source_cutoff": "2026-07-21",
+    "house": "Deshawar",
+    "policy": "DROP_PRIMARY_EVIDENCE",
+    "baseline_rank": 14,
+    "ltr_rank": 88
+  },
+  {
+    "date": "2026-07-23",
+    "source_cutoff": "2026-07-22",
+    "house": "Deshawar",
+    "policy": "DROP_PRIMARY_EVIDENCE",
+    "baseline_rank": 4,
+    "ltr_rank": 46
+  },
+  {
+    "date": "2026-07-24",
+    "source_cutoff": "2026-07-23",
+    "house": "Deshawar",
+    "policy": "DROP_PRIMARY_EVIDENCE",
+    "baseline_rank": 72,
+    "ltr_rank": 77
+  },
+  {
+    "date": "2026-07-25",
+    "source_cutoff": "2026-07-24",
+    "house": "Deshawar",
+    "policy": "DROP_PRIMARY_EVIDENCE",
+    "baseline_rank": 91,
+    "ltr_rank": 78
+  },
+  {
+    "date": "2026-07-26",
+    "source_cutoff": "2026-07-25",
+    "house": "Deshawar",
+    "policy": "DROP_PRIMARY_EVIDENCE",
+    "baseline_rank": 69,
+    "ltr_rank": 61
+  },
+  {
+    "date": "2026-07-27",
+    "source_cutoff": "2026-07-26",
+    "house": "Deshawar",
+    "policy": "DROP_PRIMARY_EVIDENCE",
+    "baseline_rank": 4,
+    "ltr_rank": 89
+  },
+  {
+    "date": "2026-07-28",
+    "source_cutoff": "2026-07-27",
+    "house": "Deshawar",
+    "policy": "DROP_PRIMARY_EVIDENCE",
+    "baseline_rank": 78,
+    "ltr_rank": 73
+  },
+  {
+    "date": "2026-07-29",
+    "source_cutoff": "2026-07-28",
+    "house": "Deshawar",
+    "policy": "DROP_PRIMARY_EVIDENCE",
+    "baseline_rank": 3,
+    "ltr_rank": 73
+  },
+  {
+    "date": "2026-07-30",
+    "source_cutoff": "2026-07-29",
+    "house": "Deshawar",
+    "policy": "DROP_PRIMARY_EVIDENCE",
+    "baseline_rank": 72,
+    "ltr_rank": 77
+  },
+  {
+    "date": "2026-07-31",
+    "source_cutoff": "2026-07-30",
+    "house": "Deshawar",
+    "policy": "DROP_PRIMARY_EVIDENCE",
+    "baseline_rank": 15,
+    "ltr_rank": 65
+  },
+  {
+    "date": "2026-08-02",
+    "source_cutoff": "2026-08-01",
+    "house": "Deshawar",
+    "policy": "DROP_PRIMARY_EVIDENCE",
+    "baseline_rank": 39,
+    "ltr_rank": 31
+  },
+  {
+    "date": "2026-08-03",
+    "source_cutoff": "2026-08-02",
+    "house": "Deshawar",
+    "policy": "DROP_PRIMARY_EVIDENCE",
+    "baseline_rank": 76,
+    "ltr_rank": 64
+  },
+  {
+    "date": "2026-08-04",
+    "source_cutoff": "2026-08-03",
+    "house": "Deshawar",
+    "policy": "DROP_PRIMARY_EVIDENCE",
+    "baseline_rank": 38,
+    "ltr_rank": 38
+  },
+  {
+    "date": "2026-08-05",
+    "source_cutoff": "2026-08-04",
+    "house": "Deshawar",
+    "policy": "DROP_PRIMARY_EVIDENCE",
+    "baseline_rank": 94,
+    "ltr_rank": 47
+  },
+  {
+    "date": "2026-08-06",
+    "source_cutoff": "2026-08-05",
+    "house": "Deshawar",
+    "policy": "DROP_PRIMARY_EVIDENCE",
+    "baseline_rank": 55,
+    "ltr_rank": 39
+  },
+  {
+    "date": "2026-08-07",
+    "source_cutoff": "2026-08-06",
+    "house": "Deshawar",
+    "policy": "DROP_PRIMARY_EVIDENCE",
+    "baseline_rank": 84,
+    "ltr_rank": 1
+  },
+  {
+    "date": "2026-08-08",
+    "source_cutoff": "2026-08-07",
+    "house": "Deshawar",
+    "policy": "DROP_PRIMARY_EVIDENCE",
+    "baseline_rank": 4,
+    "ltr_rank": 13
+  },
+  {
+    "date": "2026-08-09",
+    "source_cutoff": "2026-08-08",
+    "house": "Deshawar",
+    "policy": "DROP_PRIMARY_EVIDENCE",
+    "baseline_rank": 23,
+    "ltr_rank": 33
+  },
+  {
+    "date": "2026-08-10",
+    "source_cutoff": "2026-08-09",
+    "house": "Deshawar",
+    "policy": "DROP_PRIMARY_EVIDENCE",
+    "baseline_rank": 68,
+    "ltr_rank": 20
+  },
+  {
+    "date": "2026-08-11",
+    "source_cutoff": "2026-08-10",
+    "house": "Deshawar",
+    "policy": "DROP_PRIMARY_EVIDENCE",
+    "baseline_rank": 90,
+    "ltr_rank": 85
+  },
+  {
+    "date": "2026-08-12",
+    "source_cutoff": "2026-08-11",
+    "house": "Deshawar",
+    "policy": "DROP_PRIMARY_EVIDENCE",
+    "baseline_rank": 28,
+    "ltr_rank": 21
+  },
+  {
+    "date": "2026-08-13",
+    "source_cutoff": "2026-08-12",
+    "house": "Deshawar",
+    "policy": "DROP_PRIMARY_EVIDENCE",
+    "baseline_rank": 82,
+    "ltr_rank": 26
+  },
+  {
+    "date": "2026-08-14",
+    "source_cutoff": "2026-08-13",
+    "house": "Deshawar",
+    "policy": "DROP_PRIMARY_EVIDENCE",
+    "baseline_rank": 21,
+    "ltr_rank": 49
+  },
+  {
+    "date": "2026-08-15",
+    "source_cutoff": "2026-08-14",
+    "house": "Deshawar",
+    "policy": "DROP_PRIMARY_EVIDENCE",
+    "baseline_rank": 76,
+    "ltr_rank": 28
+  },
+  {
+    "date": "2026-08-16",
+    "source_cutoff": "2026-08-15",
+    "house": "Deshawar",
+    "policy": "DROP_PRIMARY_EVIDENCE",
+    "baseline_rank": 80,
+    "ltr_rank": 19
+  },
+  {
+    "date": "2026-08-17",
+    "source_cutoff": "2026-08-16",
+    "house": "Deshawar",
+    "policy": "DROP_PRIMARY_EVIDENCE",
+    "baseline_rank": 36,
+    "ltr_rank": 69
+  },
+  {
+    "date": "2026-08-18",
+    "source_cutoff": "2026-08-17",
+    "house": "Deshawar",
+    "policy": "DROP_PRIMARY_EVIDENCE",
+    "baseline_rank": 65,
+    "ltr_rank": 59
+  },
+  {
+    "date": "2026-08-19",
+    "source_cutoff": "2026-08-18",
+    "house": "Deshawar",
+    "policy": "DROP_PRIMARY_EVIDENCE",
+    "baseline_rank": 3,
+    "ltr_rank": 36
+  },
+  {
+    "date": "2026-08-20",
+    "source_cutoff": "2026-08-19",
+    "house": "Deshawar",
+    "policy": "DROP_PRIMARY_EVIDENCE",
+    "baseline_rank": 49,
+    "ltr_rank": 68
+  },
+  {
+    "date": "2026-08-21",
+    "source_cutoff": "2026-08-20",
+    "house": "Deshawar",
+    "policy": "DROP_PRIMARY_EVIDENCE",
+    "baseline_rank": 61,
+    "ltr_rank": 3
+  },
+  {
+    "date": "2026-08-22",
+    "source_cutoff": "2026-08-21",
+    "house": "Deshawar",
+    "policy": "DROP_PRIMARY_EVIDENCE",
+    "baseline_rank": 5,
+    "ltr_rank": 21
+  },
+  {
+    "date": "2026-08-23",
+    "source_cutoff": "2026-08-22",
+    "house": "Deshawar",
+    "policy": "DROP_PRIMARY_EVIDENCE",
+    "baseline_rank": 72,
+    "ltr_rank": 55
+  },
+  {
+    "date": "2026-08-24",
+    "source_cutoff": "2026-08-23",
+    "house": "Deshawar",
+    "policy": "DROP_PRIMARY_EVIDENCE",
+    "baseline_rank": 3,
+    "ltr_rank": 11
+  },
+  {
+    "date": "2026-08-25",
+    "source_cutoff": "2026-08-24",
+    "house": "Deshawar",
+    "policy": "DROP_PRIMARY_EVIDENCE",
+    "baseline_rank": 70,
+    "ltr_rank": 13
+  },
+  {
+    "date": "2026-08-26",
+    "source_cutoff": "2026-08-25",
+    "house": "Deshawar",
+    "policy": "DROP_PRIMARY_EVIDENCE",
+    "baseline_rank": 89,
+    "ltr_rank": 85
+  },
+  {
+    "date": "2026-08-27",
+    "source_cutoff": "2026-08-26",
+    "house": "Deshawar",
+    "policy": "DROP_PRIMARY_EVIDENCE",
+    "baseline_rank": 100,
+    "ltr_rank": 99
+  },
+  {
+    "date": "2026-08-28",
+    "source_cutoff": "2026-08-27",
+    "house": "Deshawar",
+    "policy": "DROP_PRIMARY_EVIDENCE",
+    "baseline_rank": 67,
+    "ltr_rank": 30
+  },
+  {
+    "date": "2026-08-29",
+    "source_cutoff": "2026-08-28",
+    "house": "Deshawar",
+    "policy": "DROP_PRIMARY_EVIDENCE",
+    "baseline_rank": 7,
+    "ltr_rank": 58
+  },
+  {
+    "date": "2026-06-03",
+    "source_cutoff": "2026-06-02",
+    "house": "Faridabad",
+    "policy": "DROP_PREVIOUS_DRAW_TRANSITION",
+    "baseline_rank": 71,
+    "ltr_rank": 88
+  },
+  {
+    "date": "2026-06-04",
+    "source_cutoff": "2026-06-03",
+    "house": "Faridabad",
+    "policy": "DROP_PREVIOUS_DRAW_TRANSITION",
+    "baseline_rank": 10,
+    "ltr_rank": 96
+  },
+  {
+    "date": "2026-06-05",
+    "source_cutoff": "2026-06-04",
+    "house": "Faridabad",
+    "policy": "DROP_PREVIOUS_DRAW_TRANSITION",
+    "baseline_rank": 90,
+    "ltr_rank": 71
+  },
+  {
+    "date": "2026-06-06",
+    "source_cutoff": "2026-06-05",
+    "house": "Faridabad",
+    "policy": "DROP_PREVIOUS_DRAW_TRANSITION",
+    "baseline_rank": 73,
+    "ltr_rank": 44
+  },
+  {
+    "date": "2026-06-07",
+    "source_cutoff": "2026-06-06",
+    "house": "Faridabad",
+    "policy": "DROP_PREVIOUS_DRAW_TRANSITION",
+    "baseline_rank": 2,
+    "ltr_rank": 93
+  },
+  {
+    "date": "2026-06-08",
+    "source_cutoff": "2026-06-07",
+    "house": "Faridabad",
+    "policy": "DROP_PREVIOUS_DRAW_TRANSITION",
+    "baseline_rank": 18,
+    "ltr_rank": 50
+  },
+  {
+    "date": "2026-06-09",
+    "source_cutoff": "2026-06-08",
+    "house": "Faridabad",
+    "policy": "DROP_PREVIOUS_DRAW_TRANSITION",
+    "baseline_rank": 3,
+    "ltr_rank": 1
+  },
+  {
+    "date": "2026-06-10",
+    "source_cutoff": "2026-06-09",
+    "house": "Faridabad",
+    "policy": "DROP_PREVIOUS_DRAW_TRANSITION",
+    "baseline_rank": 57,
+    "ltr_rank": 83
+  },
+  {
+    "date": "2026-06-11",
+    "source_cutoff": "2026-06-10",
+    "house": "Faridabad",
+    "policy": "DROP_PREVIOUS_DRAW_TRANSITION",
+    "baseline_rank": 8,
+    "ltr_rank": 8
+  },
+  {
+    "date": "2026-06-12",
+    "source_cutoff": "2026-06-11",
+    "house": "Faridabad",
+    "policy": "DROP_PREVIOUS_DRAW_TRANSITION",
+    "baseline_rank": 10,
+    "ltr_rank": 10
+  },
+  {
+    "date": "2026-06-13",
+    "source_cutoff": "2026-06-12",
+    "house": "Faridabad",
+    "policy": "DROP_PREVIOUS_DRAW_TRANSITION",
+    "baseline_rank": 11,
+    "ltr_rank": 17
+  },
+  {
+    "date": "2026-06-14",
+    "source_cutoff": "2026-06-13",
+    "house": "Faridabad",
+    "policy": "DROP_PREVIOUS_DRAW_TRANSITION",
+    "baseline_rank": 36,
+    "ltr_rank": 54
+  },
+  {
+    "date": "2026-07-01",
+    "source_cutoff": "2026-06-14",
+    "house": "Faridabad",
+    "policy": "DROP_PREVIOUS_DRAW_TRANSITION",
+    "baseline_rank": 6,
+    "ltr_rank": 3
+  },
+  {
+    "date": "2026-07-02",
+    "source_cutoff": "2026-07-01",
+    "house": "Faridabad",
+    "policy": "DROP_PREVIOUS_DRAW_TRANSITION",
+    "baseline_rank": 85,
+    "ltr_rank": 85
+  },
+  {
+    "date": "2026-07-03",
+    "source_cutoff": "2026-07-02",
+    "house": "Faridabad",
+    "policy": "DROP_PREVIOUS_DRAW_TRANSITION",
+    "baseline_rank": 43,
+    "ltr_rank": 27
+  },
+  {
+    "date": "2026-07-04",
+    "source_cutoff": "2026-07-03",
+    "house": "Faridabad",
+    "policy": "DROP_PREVIOUS_DRAW_TRANSITION",
+    "baseline_rank": 62,
+    "ltr_rank": 62
+  },
+  {
+    "date": "2026-07-05",
+    "source_cutoff": "2026-07-04",
+    "house": "Faridabad",
+    "policy": "DROP_PREVIOUS_DRAW_TRANSITION",
+    "baseline_rank": 56,
+    "ltr_rank": 45
+  },
+  {
+    "date": "2026-07-06",
+    "source_cutoff": "2026-07-05",
+    "house": "Faridabad",
+    "policy": "DROP_PREVIOUS_DRAW_TRANSITION",
+    "baseline_rank": 59,
+    "ltr_rank": 74
+  },
+  {
+    "date": "2026-07-07",
+    "source_cutoff": "2026-07-06",
+    "house": "Faridabad",
+    "policy": "DROP_PREVIOUS_DRAW_TRANSITION",
+    "baseline_rank": 15,
+    "ltr_rank": 93
+  },
+  {
+    "date": "2026-07-08",
+    "source_cutoff": "2026-07-07",
+    "house": "Faridabad",
+    "policy": "DROP_PREVIOUS_DRAW_TRANSITION",
+    "baseline_rank": 4,
+    "ltr_rank": 14
+  },
+  {
+    "date": "2026-07-09",
+    "source_cutoff": "2026-07-08",
+    "house": "Faridabad",
+    "policy": "DROP_PREVIOUS_DRAW_TRANSITION",
+    "baseline_rank": 94,
+    "ltr_rank": 100
+  },
+  {
+    "date": "2026-07-10",
+    "source_cutoff": "2026-07-09",
+    "house": "Faridabad",
+    "policy": "DROP_PREVIOUS_DRAW_TRANSITION",
+    "baseline_rank": 91,
+    "ltr_rank": 23
+  },
+  {
+    "date": "2026-07-11",
+    "source_cutoff": "2026-07-10",
+    "house": "Faridabad",
+    "policy": "DROP_PREVIOUS_DRAW_TRANSITION",
+    "baseline_rank": 28,
+    "ltr_rank": 39
+  },
+  {
+    "date": "2026-07-12",
+    "source_cutoff": "2026-07-11",
+    "house": "Faridabad",
+    "policy": "DROP_PREVIOUS_DRAW_TRANSITION",
+    "baseline_rank": 15,
+    "ltr_rank": 17
+  },
+  {
+    "date": "2026-07-13",
+    "source_cutoff": "2026-07-12",
+    "house": "Faridabad",
+    "policy": "DROP_PREVIOUS_DRAW_TRANSITION",
+    "baseline_rank": 11,
+    "ltr_rank": 75
+  },
+  {
+    "date": "2026-07-14",
+    "source_cutoff": "2026-07-13",
+    "house": "Faridabad",
+    "policy": "DROP_PREVIOUS_DRAW_TRANSITION",
+    "baseline_rank": 94,
+    "ltr_rank": 83
+  },
+  {
+    "date": "2026-07-15",
+    "source_cutoff": "2026-07-14",
+    "house": "Faridabad",
+    "policy": "DROP_PREVIOUS_DRAW_TRANSITION",
+    "baseline_rank": 65,
+    "ltr_rank": 99
+  },
+  {
+    "date": "2026-07-16",
+    "source_cutoff": "2026-07-15",
+    "house": "Faridabad",
+    "policy": "DROP_PREVIOUS_DRAW_TRANSITION",
+    "baseline_rank": 25,
+    "ltr_rank": 77
+  },
+  {
+    "date": "2026-07-17",
+    "source_cutoff": "2026-07-16",
+    "house": "Faridabad",
+    "policy": "DROP_PREVIOUS_DRAW_TRANSITION",
+    "baseline_rank": 39,
+    "ltr_rank": 10
+  },
+  {
+    "date": "2026-07-18",
+    "source_cutoff": "2026-07-17",
+    "house": "Faridabad",
+    "policy": "DROP_PREVIOUS_DRAW_TRANSITION",
+    "baseline_rank": 17,
+    "ltr_rank": 11
+  },
+  {
+    "date": "2026-07-19",
+    "source_cutoff": "2026-07-18",
+    "house": "Faridabad",
+    "policy": "DROP_PREVIOUS_DRAW_TRANSITION",
+    "baseline_rank": 85,
+    "ltr_rank": 71
+  },
+  {
+    "date": "2026-07-20",
+    "source_cutoff": "2026-07-19",
+    "house": "Faridabad",
+    "policy": "DROP_PREVIOUS_DRAW_TRANSITION",
+    "baseline_rank": 55,
+    "ltr_rank": 40
+  },
+  {
+    "date": "2026-07-21",
+    "source_cutoff": "2026-07-20",
+    "house": "Faridabad",
+    "policy": "DROP_PREVIOUS_DRAW_TRANSITION",
+    "baseline_rank": 17,
+    "ltr_rank": 58
+  },
+  {
+    "date": "2026-07-22",
+    "source_cutoff": "2026-07-21",
+    "house": "Faridabad",
+    "policy": "DROP_PREVIOUS_DRAW_TRANSITION",
+    "baseline_rank": 42,
+    "ltr_rank": 63
+  },
+  {
+    "date": "2026-07-23",
+    "source_cutoff": "2026-07-22",
+    "house": "Faridabad",
+    "policy": "DROP_PREVIOUS_DRAW_TRANSITION",
+    "baseline_rank": 43,
+    "ltr_rank": 14
+  },
+  {
+    "date": "2026-07-24",
+    "source_cutoff": "2026-07-23",
+    "house": "Faridabad",
+    "policy": "DROP_PREVIOUS_DRAW_TRANSITION",
+    "baseline_rank": 46,
+    "ltr_rank": 23
+  },
+  {
+    "date": "2026-07-25",
+    "source_cutoff": "2026-07-24",
+    "house": "Faridabad",
+    "policy": "DROP_PREVIOUS_DRAW_TRANSITION",
+    "baseline_rank": 6,
+    "ltr_rank": 87
+  },
+  {
+    "date": "2026-07-26",
+    "source_cutoff": "2026-07-25",
+    "house": "Faridabad",
+    "policy": "DROP_PREVIOUS_DRAW_TRANSITION",
+    "baseline_rank": 66,
+    "ltr_rank": 98
+  },
+  {
+    "date": "2026-07-27",
+    "source_cutoff": "2026-07-26",
+    "house": "Faridabad",
+    "policy": "DROP_PREVIOUS_DRAW_TRANSITION",
+    "baseline_rank": 90,
+    "ltr_rank": 44
+  },
+  {
+    "date": "2026-07-28",
+    "source_cutoff": "2026-07-27",
+    "house": "Faridabad",
+    "policy": "DROP_PREVIOUS_DRAW_TRANSITION",
+    "baseline_rank": 62,
+    "ltr_rank": 49
+  },
+  {
+    "date": "2026-07-29",
+    "source_cutoff": "2026-07-28",
+    "house": "Faridabad",
+    "policy": "DROP_PREVIOUS_DRAW_TRANSITION",
+    "baseline_rank": 11,
+    "ltr_rank": 96
+  },
+  {
+    "date": "2026-07-30",
+    "source_cutoff": "2026-07-29",
+    "house": "Faridabad",
+    "policy": "DROP_PREVIOUS_DRAW_TRANSITION",
+    "baseline_rank": 7,
+    "ltr_rank": 17
+  },
+  {
+    "date": "2026-08-01",
+    "source_cutoff": "2026-07-31",
+    "house": "Faridabad",
+    "policy": "DROP_PREVIOUS_DRAW_TRANSITION",
+    "baseline_rank": 84,
+    "ltr_rank": 79
+  },
+  {
+    "date": "2026-08-02",
+    "source_cutoff": "2026-08-01",
+    "house": "Faridabad",
+    "policy": "DROP_PREVIOUS_DRAW_TRANSITION",
+    "baseline_rank": 14,
+    "ltr_rank": 89
+  },
+  {
+    "date": "2026-08-03",
+    "source_cutoff": "2026-08-02",
+    "house": "Faridabad",
+    "policy": "DROP_PREVIOUS_DRAW_TRANSITION",
+    "baseline_rank": 66,
+    "ltr_rank": 99
+  },
+  {
+    "date": "2026-08-04",
+    "source_cutoff": "2026-08-03",
+    "house": "Faridabad",
+    "policy": "DROP_PREVIOUS_DRAW_TRANSITION",
+    "baseline_rank": 49,
+    "ltr_rank": 73
+  },
+  {
+    "date": "2026-08-05",
+    "source_cutoff": "2026-08-04",
+    "house": "Faridabad",
+    "policy": "DROP_PREVIOUS_DRAW_TRANSITION",
+    "baseline_rank": 23,
+    "ltr_rank": 91
+  },
+  {
+    "date": "2026-08-06",
+    "source_cutoff": "2026-08-05",
+    "house": "Faridabad",
+    "policy": "DROP_PREVIOUS_DRAW_TRANSITION",
+    "baseline_rank": 65,
+    "ltr_rank": 92
+  },
+  {
+    "date": "2026-08-07",
+    "source_cutoff": "2026-08-06",
+    "house": "Faridabad",
+    "policy": "DROP_PREVIOUS_DRAW_TRANSITION",
+    "baseline_rank": 40,
+    "ltr_rank": 65
+  },
+  {
+    "date": "2026-08-08",
+    "source_cutoff": "2026-08-07",
+    "house": "Faridabad",
+    "policy": "DROP_PREVIOUS_DRAW_TRANSITION",
+    "baseline_rank": 93,
+    "ltr_rank": 90
+  },
+  {
+    "date": "2026-08-09",
+    "source_cutoff": "2026-08-08",
+    "house": "Faridabad",
+    "policy": "DROP_PREVIOUS_DRAW_TRANSITION",
+    "baseline_rank": 73,
+    "ltr_rank": 16
+  },
+  {
+    "date": "2026-08-10",
+    "source_cutoff": "2026-08-09",
+    "house": "Faridabad",
+    "policy": "DROP_PREVIOUS_DRAW_TRANSITION",
+    "baseline_rank": 78,
+    "ltr_rank": 60
+  },
+  {
+    "date": "2026-08-11",
+    "source_cutoff": "2026-08-10",
+    "house": "Faridabad",
+    "policy": "DROP_PREVIOUS_DRAW_TRANSITION",
+    "baseline_rank": 26,
+    "ltr_rank": 50
+  },
+  {
+    "date": "2026-08-12",
+    "source_cutoff": "2026-08-11",
+    "house": "Faridabad",
+    "policy": "DROP_PREVIOUS_DRAW_TRANSITION",
+    "baseline_rank": 11,
+    "ltr_rank": 2
+  },
+  {
+    "date": "2026-08-13",
+    "source_cutoff": "2026-08-12",
+    "house": "Faridabad",
+    "policy": "DROP_PREVIOUS_DRAW_TRANSITION",
+    "baseline_rank": 87,
+    "ltr_rank": 84
+  },
+  {
+    "date": "2026-08-14",
+    "source_cutoff": "2026-08-13",
+    "house": "Faridabad",
+    "policy": "DROP_PREVIOUS_DRAW_TRANSITION",
+    "baseline_rank": 40,
+    "ltr_rank": 3
+  },
+  {
+    "date": "2026-08-15",
+    "source_cutoff": "2026-08-14",
+    "house": "Faridabad",
+    "policy": "DROP_PREVIOUS_DRAW_TRANSITION",
+    "baseline_rank": 24,
+    "ltr_rank": 30
+  },
+  {
+    "date": "2026-08-16",
+    "source_cutoff": "2026-08-15",
+    "house": "Faridabad",
+    "policy": "DROP_PREVIOUS_DRAW_TRANSITION",
+    "baseline_rank": 95,
+    "ltr_rank": 99
+  },
+  {
+    "date": "2026-08-17",
+    "source_cutoff": "2026-08-16",
+    "house": "Faridabad",
+    "policy": "DROP_PREVIOUS_DRAW_TRANSITION",
+    "baseline_rank": 17,
+    "ltr_rank": 67
+  },
+  {
+    "date": "2026-08-18",
+    "source_cutoff": "2026-08-17",
+    "house": "Faridabad",
+    "policy": "DROP_PREVIOUS_DRAW_TRANSITION",
+    "baseline_rank": 15,
+    "ltr_rank": 87
+  },
+  {
+    "date": "2026-08-19",
+    "source_cutoff": "2026-08-18",
+    "house": "Faridabad",
+    "policy": "DROP_PREVIOUS_DRAW_TRANSITION",
+    "baseline_rank": 74,
+    "ltr_rank": 79
+  },
+  {
+    "date": "2026-08-20",
+    "source_cutoff": "2026-08-19",
+    "house": "Faridabad",
+    "policy": "DROP_PREVIOUS_DRAW_TRANSITION",
+    "baseline_rank": 94,
+    "ltr_rank": 11
+  },
+  {
+    "date": "2026-08-21",
+    "source_cutoff": "2026-08-20",
+    "house": "Faridabad",
+    "policy": "DROP_PREVIOUS_DRAW_TRANSITION",
+    "baseline_rank": 53,
+    "ltr_rank": 42
+  },
+  {
+    "date": "2026-08-22",
+    "source_cutoff": "2026-08-21",
+    "house": "Faridabad",
+    "policy": "DROP_PREVIOUS_DRAW_TRANSITION",
+    "baseline_rank": 27,
+    "ltr_rank": 88
+  },
+  {
+    "date": "2026-08-23",
+    "source_cutoff": "2026-08-22",
+    "house": "Faridabad",
+    "policy": "DROP_PREVIOUS_DRAW_TRANSITION",
+    "baseline_rank": 27,
+    "ltr_rank": 72
+  },
+  {
+    "date": "2026-08-24",
+    "source_cutoff": "2026-08-23",
+    "house": "Faridabad",
+    "policy": "DROP_PREVIOUS_DRAW_TRANSITION",
+    "baseline_rank": 32,
+    "ltr_rank": 4
+  },
+  {
+    "date": "2026-08-25",
+    "source_cutoff": "2026-08-24",
+    "house": "Faridabad",
+    "policy": "DROP_PREVIOUS_DRAW_TRANSITION",
+    "baseline_rank": 80,
+    "ltr_rank": 97
+  },
+  {
+    "date": "2026-08-26",
+    "source_cutoff": "2026-08-25",
+    "house": "Faridabad",
+    "policy": "DROP_PREVIOUS_DRAW_TRANSITION",
+    "baseline_rank": 75,
+    "ltr_rank": 41
+  },
+  {
+    "date": "2026-08-27",
+    "source_cutoff": "2026-08-26",
+    "house": "Faridabad",
+    "policy": "DROP_PREVIOUS_DRAW_TRANSITION",
+    "baseline_rank": 76,
+    "ltr_rank": 30
+  },
+  {
+    "date": "2026-08-28",
+    "source_cutoff": "2026-08-27",
+    "house": "Faridabad",
+    "policy": "DROP_PREVIOUS_DRAW_TRANSITION",
+    "baseline_rank": 54,
+    "ltr_rank": 31
+  },
+  {
+    "date": "2026-08-29",
+    "source_cutoff": "2026-08-28",
+    "house": "Faridabad",
+    "policy": "DROP_PREVIOUS_DRAW_TRANSITION",
+    "baseline_rank": 30,
+    "ltr_rank": 34
+  },
+  {
+    "date": "2026-06-02",
+    "source_cutoff": "2026-06-01",
+    "house": "Ghaziabad",
+    "policy": "DROP_DIGIT_STRUCTURE",
+    "baseline_rank": 45,
+    "ltr_rank": 60
+  },
+  {
+    "date": "2026-06-03",
+    "source_cutoff": "2026-06-02",
+    "house": "Ghaziabad",
+    "policy": "DROP_DIGIT_STRUCTURE",
+    "baseline_rank": 92,
+    "ltr_rank": 84
+  },
+  {
+    "date": "2026-06-04",
+    "source_cutoff": "2026-06-03",
+    "house": "Ghaziabad",
+    "policy": "DROP_DIGIT_STRUCTURE",
+    "baseline_rank": 91,
+    "ltr_rank": 19
+  },
+  {
+    "date": "2026-06-05",
+    "source_cutoff": "2026-06-04",
+    "house": "Ghaziabad",
+    "policy": "DROP_DIGIT_STRUCTURE",
+    "baseline_rank": 22,
+    "ltr_rank": 19
+  },
+  {
+    "date": "2026-06-06",
+    "source_cutoff": "2026-06-05",
+    "house": "Ghaziabad",
+    "policy": "DROP_DIGIT_STRUCTURE",
+    "baseline_rank": 75,
+    "ltr_rank": 38
+  },
+  {
+    "date": "2026-06-07",
+    "source_cutoff": "2026-06-06",
+    "house": "Ghaziabad",
+    "policy": "DROP_DIGIT_STRUCTURE",
+    "baseline_rank": 13,
+    "ltr_rank": 45
+  },
+  {
+    "date": "2026-06-08",
+    "source_cutoff": "2026-06-07",
+    "house": "Ghaziabad",
+    "policy": "DROP_DIGIT_STRUCTURE",
+    "baseline_rank": 85,
+    "ltr_rank": 28
+  },
+  {
+    "date": "2026-06-09",
+    "source_cutoff": "2026-06-08",
+    "house": "Ghaziabad",
+    "policy": "DROP_DIGIT_STRUCTURE",
+    "baseline_rank": 19,
+    "ltr_rank": 76
+  },
+  {
+    "date": "2026-06-10",
+    "source_cutoff": "2026-06-09",
+    "house": "Ghaziabad",
+    "policy": "DROP_DIGIT_STRUCTURE",
+    "baseline_rank": 24,
+    "ltr_rank": 81
+  },
+  {
+    "date": "2026-06-11",
+    "source_cutoff": "2026-06-10",
+    "house": "Ghaziabad",
+    "policy": "DROP_DIGIT_STRUCTURE",
+    "baseline_rank": 10,
+    "ltr_rank": 98
+  },
+  {
+    "date": "2026-06-12",
+    "source_cutoff": "2026-06-11",
+    "house": "Ghaziabad",
+    "policy": "DROP_DIGIT_STRUCTURE",
+    "baseline_rank": 23,
+    "ltr_rank": 45
+  },
+  {
+    "date": "2026-06-13",
+    "source_cutoff": "2026-06-12",
+    "house": "Ghaziabad",
+    "policy": "DROP_DIGIT_STRUCTURE",
+    "baseline_rank": 96,
+    "ltr_rank": 100
+  },
+  {
+    "date": "2026-06-14",
+    "source_cutoff": "2026-06-13",
+    "house": "Ghaziabad",
+    "policy": "DROP_DIGIT_STRUCTURE",
+    "baseline_rank": 63,
+    "ltr_rank": 55
+  },
+  {
+    "date": "2026-07-01",
+    "source_cutoff": "2026-06-14",
+    "house": "Ghaziabad",
+    "policy": "DROP_DIGIT_STRUCTURE",
+    "baseline_rank": 75,
+    "ltr_rank": 58
+  },
+  {
+    "date": "2026-07-02",
+    "source_cutoff": "2026-07-01",
+    "house": "Ghaziabad",
+    "policy": "DROP_DIGIT_STRUCTURE",
+    "baseline_rank": 42,
+    "ltr_rank": 96
+  },
+  {
+    "date": "2026-07-03",
+    "source_cutoff": "2026-07-02",
+    "house": "Ghaziabad",
+    "policy": "DROP_DIGIT_STRUCTURE",
+    "baseline_rank": 40,
+    "ltr_rank": 3
+  },
+  {
+    "date": "2026-07-04",
+    "source_cutoff": "2026-07-03",
+    "house": "Ghaziabad",
+    "policy": "DROP_DIGIT_STRUCTURE",
+    "baseline_rank": 79,
+    "ltr_rank": 48
+  },
+  {
+    "date": "2026-07-05",
+    "source_cutoff": "2026-07-04",
+    "house": "Ghaziabad",
+    "policy": "DROP_DIGIT_STRUCTURE",
+    "baseline_rank": 96,
+    "ltr_rank": 46
+  },
+  {
+    "date": "2026-07-06",
+    "source_cutoff": "2026-07-05",
+    "house": "Ghaziabad",
+    "policy": "DROP_DIGIT_STRUCTURE",
+    "baseline_rank": 65,
+    "ltr_rank": 13
+  },
+  {
+    "date": "2026-07-07",
+    "source_cutoff": "2026-07-06",
+    "house": "Ghaziabad",
+    "policy": "DROP_DIGIT_STRUCTURE",
+    "baseline_rank": 78,
+    "ltr_rank": 64
+  },
+  {
+    "date": "2026-07-08",
+    "source_cutoff": "2026-07-07",
+    "house": "Ghaziabad",
+    "policy": "DROP_DIGIT_STRUCTURE",
+    "baseline_rank": 94,
+    "ltr_rank": 19
+  },
+  {
+    "date": "2026-07-09",
+    "source_cutoff": "2026-07-08",
+    "house": "Ghaziabad",
+    "policy": "DROP_DIGIT_STRUCTURE",
+    "baseline_rank": 74,
+    "ltr_rank": 42
+  },
+  {
+    "date": "2026-07-10",
+    "source_cutoff": "2026-07-09",
+    "house": "Ghaziabad",
+    "policy": "DROP_DIGIT_STRUCTURE",
+    "baseline_rank": 55,
+    "ltr_rank": 33
+  },
+  {
+    "date": "2026-07-11",
+    "source_cutoff": "2026-07-10",
+    "house": "Ghaziabad",
+    "policy": "DROP_DIGIT_STRUCTURE",
+    "baseline_rank": 57,
+    "ltr_rank": 80
+  },
+  {
+    "date": "2026-07-12",
+    "source_cutoff": "2026-07-11",
+    "house": "Ghaziabad",
+    "policy": "DROP_DIGIT_STRUCTURE",
+    "baseline_rank": 35,
+    "ltr_rank": 47
+  },
+  {
+    "date": "2026-07-13",
+    "source_cutoff": "2026-07-12",
+    "house": "Ghaziabad",
+    "policy": "DROP_DIGIT_STRUCTURE",
+    "baseline_rank": 89,
+    "ltr_rank": 17
+  },
+  {
+    "date": "2026-07-14",
+    "source_cutoff": "2026-07-13",
+    "house": "Ghaziabad",
+    "policy": "DROP_DIGIT_STRUCTURE",
+    "baseline_rank": 23,
+    "ltr_rank": 33
+  },
+  {
+    "date": "2026-07-15",
+    "source_cutoff": "2026-07-14",
+    "house": "Ghaziabad",
+    "policy": "DROP_DIGIT_STRUCTURE",
+    "baseline_rank": 25,
+    "ltr_rank": 91
+  },
+  {
+    "date": "2026-07-16",
+    "source_cutoff": "2026-07-15",
+    "house": "Ghaziabad",
+    "policy": "DROP_DIGIT_STRUCTURE",
+    "baseline_rank": 33,
+    "ltr_rank": 84
+  },
+  {
+    "date": "2026-07-17",
+    "source_cutoff": "2026-07-16",
+    "house": "Ghaziabad",
+    "policy": "DROP_DIGIT_STRUCTURE",
+    "baseline_rank": 57,
+    "ltr_rank": 6
+  },
+  {
+    "date": "2026-07-18",
+    "source_cutoff": "2026-07-17",
+    "house": "Ghaziabad",
+    "policy": "DROP_DIGIT_STRUCTURE",
+    "baseline_rank": 75,
+    "ltr_rank": 59
+  },
+  {
+    "date": "2026-07-19",
+    "source_cutoff": "2026-07-18",
+    "house": "Ghaziabad",
+    "policy": "DROP_DIGIT_STRUCTURE",
+    "baseline_rank": 34,
+    "ltr_rank": 34
+  },
+  {
+    "date": "2026-07-20",
+    "source_cutoff": "2026-07-19",
+    "house": "Ghaziabad",
+    "policy": "DROP_DIGIT_STRUCTURE",
+    "baseline_rank": 62,
+    "ltr_rank": 32
+  },
+  {
+    "date": "2026-07-21",
+    "source_cutoff": "2026-07-20",
+    "house": "Ghaziabad",
+    "policy": "DROP_DIGIT_STRUCTURE",
+    "baseline_rank": 92,
+    "ltr_rank": 5
+  },
+  {
+    "date": "2026-07-22",
+    "source_cutoff": "2026-07-21",
+    "house": "Ghaziabad",
+    "policy": "DROP_DIGIT_STRUCTURE",
+    "baseline_rank": 72,
+    "ltr_rank": 59
+  },
+  {
+    "date": "2026-07-23",
+    "source_cutoff": "2026-07-22",
+    "house": "Ghaziabad",
+    "policy": "DROP_DIGIT_STRUCTURE",
+    "baseline_rank": 21,
+    "ltr_rank": 89
+  },
+  {
+    "date": "2026-07-24",
+    "source_cutoff": "2026-07-23",
+    "house": "Ghaziabad",
+    "policy": "DROP_DIGIT_STRUCTURE",
+    "baseline_rank": 90,
+    "ltr_rank": 52
+  },
+  {
+    "date": "2026-07-25",
+    "source_cutoff": "2026-07-24",
+    "house": "Ghaziabad",
+    "policy": "DROP_DIGIT_STRUCTURE",
+    "baseline_rank": 35,
+    "ltr_rank": 82
+  },
+  {
+    "date": "2026-07-26",
+    "source_cutoff": "2026-07-25",
+    "house": "Ghaziabad",
+    "policy": "DROP_DIGIT_STRUCTURE",
+    "baseline_rank": 92,
+    "ltr_rank": 25
+  },
+  {
+    "date": "2026-07-27",
+    "source_cutoff": "2026-07-26",
+    "house": "Ghaziabad",
+    "policy": "DROP_DIGIT_STRUCTURE",
+    "baseline_rank": 18,
+    "ltr_rank": 49
+  },
+  {
+    "date": "2026-07-28",
+    "source_cutoff": "2026-07-27",
+    "house": "Ghaziabad",
+    "policy": "DROP_DIGIT_STRUCTURE",
+    "baseline_rank": 91,
+    "ltr_rank": 78
+  },
+  {
+    "date": "2026-07-29",
+    "source_cutoff": "2026-07-28",
+    "house": "Ghaziabad",
+    "policy": "DROP_DIGIT_STRUCTURE",
+    "baseline_rank": 35,
+    "ltr_rank": 63
+  },
+  {
+    "date": "2026-07-30",
+    "source_cutoff": "2026-07-29",
+    "house": "Ghaziabad",
+    "policy": "DROP_DIGIT_STRUCTURE",
+    "baseline_rank": 27,
+    "ltr_rank": 49
+  },
+  {
+    "date": "2026-08-01",
+    "source_cutoff": "2026-07-31",
+    "house": "Ghaziabad",
+    "policy": "DROP_DIGIT_STRUCTURE",
+    "baseline_rank": 39,
+    "ltr_rank": 6
+  },
+  {
+    "date": "2026-08-02",
+    "source_cutoff": "2026-08-01",
+    "house": "Ghaziabad",
+    "policy": "DROP_DIGIT_STRUCTURE",
+    "baseline_rank": 2,
+    "ltr_rank": 65
+  },
+  {
+    "date": "2026-08-03",
+    "source_cutoff": "2026-08-02",
+    "house": "Ghaziabad",
+    "policy": "DROP_DIGIT_STRUCTURE",
+    "baseline_rank": 62,
+    "ltr_rank": 52
+  },
+  {
+    "date": "2026-08-04",
+    "source_cutoff": "2026-08-03",
+    "house": "Ghaziabad",
+    "policy": "DROP_DIGIT_STRUCTURE",
+    "baseline_rank": 32,
+    "ltr_rank": 16
+  },
+  {
+    "date": "2026-08-05",
+    "source_cutoff": "2026-08-04",
+    "house": "Ghaziabad",
+    "policy": "DROP_DIGIT_STRUCTURE",
+    "baseline_rank": 93,
+    "ltr_rank": 49
+  },
+  {
+    "date": "2026-08-06",
+    "source_cutoff": "2026-08-05",
+    "house": "Ghaziabad",
+    "policy": "DROP_DIGIT_STRUCTURE",
+    "baseline_rank": 10,
+    "ltr_rank": 97
+  },
+  {
+    "date": "2026-08-07",
+    "source_cutoff": "2026-08-06",
+    "house": "Ghaziabad",
+    "policy": "DROP_DIGIT_STRUCTURE",
+    "baseline_rank": 86,
+    "ltr_rank": 93
+  },
+  {
+    "date": "2026-08-08",
+    "source_cutoff": "2026-08-07",
+    "house": "Ghaziabad",
+    "policy": "DROP_DIGIT_STRUCTURE",
+    "baseline_rank": 100,
+    "ltr_rank": 100
+  },
+  {
+    "date": "2026-08-09",
+    "source_cutoff": "2026-08-08",
+    "house": "Ghaziabad",
+    "policy": "DROP_DIGIT_STRUCTURE",
+    "baseline_rank": 17,
+    "ltr_rank": 11
+  },
+  {
+    "date": "2026-08-10",
+    "source_cutoff": "2026-08-09",
+    "house": "Ghaziabad",
+    "policy": "DROP_DIGIT_STRUCTURE",
+    "baseline_rank": 55,
+    "ltr_rank": 61
+  },
+  {
+    "date": "2026-08-11",
+    "source_cutoff": "2026-08-10",
+    "house": "Ghaziabad",
+    "policy": "DROP_DIGIT_STRUCTURE",
+    "baseline_rank": 63,
+    "ltr_rank": 39
+  },
+  {
+    "date": "2026-08-12",
+    "source_cutoff": "2026-08-11",
+    "house": "Ghaziabad",
+    "policy": "DROP_DIGIT_STRUCTURE",
+    "baseline_rank": 35,
+    "ltr_rank": 17
+  },
+  {
+    "date": "2026-08-13",
+    "source_cutoff": "2026-08-12",
+    "house": "Ghaziabad",
+    "policy": "DROP_DIGIT_STRUCTURE",
+    "baseline_rank": 21,
+    "ltr_rank": 24
+  },
+  {
+    "date": "2026-08-14",
+    "source_cutoff": "2026-08-13",
+    "house": "Ghaziabad",
+    "policy": "DROP_DIGIT_STRUCTURE",
+    "baseline_rank": 54,
+    "ltr_rank": 45
+  },
+  {
+    "date": "2026-08-15",
+    "source_cutoff": "2026-08-14",
+    "house": "Ghaziabad",
+    "policy": "DROP_DIGIT_STRUCTURE",
+    "baseline_rank": 4,
+    "ltr_rank": 8
+  },
+  {
+    "date": "2026-08-16",
+    "source_cutoff": "2026-08-15",
+    "house": "Ghaziabad",
+    "policy": "DROP_DIGIT_STRUCTURE",
+    "baseline_rank": 92,
+    "ltr_rank": 89
+  },
+  {
+    "date": "2026-08-17",
+    "source_cutoff": "2026-08-16",
+    "house": "Ghaziabad",
+    "policy": "DROP_DIGIT_STRUCTURE",
+    "baseline_rank": 77,
+    "ltr_rank": 63
+  },
+  {
+    "date": "2026-08-18",
+    "source_cutoff": "2026-08-17",
+    "house": "Ghaziabad",
+    "policy": "DROP_DIGIT_STRUCTURE",
+    "baseline_rank": 53,
+    "ltr_rank": 20
+  },
+  {
+    "date": "2026-08-19",
+    "source_cutoff": "2026-08-18",
+    "house": "Ghaziabad",
+    "policy": "DROP_DIGIT_STRUCTURE",
+    "baseline_rank": 65,
+    "ltr_rank": 9
+  },
+  {
+    "date": "2026-08-20",
+    "source_cutoff": "2026-08-19",
+    "house": "Ghaziabad",
+    "policy": "DROP_DIGIT_STRUCTURE",
+    "baseline_rank": 7,
+    "ltr_rank": 92
+  },
+  {
+    "date": "2026-08-21",
+    "source_cutoff": "2026-08-20",
+    "house": "Ghaziabad",
+    "policy": "DROP_DIGIT_STRUCTURE",
+    "baseline_rank": 68,
+    "ltr_rank": 56
+  },
+  {
+    "date": "2026-08-22",
+    "source_cutoff": "2026-08-21",
+    "house": "Ghaziabad",
+    "policy": "DROP_DIGIT_STRUCTURE",
+    "baseline_rank": 14,
+    "ltr_rank": 68
+  },
+  {
+    "date": "2026-08-23",
+    "source_cutoff": "2026-08-22",
+    "house": "Ghaziabad",
+    "policy": "DROP_DIGIT_STRUCTURE",
+    "baseline_rank": 93,
+    "ltr_rank": 95
+  },
+  {
+    "date": "2026-08-24",
+    "source_cutoff": "2026-08-23",
+    "house": "Ghaziabad",
+    "policy": "DROP_DIGIT_STRUCTURE",
+    "baseline_rank": 98,
+    "ltr_rank": 98
+  },
+  {
+    "date": "2026-08-25",
+    "source_cutoff": "2026-08-24",
+    "house": "Ghaziabad",
+    "policy": "DROP_DIGIT_STRUCTURE",
+    "baseline_rank": 3,
+    "ltr_rank": 86
+  },
+  {
+    "date": "2026-08-26",
+    "source_cutoff": "2026-08-25",
+    "house": "Ghaziabad",
+    "policy": "DROP_DIGIT_STRUCTURE",
+    "baseline_rank": 84,
+    "ltr_rank": 51
+  },
+  {
+    "date": "2026-08-27",
+    "source_cutoff": "2026-08-26",
+    "house": "Ghaziabad",
+    "policy": "DROP_DIGIT_STRUCTURE",
+    "baseline_rank": 95,
+    "ltr_rank": 3
+  },
+  {
+    "date": "2026-08-28",
+    "source_cutoff": "2026-08-27",
+    "house": "Ghaziabad",
+    "policy": "DROP_DIGIT_STRUCTURE",
+    "baseline_rank": 3,
+    "ltr_rank": 77
+  },
+  {
+    "date": "2026-06-01",
+    "source_cutoff": "2026-05-30",
+    "house": "Gali",
+    "policy": "DROP_PRIMARY_EVIDENCE",
+    "baseline_rank": 76,
+    "ltr_rank": 7
+  },
+  {
+    "date": "2026-06-02",
+    "source_cutoff": "2026-06-01",
+    "house": "Gali",
+    "policy": "DROP_PRIMARY_EVIDENCE",
+    "baseline_rank": 66,
+    "ltr_rank": 68
+  },
+  {
+    "date": "2026-06-03",
+    "source_cutoff": "2026-06-02",
+    "house": "Gali",
+    "policy": "DROP_PRIMARY_EVIDENCE",
+    "baseline_rank": 18,
+    "ltr_rank": 76
+  },
+  {
+    "date": "2026-06-04",
+    "source_cutoff": "2026-06-03",
+    "house": "Gali",
+    "policy": "DROP_PRIMARY_EVIDENCE",
+    "baseline_rank": 37,
+    "ltr_rank": 6
+  },
+  {
+    "date": "2026-06-05",
+    "source_cutoff": "2026-06-04",
+    "house": "Gali",
+    "policy": "DROP_PRIMARY_EVIDENCE",
+    "baseline_rank": 14,
+    "ltr_rank": 5
+  },
+  {
+    "date": "2026-06-06",
+    "source_cutoff": "2026-06-05",
+    "house": "Gali",
+    "policy": "DROP_PRIMARY_EVIDENCE",
+    "baseline_rank": 80,
+    "ltr_rank": 83
+  },
+  {
+    "date": "2026-06-07",
+    "source_cutoff": "2026-06-06",
+    "house": "Gali",
+    "policy": "DROP_PRIMARY_EVIDENCE",
+    "baseline_rank": 79,
+    "ltr_rank": 62
+  },
+  {
+    "date": "2026-06-08",
+    "source_cutoff": "2026-06-07",
+    "house": "Gali",
+    "policy": "DROP_PRIMARY_EVIDENCE",
+    "baseline_rank": 85,
+    "ltr_rank": 84
+  },
+  {
+    "date": "2026-06-09",
+    "source_cutoff": "2026-06-08",
+    "house": "Gali",
+    "policy": "DROP_PRIMARY_EVIDENCE",
+    "baseline_rank": 17,
+    "ltr_rank": 11
+  },
+  {
+    "date": "2026-06-10",
+    "source_cutoff": "2026-06-09",
+    "house": "Gali",
+    "policy": "DROP_PRIMARY_EVIDENCE",
+    "baseline_rank": 34,
+    "ltr_rank": 14
+  },
+  {
+    "date": "2026-06-11",
+    "source_cutoff": "2026-06-10",
+    "house": "Gali",
+    "policy": "DROP_PRIMARY_EVIDENCE",
+    "baseline_rank": 44,
+    "ltr_rank": 90
+  },
+  {
+    "date": "2026-06-12",
+    "source_cutoff": "2026-06-11",
+    "house": "Gali",
+    "policy": "DROP_PRIMARY_EVIDENCE",
+    "baseline_rank": 65,
+    "ltr_rank": 39
+  },
+  {
+    "date": "2026-06-13",
+    "source_cutoff": "2026-06-12",
+    "house": "Gali",
+    "policy": "DROP_PRIMARY_EVIDENCE",
+    "baseline_rank": 31,
+    "ltr_rank": 39
+  },
+  {
+    "date": "2026-07-01",
+    "source_cutoff": "2026-06-14",
+    "house": "Gali",
+    "policy": "DROP_PRIMARY_EVIDENCE",
+    "baseline_rank": 84,
+    "ltr_rank": 62
+  },
+  {
+    "date": "2026-07-02",
+    "source_cutoff": "2026-07-01",
+    "house": "Gali",
+    "policy": "DROP_PRIMARY_EVIDENCE",
+    "baseline_rank": 3,
+    "ltr_rank": 31
+  },
+  {
+    "date": "2026-07-03",
+    "source_cutoff": "2026-07-02",
+    "house": "Gali",
+    "policy": "DROP_PRIMARY_EVIDENCE",
+    "baseline_rank": 58,
+    "ltr_rank": 3
+  },
+  {
+    "date": "2026-07-04",
+    "source_cutoff": "2026-07-03",
+    "house": "Gali",
+    "policy": "DROP_PRIMARY_EVIDENCE",
+    "baseline_rank": 13,
+    "ltr_rank": 8
+  },
+  {
+    "date": "2026-07-05",
+    "source_cutoff": "2026-07-04",
+    "house": "Gali",
+    "policy": "DROP_PRIMARY_EVIDENCE",
+    "baseline_rank": 31,
+    "ltr_rank": 27
+  },
+  {
+    "date": "2026-07-06",
+    "source_cutoff": "2026-07-05",
+    "house": "Gali",
+    "policy": "DROP_PRIMARY_EVIDENCE",
+    "baseline_rank": 75,
+    "ltr_rank": 87
+  },
+  {
+    "date": "2026-07-07",
+    "source_cutoff": "2026-07-06",
+    "house": "Gali",
+    "policy": "DROP_PRIMARY_EVIDENCE",
+    "baseline_rank": 44,
+    "ltr_rank": 86
+  },
+  {
+    "date": "2026-07-08",
+    "source_cutoff": "2026-07-07",
+    "house": "Gali",
+    "policy": "DROP_PRIMARY_EVIDENCE",
+    "baseline_rank": 64,
+    "ltr_rank": 11
+  },
+  {
+    "date": "2026-07-09",
+    "source_cutoff": "2026-07-08",
+    "house": "Gali",
+    "policy": "DROP_PRIMARY_EVIDENCE",
+    "baseline_rank": 85,
+    "ltr_rank": 71
+  },
+  {
+    "date": "2026-07-10",
+    "source_cutoff": "2026-07-09",
+    "house": "Gali",
+    "policy": "DROP_PRIMARY_EVIDENCE",
+    "baseline_rank": 51,
+    "ltr_rank": 47
+  },
+  {
+    "date": "2026-07-11",
+    "source_cutoff": "2026-07-10",
+    "house": "Gali",
+    "policy": "DROP_PRIMARY_EVIDENCE",
+    "baseline_rank": 27,
+    "ltr_rank": 83
+  },
+  {
+    "date": "2026-07-12",
+    "source_cutoff": "2026-07-11",
+    "house": "Gali",
+    "policy": "DROP_PRIMARY_EVIDENCE",
+    "baseline_rank": 83,
+    "ltr_rank": 37
+  },
+  {
+    "date": "2026-07-13",
+    "source_cutoff": "2026-07-12",
+    "house": "Gali",
+    "policy": "DROP_PRIMARY_EVIDENCE",
+    "baseline_rank": 51,
+    "ltr_rank": 23
+  },
+  {
+    "date": "2026-07-14",
+    "source_cutoff": "2026-07-13",
+    "house": "Gali",
+    "policy": "DROP_PRIMARY_EVIDENCE",
+    "baseline_rank": 61,
+    "ltr_rank": 59
+  },
+  {
+    "date": "2026-07-15",
+    "source_cutoff": "2026-07-14",
+    "house": "Gali",
+    "policy": "DROP_PRIMARY_EVIDENCE",
+    "baseline_rank": 29,
+    "ltr_rank": 38
+  },
+  {
+    "date": "2026-07-16",
+    "source_cutoff": "2026-07-15",
+    "house": "Gali",
+    "policy": "DROP_PRIMARY_EVIDENCE",
+    "baseline_rank": 91,
+    "ltr_rank": 13
+  },
+  {
+    "date": "2026-07-17",
+    "source_cutoff": "2026-07-16",
+    "house": "Gali",
+    "policy": "DROP_PRIMARY_EVIDENCE",
+    "baseline_rank": 14,
+    "ltr_rank": 89
+  },
+  {
+    "date": "2026-07-18",
+    "source_cutoff": "2026-07-17",
+    "house": "Gali",
+    "policy": "DROP_PRIMARY_EVIDENCE",
+    "baseline_rank": 88,
+    "ltr_rank": 27
+  },
+  {
+    "date": "2026-07-19",
+    "source_cutoff": "2026-07-18",
+    "house": "Gali",
+    "policy": "DROP_PRIMARY_EVIDENCE",
+    "baseline_rank": 64,
+    "ltr_rank": 46
+  },
+  {
+    "date": "2026-07-20",
+    "source_cutoff": "2026-07-19",
+    "house": "Gali",
+    "policy": "DROP_PRIMARY_EVIDENCE",
+    "baseline_rank": 5,
+    "ltr_rank": 62
+  },
+  {
+    "date": "2026-07-21",
+    "source_cutoff": "2026-07-20",
+    "house": "Gali",
+    "policy": "DROP_PRIMARY_EVIDENCE",
+    "baseline_rank": 37,
+    "ltr_rank": 47
+  },
+  {
+    "date": "2026-07-22",
+    "source_cutoff": "2026-07-21",
+    "house": "Gali",
+    "policy": "DROP_PRIMARY_EVIDENCE",
+    "baseline_rank": 45,
+    "ltr_rank": 44
+  },
+  {
+    "date": "2026-07-23",
+    "source_cutoff": "2026-07-22",
+    "house": "Gali",
+    "policy": "DROP_PRIMARY_EVIDENCE",
+    "baseline_rank": 63,
+    "ltr_rank": 48
+  },
+  {
+    "date": "2026-07-24",
+    "source_cutoff": "2026-07-23",
+    "house": "Gali",
+    "policy": "DROP_PRIMARY_EVIDENCE",
+    "baseline_rank": 90,
+    "ltr_rank": 82
+  },
+  {
+    "date": "2026-07-25",
+    "source_cutoff": "2026-07-24",
+    "house": "Gali",
+    "policy": "DROP_PRIMARY_EVIDENCE",
+    "baseline_rank": 85,
+    "ltr_rank": 91
+  },
+  {
+    "date": "2026-07-27",
+    "source_cutoff": "2026-07-26",
+    "house": "Gali",
+    "policy": "DROP_PRIMARY_EVIDENCE",
+    "baseline_rank": 6,
+    "ltr_rank": 75
+  },
+  {
+    "date": "2026-07-28",
+    "source_cutoff": "2026-07-27",
+    "house": "Gali",
+    "policy": "DROP_PRIMARY_EVIDENCE",
+    "baseline_rank": 25,
+    "ltr_rank": 89
+  },
+  {
+    "date": "2026-07-29",
+    "source_cutoff": "2026-07-28",
+    "house": "Gali",
+    "policy": "DROP_PRIMARY_EVIDENCE",
+    "baseline_rank": 29,
+    "ltr_rank": 85
+  },
+  {
+    "date": "2026-07-30",
+    "source_cutoff": "2026-07-29",
+    "house": "Gali",
+    "policy": "DROP_PRIMARY_EVIDENCE",
+    "baseline_rank": 48,
+    "ltr_rank": 72
+  },
+  {
+    "date": "2026-08-01",
+    "source_cutoff": "2026-07-31",
+    "house": "Gali",
+    "policy": "DROP_PRIMARY_EVIDENCE",
+    "baseline_rank": 98,
+    "ltr_rank": 98
+  },
+  {
+    "date": "2026-08-02",
+    "source_cutoff": "2026-08-01",
+    "house": "Gali",
+    "policy": "DROP_PRIMARY_EVIDENCE",
+    "baseline_rank": 20,
+    "ltr_rank": 83
+  },
+  {
+    "date": "2026-08-03",
+    "source_cutoff": "2026-08-02",
+    "house": "Gali",
+    "policy": "DROP_PRIMARY_EVIDENCE",
+    "baseline_rank": 29,
+    "ltr_rank": 72
+  },
+  {
+    "date": "2026-08-04",
+    "source_cutoff": "2026-08-03",
+    "house": "Gali",
+    "policy": "DROP_PRIMARY_EVIDENCE",
+    "baseline_rank": 4,
+    "ltr_rank": 39
+  },
+  {
+    "date": "2026-08-05",
+    "source_cutoff": "2026-08-04",
+    "house": "Gali",
+    "policy": "DROP_PRIMARY_EVIDENCE",
+    "baseline_rank": 87,
+    "ltr_rank": 25
+  },
+  {
+    "date": "2026-08-06",
+    "source_cutoff": "2026-08-05",
+    "house": "Gali",
+    "policy": "DROP_PRIMARY_EVIDENCE",
+    "baseline_rank": 83,
+    "ltr_rank": 49
+  },
+  {
+    "date": "2026-08-07",
+    "source_cutoff": "2026-08-06",
+    "house": "Gali",
+    "policy": "DROP_PRIMARY_EVIDENCE",
+    "baseline_rank": 19,
+    "ltr_rank": 13
+  },
+  {
+    "date": "2026-08-08",
+    "source_cutoff": "2026-08-07",
+    "house": "Gali",
+    "policy": "DROP_PRIMARY_EVIDENCE",
+    "baseline_rank": 94,
+    "ltr_rank": 79
+  },
+  {
+    "date": "2026-08-09",
+    "source_cutoff": "2026-08-08",
+    "house": "Gali",
+    "policy": "DROP_PRIMARY_EVIDENCE",
+    "baseline_rank": 98,
+    "ltr_rank": 24
+  },
+  {
+    "date": "2026-08-10",
+    "source_cutoff": "2026-08-09",
+    "house": "Gali",
+    "policy": "DROP_PRIMARY_EVIDENCE",
+    "baseline_rank": 66,
+    "ltr_rank": 42
+  },
+  {
+    "date": "2026-08-11",
+    "source_cutoff": "2026-08-10",
+    "house": "Gali",
+    "policy": "DROP_PRIMARY_EVIDENCE",
+    "baseline_rank": 95,
+    "ltr_rank": 13
+  },
+  {
+    "date": "2026-08-12",
+    "source_cutoff": "2026-08-11",
+    "house": "Gali",
+    "policy": "DROP_PRIMARY_EVIDENCE",
+    "baseline_rank": 67,
+    "ltr_rank": 34
+  },
+  {
+    "date": "2026-08-13",
+    "source_cutoff": "2026-08-12",
+    "house": "Gali",
+    "policy": "DROP_PRIMARY_EVIDENCE",
+    "baseline_rank": 15,
+    "ltr_rank": 31
+  },
+  {
+    "date": "2026-08-14",
+    "source_cutoff": "2026-08-13",
+    "house": "Gali",
+    "policy": "DROP_PRIMARY_EVIDENCE",
+    "baseline_rank": 83,
+    "ltr_rank": 38
+  },
+  {
+    "date": "2026-08-15",
+    "source_cutoff": "2026-08-14",
+    "house": "Gali",
+    "policy": "DROP_PRIMARY_EVIDENCE",
+    "baseline_rank": 78,
+    "ltr_rank": 14
+  },
+  {
+    "date": "2026-08-16",
+    "source_cutoff": "2026-08-15",
+    "house": "Gali",
+    "policy": "DROP_PRIMARY_EVIDENCE",
+    "baseline_rank": 73,
+    "ltr_rank": 68
+  },
+  {
+    "date": "2026-08-17",
+    "source_cutoff": "2026-08-16",
+    "house": "Gali",
+    "policy": "DROP_PRIMARY_EVIDENCE",
+    "baseline_rank": 43,
+    "ltr_rank": 51
+  },
+  {
+    "date": "2026-08-18",
+    "source_cutoff": "2026-08-17",
+    "house": "Gali",
+    "policy": "DROP_PRIMARY_EVIDENCE",
+    "baseline_rank": 96,
+    "ltr_rank": 86
+  },
+  {
+    "date": "2026-08-19",
+    "source_cutoff": "2026-08-18",
+    "house": "Gali",
+    "policy": "DROP_PRIMARY_EVIDENCE",
+    "baseline_rank": 61,
+    "ltr_rank": 48
+  },
+  {
+    "date": "2026-08-20",
+    "source_cutoff": "2026-08-19",
+    "house": "Gali",
+    "policy": "DROP_PRIMARY_EVIDENCE",
+    "baseline_rank": 57,
+    "ltr_rank": 12
+  },
+  {
+    "date": "2026-08-21",
+    "source_cutoff": "2026-08-20",
+    "house": "Gali",
+    "policy": "DROP_PRIMARY_EVIDENCE",
+    "baseline_rank": 41,
+    "ltr_rank": 46
+  },
+  {
+    "date": "2026-08-22",
+    "source_cutoff": "2026-08-21",
+    "house": "Gali",
+    "policy": "DROP_PRIMARY_EVIDENCE",
+    "baseline_rank": 85,
+    "ltr_rank": 26
+  },
+  {
+    "date": "2026-08-23",
+    "source_cutoff": "2026-08-22",
+    "house": "Gali",
+    "policy": "DROP_PRIMARY_EVIDENCE",
+    "baseline_rank": 86,
+    "ltr_rank": 37
+  },
+  {
+    "date": "2026-08-24",
+    "source_cutoff": "2026-08-23",
+    "house": "Gali",
+    "policy": "DROP_PRIMARY_EVIDENCE",
+    "baseline_rank": 4,
+    "ltr_rank": 13
+  },
+  {
+    "date": "2026-08-25",
+    "source_cutoff": "2026-08-24",
+    "house": "Gali",
+    "policy": "DROP_PRIMARY_EVIDENCE",
+    "baseline_rank": 91,
+    "ltr_rank": 11
+  },
+  {
+    "date": "2026-08-26",
+    "source_cutoff": "2026-08-25",
+    "house": "Gali",
+    "policy": "DROP_PRIMARY_EVIDENCE",
+    "baseline_rank": 79,
+    "ltr_rank": 56
+  },
+  {
+    "date": "2026-08-27",
+    "source_cutoff": "2026-08-26",
+    "house": "Gali",
+    "policy": "DROP_PRIMARY_EVIDENCE",
+    "baseline_rank": 65,
+    "ltr_rank": 9
+  },
+  {
+    "date": "2026-08-28",
+    "source_cutoff": "2026-08-27",
+    "house": "Gali",
+    "policy": "DROP_PRIMARY_EVIDENCE",
+    "baseline_rank": 87,
+    "ltr_rank": 44
+  }
+]

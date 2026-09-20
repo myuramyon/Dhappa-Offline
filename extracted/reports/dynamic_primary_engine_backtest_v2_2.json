@@ -1,0 +1,408 @@
+{
+  "model": "DHAPPA Dynamic Primary Engine v2.2",
+  "rows": 240,
+  "date_range": [
+    "2026-01-03",
+    "2026-09-19"
+  ],
+  "strict_temporal_rule": "generate/freeze/elect using rows[:target_index] only; append target evaluations only after election",
+  "election_features": [
+    "champion_challenger_gating",
+    "15_30_60_expanding_agreement",
+    "minimum_tenure_hysteresis",
+    "combination_survival_test",
+    "contextual_regime_modifier",
+    "NO_QUALIFIED_PRIMARY",
+    "paired_challenger_proof",
+    "asymmetric_champion_protection",
+    "incumbent_strength_tiers",
+    "damage_budget",
+    "fast_weak_challenger_path",
+    "failing_incumbent_abstention"
+  ],
+  "engine_count": 12,
+  "engines": [
+    {
+      "name": "DATE_TRIAD",
+      "family": "calendar"
+    },
+    {
+      "name": "PREVIOUS_DAY",
+      "family": "transition"
+    },
+    {
+      "name": "DELTA_MATRIX",
+      "family": "delta"
+    },
+    {
+      "name": "G_SQUARE",
+      "family": "square"
+    },
+    {
+      "name": "G_SQUARE_HARMONICS",
+      "family": "square"
+    },
+    {
+      "name": "HARUF_PYRAMID",
+      "family": "haruf"
+    },
+    {
+      "name": "LOOKBACK_5",
+      "family": "recency"
+    },
+    {
+      "name": "ECHO_7",
+      "family": "echo"
+    },
+    {
+      "name": "HOT_RECENCY",
+      "family": "frequency"
+    },
+    {
+      "name": "RASHI_FAMILY",
+      "family": "family"
+    },
+    {
+      "name": "TRANSITION_MARKOV",
+      "family": "transition"
+    },
+    {
+      "name": "MODEL_F",
+      "family": "composite"
+    }
+  ],
+  "house_metrics": {
+    "Deshawar": {
+      "targets": 188,
+      "elected_targets": 170,
+      "abstentions": 18,
+      "election_coverage_pct": 90.43,
+      "primary_top5_pct_elected": 7.06,
+      "primary_top10_pct_elected": 11.18,
+      "primary_top21_pct_elected": 22.35,
+      "primary_top36_pct_elected": 34.71,
+      "primary_top5_pct_all_targets": 6.38,
+      "mrr_elected": 0.0474,
+      "median_rank_elected": 52.0,
+      "mean_rank_elected": 51.02,
+      "switches": 17,
+      "current_primary": "HOT_RECENCY",
+      "single_leaders": [
+        {
+          "engine": "HOT_RECENCY",
+          "window_agreement": 0.0937,
+          "n": 188,
+          "h5": 7.45,
+          "h10": 13.83,
+          "h21": 26.06,
+          "h36": 44.15,
+          "mrr": 5.74,
+          "median_rank": 45.0,
+          "mean_rank": 45.82,
+          "stability": 65.03
+        },
+        {
+          "engine": "ECHO_7",
+          "window_agreement": 0.028,
+          "n": 188,
+          "h5": 6.91,
+          "h10": 12.77,
+          "h21": 22.34,
+          "h36": 36.17,
+          "mrr": 5.52,
+          "median_rank": 50.5,
+          "mean_rank": 50.16,
+          "stability": 70.07
+        },
+        {
+          "engine": "LOOKBACK_5",
+          "window_agreement": 0.0408,
+          "n": 188,
+          "h5": 7.45,
+          "h10": 13.3,
+          "h21": 20.74,
+          "h36": 37.77,
+          "mrr": 5.57,
+          "median_rank": 50.5,
+          "mean_rank": 49.54,
+          "stability": 64.0
+        },
+        {
+          "engine": "MODEL_F",
+          "window_agreement": 0.004,
+          "n": 188,
+          "h5": 4.79,
+          "h10": 9.04,
+          "h21": 20.74,
+          "h36": 37.77,
+          "mrr": 5.2,
+          "median_rank": 46.5,
+          "mean_rank": 50.51,
+          "stability": 69.08
+        },
+        {
+          "engine": "G_SQUARE_HARMONICS",
+          "window_agreement": 0.0011,
+          "n": 188,
+          "h5": 5.32,
+          "h10": 8.51,
+          "h21": 17.55,
+          "h36": 34.04,
+          "mrr": 4.96,
+          "median_rank": 55.0,
+          "mean_rank": 53.09,
+          "stability": 69.34
+        }
+      ]
+    },
+    "Faridabad": {
+      "targets": 192,
+      "elected_targets": 177,
+      "abstentions": 15,
+      "election_coverage_pct": 92.19,
+      "primary_top5_pct_elected": 2.82,
+      "primary_top10_pct_elected": 6.21,
+      "primary_top21_pct_elected": 18.64,
+      "primary_top36_pct_elected": 31.64,
+      "primary_top5_pct_all_targets": 2.6,
+      "mrr_elected": 0.0425,
+      "median_rank_elected": 50,
+      "mean_rank_elected": 50.3,
+      "switches": 12,
+      "current_primary": "HARUF_PYRAMID+DELTA_MATRIX+PREVIOUS_DAY",
+      "single_leaders": [
+        {
+          "engine": "HARUF_PYRAMID",
+          "window_agreement": 0.014,
+          "n": 192,
+          "h5": 9.38,
+          "h10": 13.54,
+          "h21": 23.96,
+          "h36": 39.06,
+          "mrr": 6.64,
+          "median_rank": 49.0,
+          "mean_rank": 49.72,
+          "stability": 62.42
+        },
+        {
+          "engine": "DATE_TRIAD",
+          "window_agreement": 0.0193,
+          "n": 192,
+          "h5": 6.25,
+          "h10": 14.06,
+          "h21": 26.56,
+          "h36": 39.58,
+          "mrr": 5.38,
+          "median_rank": 45.5,
+          "mean_rank": 46.68,
+          "stability": 57.3
+        },
+        {
+          "engine": "MODEL_F",
+          "window_agreement": -0.0069,
+          "n": 192,
+          "h5": 5.21,
+          "h10": 10.94,
+          "h21": 25.52,
+          "h36": 39.58,
+          "mrr": 4.97,
+          "median_rank": 46.5,
+          "mean_rank": 47.77,
+          "stability": 66.65
+        },
+        {
+          "engine": "G_SQUARE_HARMONICS",
+          "window_agreement": 0.0136,
+          "n": 192,
+          "h5": 7.29,
+          "h10": 12.5,
+          "h21": 20.31,
+          "h36": 35.94,
+          "mrr": 5.78,
+          "median_rank": 54.0,
+          "mean_rank": 50.59,
+          "stability": 58.47
+        },
+        {
+          "engine": "DELTA_MATRIX",
+          "window_agreement": 0.0129,
+          "n": 192,
+          "h5": 5.21,
+          "h10": 10.94,
+          "h21": 20.83,
+          "h36": 35.42,
+          "mrr": 6.3,
+          "median_rank": 49.5,
+          "mean_rank": 49.19,
+          "stability": 67.62
+        }
+      ]
+    },
+    "Ghaziabad": {
+      "targets": 192,
+      "elected_targets": 176,
+      "abstentions": 16,
+      "election_coverage_pct": 91.67,
+      "primary_top5_pct_elected": 4.55,
+      "primary_top10_pct_elected": 10.23,
+      "primary_top21_pct_elected": 19.89,
+      "primary_top36_pct_elected": 41.48,
+      "primary_top5_pct_all_targets": 4.17,
+      "mrr_elected": 0.0434,
+      "median_rank_elected": 48.0,
+      "mean_rank_elected": 50.21,
+      "switches": 10,
+      "current_primary": "TRANSITION_MARKOV",
+      "single_leaders": [
+        {
+          "engine": "TRANSITION_MARKOV",
+          "window_agreement": 0.0599,
+          "n": 192,
+          "h5": 7.29,
+          "h10": 11.46,
+          "h21": 20.83,
+          "h36": 37.5,
+          "mrr": 5.42,
+          "median_rank": 53.0,
+          "mean_rank": 50.16,
+          "stability": 68.52
+        },
+        {
+          "engine": "HARUF_PYRAMID",
+          "window_agreement": 0.0232,
+          "n": 192,
+          "h5": 5.21,
+          "h10": 9.38,
+          "h21": 22.4,
+          "h36": 39.58,
+          "mrr": 6.48,
+          "median_rank": 49.5,
+          "mean_rank": 49.38,
+          "stability": 68.32
+        },
+        {
+          "engine": "ECHO_7",
+          "window_agreement": -0.0045,
+          "n": 192,
+          "h5": 5.21,
+          "h10": 11.46,
+          "h21": 21.35,
+          "h36": 38.54,
+          "mrr": 5.1,
+          "median_rank": 50.0,
+          "mean_rank": 48.78,
+          "stability": 66.59
+        },
+        {
+          "engine": "MODEL_F",
+          "window_agreement": 0.0067,
+          "n": 192,
+          "h5": 5.21,
+          "h10": 10.94,
+          "h21": 19.27,
+          "h36": 36.46,
+          "mrr": 4.86,
+          "median_rank": 47.0,
+          "mean_rank": 50.47,
+          "stability": 66.91
+        },
+        {
+          "engine": "G_SQUARE",
+          "window_agreement": -0.0327,
+          "n": 192,
+          "h5": 5.21,
+          "h10": 8.85,
+          "h21": 22.4,
+          "h36": 41.15,
+          "mrr": 5.24,
+          "median_rank": 45.0,
+          "mean_rank": 48.1,
+          "stability": 63.07
+        }
+      ]
+    },
+    "Gali": {
+      "targets": 191,
+      "elected_targets": 175,
+      "abstentions": 16,
+      "election_coverage_pct": 91.62,
+      "primary_top5_pct_elected": 6.86,
+      "primary_top10_pct_elected": 8.57,
+      "primary_top21_pct_elected": 18.29,
+      "primary_top36_pct_elected": 29.71,
+      "primary_top5_pct_all_targets": 6.28,
+      "mrr_elected": 0.0545,
+      "median_rank_elected": 58,
+      "mean_rank_elected": 54.01,
+      "switches": 14,
+      "current_primary": "DATE_TRIAD+G_SQUARE_HARMONICS",
+      "single_leaders": [
+        {
+          "engine": "ECHO_7",
+          "window_agreement": 0.0615,
+          "n": 191,
+          "h5": 7.85,
+          "h10": 11.52,
+          "h21": 21.47,
+          "h36": 33.51,
+          "mrr": 6.0,
+          "median_rank": 50,
+          "mean_rank": 51.07,
+          "stability": 68.84
+        },
+        {
+          "engine": "DELTA_MATRIX",
+          "window_agreement": -0.0069,
+          "n": 191,
+          "h5": 6.28,
+          "h10": 9.42,
+          "h21": 18.32,
+          "h36": 29.32,
+          "mrr": 4.41,
+          "median_rank": 53,
+          "mean_rank": 52.68,
+          "stability": 69.0
+        },
+        {
+          "engine": "DATE_TRIAD",
+          "window_agreement": -0.0301,
+          "n": 191,
+          "h5": 6.28,
+          "h10": 10.47,
+          "h21": 19.37,
+          "h36": 32.46,
+          "mrr": 4.6,
+          "median_rank": 52,
+          "mean_rank": 52.12,
+          "stability": 60.49
+        },
+        {
+          "engine": "HARUF_PYRAMID",
+          "window_agreement": -0.0313,
+          "n": 191,
+          "h5": 4.19,
+          "h10": 8.9,
+          "h21": 19.37,
+          "h36": 32.98,
+          "mrr": 4.54,
+          "median_rank": 58,
+          "mean_rank": 53.63,
+          "stability": 69.14
+        },
+        {
+          "engine": "G_SQUARE_HARMONICS",
+          "window_agreement": 0.0251,
+          "n": 191,
+          "h5": 4.19,
+          "h10": 8.9,
+          "h21": 21.47,
+          "h36": 34.03,
+          "mrr": 4.3,
+          "median_rank": 56,
+          "mean_rank": 53.03,
+          "stability": 66.02
+        }
+      ]
+    }
+  }
+}

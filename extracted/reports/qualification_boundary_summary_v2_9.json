@@ -1,0 +1,22 @@
+{
+  "Deshawar": {
+    "near_tested": 324,
+    "rescued": 0,
+    "near_rejected": 324
+  },
+  "Faridabad": {
+    "near_tested": 273,
+    "rescued": 0,
+    "near_rejected": 273
+  },
+  "Ghaziabad": {
+    "near_tested": 238,
+    "rescued": 30,
+    "near_rejected": 208
+  },
+  "Gali": {
+    "near_tested": 373,
+    "rescued": 0,
+    "near_rejected": 373
+  }
+}

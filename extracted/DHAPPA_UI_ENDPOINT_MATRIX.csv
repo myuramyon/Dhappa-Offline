@@ -1,0 +1,14 @@
+Page,Component,Endpoint,Method,Parameters,Response Fields,Cache Policy,Refresh Trigger
+Dashboard,Target context,/api/evaluate,GET,date,target_date source_cutoff consensus,Reuse current evaluation,Target change or refresh
+Dashboard,House cards,/api/evaluate,GET,date,consensus.houses,Reuse current evaluation,Target change or refresh
+Predictions,Consensus ranking,/api/evaluate,GET,date,consensus.houses,Reuse current evaluation,Target change or refresh
+Engine Lab,Engine details,/api/evaluate,GET,date,engines,Reuse current evaluation,Target change or refresh
+Daily Data,Daily table,/api/data/daily,GET,from to house search page page_size sort,data meta,No cache after data mutation,Filter or page change
+Daily Data,Daily detail,/api/data/daily/{date},GET,date,data,No cache after data mutation,Row click
+Daily Data,Latest summary,/api/data/daily/{date},GET,latest date,data,No cache after data mutation,Data refresh
+Daily Data,Add row,/api/data/daily,POST,date DS FB GB GL,commit result,Write-through,Save
+Daily Data,Edit row,/api/data/daily/{date},PATCH,date DS FB GB GL,commit result,Write-through,Save
+Daily Data,Import validation,/api/data/import/validate,POST,text has_header,rows status changes errors,No cache,Preview action
+Daily Data,Import commit,/api/data/import/commit,POST,text has_header strategy,commit result,Write-through,Import action
+Daily Data,Export,/api/data/export,GET,from to house search sort,CSV,No cache,Export action
+System,Metadata,/api/meta,GET,none,dates engines row_count range,Refresh on mutation,App init or data mutation

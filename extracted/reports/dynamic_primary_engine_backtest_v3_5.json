@@ -1,0 +1,97 @@
+{
+  "model": "v3.5 Activation Precision Controller",
+  "house_metrics": {
+    "Deshawar": {
+      "targets": 188,
+      "elected_targets": 172,
+      "top5_pct_elected": 8.14,
+      "top10_pct_elected": 11.05,
+      "top21_pct_elected": 23.26,
+      "top36_pct_elected": 39.53,
+      "top5_pct_all_targets": 7.45,
+      "mrr_elected": 0.0598,
+      "v3_5_live_activations": 0,
+      "v3_5_realized_top5_rescues": 0,
+      "v3_5_damaged_top5": 0,
+      "v3_5_suspensions": 0,
+      "precision_history": {
+        "n": 0,
+        "net5": 0,
+        "net10": 0,
+        "mrr": 0.0,
+        "rescued": 0,
+        "damaged": 0,
+        "precision_when_material": null
+      }
+    },
+    "Faridabad": {
+      "targets": 192,
+      "elected_targets": 177,
+      "top5_pct_elected": 5.65,
+      "top10_pct_elected": 12.99,
+      "top21_pct_elected": 26.55,
+      "top36_pct_elected": 38.42,
+      "top5_pct_all_targets": 5.21,
+      "mrr_elected": 0.0599,
+      "v3_5_live_activations": 0,
+      "v3_5_realized_top5_rescues": 0,
+      "v3_5_damaged_top5": 0,
+      "v3_5_suspensions": 0,
+      "precision_history": {
+        "n": 0,
+        "net5": 0,
+        "net10": 0,
+        "mrr": 0.0,
+        "rescued": 0,
+        "damaged": 0,
+        "precision_when_material": null
+      }
+    },
+    "Ghaziabad": {
+      "targets": 191,
+      "elected_targets": 176,
+      "top5_pct_elected": 6.82,
+      "top10_pct_elected": 11.93,
+      "top21_pct_elected": 26.14,
+      "top36_pct_elected": 47.73,
+      "top5_pct_all_targets": 6.28,
+      "mrr_elected": 0.052,
+      "v3_5_live_activations": 12,
+      "v3_5_realized_top5_rescues": 1,
+      "v3_5_damaged_top5": 0,
+      "v3_5_suspensions": 0,
+      "precision_history": {
+        "n": 12,
+        "net5": 1,
+        "net10": 0,
+        "mrr": 0.0047619,
+        "rescued": 1,
+        "damaged": 0,
+        "precision_when_material": 1.0
+      }
+    },
+    "Gali": {
+      "targets": 190,
+      "elected_targets": 174,
+      "top5_pct_elected": 4.6,
+      "top10_pct_elected": 8.62,
+      "top21_pct_elected": 20.11,
+      "top36_pct_elected": 31.61,
+      "top5_pct_all_targets": 4.21,
+      "mrr_elected": 0.0426,
+      "v3_5_live_activations": 0,
+      "v3_5_realized_top5_rescues": 0,
+      "v3_5_damaged_top5": 0,
+      "v3_5_suspensions": 0,
+      "precision_history": {
+        "n": 0,
+        "net5": 0,
+        "net10": 0,
+        "mrr": 0.0,
+        "rescued": 0,
+        "damaged": 0,
+        "precision_when_material": null
+      }
+    }
+  }
+}

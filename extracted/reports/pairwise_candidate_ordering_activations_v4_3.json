@@ -1,0 +1,298 @@
+[
+  {
+    "date": "2026-05-08",
+    "house": "Faridabad",
+    "baseline_rank": 23,
+    "pairwise_rank": 79,
+    "rescued": false,
+    "damaged": false
+  },
+  {
+    "date": "2026-05-09",
+    "house": "Faridabad",
+    "baseline_rank": 43,
+    "pairwise_rank": 49,
+    "rescued": false,
+    "damaged": false
+  },
+  {
+    "date": "2026-06-10",
+    "house": "Gali",
+    "baseline_rank": 34,
+    "pairwise_rank": 79,
+    "rescued": false,
+    "damaged": false
+  },
+  {
+    "date": "2026-06-11",
+    "house": "Gali",
+    "baseline_rank": 44,
+    "pairwise_rank": 73,
+    "rescued": false,
+    "damaged": false
+  },
+  {
+    "date": "2026-06-12",
+    "house": "Gali",
+    "baseline_rank": 65,
+    "pairwise_rank": 28,
+    "rescued": false,
+    "damaged": false
+  },
+  {
+    "date": "2026-06-13",
+    "house": "Gali",
+    "baseline_rank": 31,
+    "pairwise_rank": 65,
+    "rescued": false,
+    "damaged": false
+  },
+  {
+    "date": "2026-07-01",
+    "house": "Gali",
+    "baseline_rank": 84,
+    "pairwise_rank": 23,
+    "rescued": false,
+    "damaged": false
+  },
+  {
+    "date": "2026-07-02",
+    "house": "Gali",
+    "baseline_rank": 3,
+    "pairwise_rank": 89,
+    "rescued": false,
+    "damaged": true
+  },
+  {
+    "date": "2026-07-30",
+    "house": "Gali",
+    "baseline_rank": 48,
+    "pairwise_rank": 76,
+    "rescued": false,
+    "damaged": false
+  },
+  {
+    "date": "2026-08-01",
+    "house": "Gali",
+    "baseline_rank": 98,
+    "pairwise_rank": 16,
+    "rescued": false,
+    "damaged": false
+  },
+  {
+    "date": "2026-08-02",
+    "house": "Gali",
+    "baseline_rank": 20,
+    "pairwise_rank": 86,
+    "rescued": false,
+    "damaged": false
+  },
+  {
+    "date": "2026-08-03",
+    "house": "Gali",
+    "baseline_rank": 29,
+    "pairwise_rank": 63,
+    "rescued": false,
+    "damaged": false
+  },
+  {
+    "date": "2026-08-04",
+    "house": "Gali",
+    "baseline_rank": 4,
+    "pairwise_rank": 94,
+    "rescued": false,
+    "damaged": true
+  },
+  {
+    "date": "2026-08-05",
+    "house": "Gali",
+    "baseline_rank": 87,
+    "pairwise_rank": 16,
+    "rescued": false,
+    "damaged": false
+  },
+  {
+    "date": "2026-08-06",
+    "house": "Gali",
+    "baseline_rank": 83,
+    "pairwise_rank": 6,
+    "rescued": false,
+    "damaged": false
+  },
+  {
+    "date": "2026-08-07",
+    "house": "Gali",
+    "baseline_rank": 19,
+    "pairwise_rank": 76,
+    "rescued": false,
+    "damaged": false
+  },
+  {
+    "date": "2026-08-08",
+    "house": "Gali",
+    "baseline_rank": 94,
+    "pairwise_rank": 21,
+    "rescued": false,
+    "damaged": false
+  },
+  {
+    "date": "2026-08-09",
+    "house": "Gali",
+    "baseline_rank": 98,
+    "pairwise_rank": 2,
+    "rescued": true,
+    "damaged": false
+  },
+  {
+    "date": "2026-08-10",
+    "house": "Gali",
+    "baseline_rank": 66,
+    "pairwise_rank": 19,
+    "rescued": false,
+    "damaged": false
+  },
+  {
+    "date": "2026-08-11",
+    "house": "Gali",
+    "baseline_rank": 95,
+    "pairwise_rank": 27,
+    "rescued": false,
+    "damaged": false
+  },
+  {
+    "date": "2026-08-12",
+    "house": "Gali",
+    "baseline_rank": 67,
+    "pairwise_rank": 6,
+    "rescued": false,
+    "damaged": false
+  },
+  {
+    "date": "2026-08-13",
+    "house": "Gali",
+    "baseline_rank": 15,
+    "pairwise_rank": 75,
+    "rescued": false,
+    "damaged": false
+  },
+  {
+    "date": "2026-08-14",
+    "house": "Gali",
+    "baseline_rank": 83,
+    "pairwise_rank": 29,
+    "rescued": false,
+    "damaged": false
+  },
+  {
+    "date": "2026-08-15",
+    "house": "Gali",
+    "baseline_rank": 78,
+    "pairwise_rank": 49,
+    "rescued": false,
+    "damaged": false
+  },
+  {
+    "date": "2026-08-16",
+    "house": "Gali",
+    "baseline_rank": 73,
+    "pairwise_rank": 21,
+    "rescued": false,
+    "damaged": false
+  },
+  {
+    "date": "2026-08-17",
+    "house": "Gali",
+    "baseline_rank": 43,
+    "pairwise_rank": 36,
+    "rescued": false,
+    "damaged": false
+  },
+  {
+    "date": "2026-08-18",
+    "house": "Gali",
+    "baseline_rank": 96,
+    "pairwise_rank": 40,
+    "rescued": false,
+    "damaged": false
+  },
+  {
+    "date": "2026-08-19",
+    "house": "Gali",
+    "baseline_rank": 61,
+    "pairwise_rank": 34,
+    "rescued": false,
+    "damaged": false
+  },
+  {
+    "date": "2026-08-20",
+    "house": "Gali",
+    "baseline_rank": 57,
+    "pairwise_rank": 9,
+    "rescued": false,
+    "damaged": false
+  },
+  {
+    "date": "2026-08-21",
+    "house": "Gali",
+    "baseline_rank": 41,
+    "pairwise_rank": 42,
+    "rescued": false,
+    "damaged": false
+  },
+  {
+    "date": "2026-08-22",
+    "house": "Gali",
+    "baseline_rank": 85,
+    "pairwise_rank": 5,
+    "rescued": true,
+    "damaged": false
+  },
+  {
+    "date": "2026-08-23",
+    "house": "Gali",
+    "baseline_rank": 86,
+    "pairwise_rank": 15,
+    "rescued": false,
+    "damaged": false
+  },
+  {
+    "date": "2026-08-24",
+    "house": "Gali",
+    "baseline_rank": 4,
+    "pairwise_rank": 90,
+    "rescued": false,
+    "damaged": true
+  },
+  {
+    "date": "2026-08-25",
+    "house": "Gali",
+    "baseline_rank": 91,
+    "pairwise_rank": 11,
+    "rescued": false,
+    "damaged": false
+  },
+  {
+    "date": "2026-08-26",
+    "house": "Gali",
+    "baseline_rank": 79,
+    "pairwise_rank": 27,
+    "rescued": false,
+    "damaged": false
+  },
+  {
+    "date": "2026-08-27",
+    "house": "Gali",
+    "baseline_rank": 65,
+    "pairwise_rank": 4,
+    "rescued": true,
+    "damaged": false
+  },
+  {
+    "date": "2026-08-28",
+    "house": "Gali",
+    "baseline_rank": 87,
+    "pairwise_rank": 18,
+    "rescued": false,
+    "damaged": false
+  }
+]

@@ -1,0 +1,38 @@
+{
+  "Deshawar": {
+    "boundary_comparisons": 516,
+    "elected_targets_with_boundary": 172,
+    "rescue_events": 2,
+    "damage_events": 3,
+    "neutral_events": 511,
+    "rescue_rate_pct": 0.39,
+    "damage_rate_pct": 0.58
+  },
+  "Faridabad": {
+    "boundary_comparisons": 531,
+    "elected_targets_with_boundary": 177,
+    "rescue_events": 7,
+    "damage_events": 3,
+    "neutral_events": 521,
+    "rescue_rate_pct": 1.32,
+    "damage_rate_pct": 0.56
+  },
+  "Ghaziabad": {
+    "boundary_comparisons": 528,
+    "elected_targets_with_boundary": 176,
+    "rescue_events": 6,
+    "damage_events": 3,
+    "neutral_events": 519,
+    "rescue_rate_pct": 1.14,
+    "damage_rate_pct": 0.57
+  },
+  "Gali": {
+    "boundary_comparisons": 522,
+    "elected_targets_with_boundary": 174,
+    "rescue_events": 5,
+    "damage_events": 3,
+    "neutral_events": 514,
+    "rescue_rate_pct": 0.96,
+    "damage_rate_pct": 0.57
+  }
+}

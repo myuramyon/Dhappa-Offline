@@ -1,0 +1,3297 @@
+[
+  {
+    "date": "2026-02-14",
+    "house": "Ghaziabad",
+    "policy": "BALANCED",
+    "meta": {
+      "n": 0,
+      "reason": "WARMUP_DEFAULT",
+      "scores": {}
+    },
+    "event_count_after": 1
+  },
+  {
+    "date": "2026-02-15",
+    "house": "Ghaziabad",
+    "policy": "BALANCED",
+    "meta": {
+      "n": 1,
+      "reason": "WARMUP_DEFAULT",
+      "scores": {}
+    },
+    "event_count_after": 2
+  },
+  {
+    "date": "2026-02-16",
+    "house": "Ghaziabad",
+    "policy": "BALANCED",
+    "meta": {
+      "n": 2,
+      "reason": "WARMUP_DEFAULT",
+      "scores": {}
+    },
+    "event_count_after": 3
+  },
+  {
+    "date": "2026-02-26",
+    "house": "Faridabad",
+    "policy": "BALANCED",
+    "meta": {
+      "n": 0,
+      "reason": "WARMUP_DEFAULT",
+      "scores": {}
+    },
+    "event_count_after": 1
+  },
+  {
+    "date": "2026-02-27",
+    "house": "Ghaziabad",
+    "policy": "BALANCED",
+    "meta": {
+      "n": 3,
+      "reason": "WARMUP_DEFAULT",
+      "scores": {}
+    },
+    "event_count_after": 4
+  },
+  {
+    "date": "2026-03-03",
+    "house": "Ghaziabad",
+    "policy": "BALANCED",
+    "meta": {
+      "n": 4,
+      "reason": "WARMUP_DEFAULT",
+      "scores": {}
+    },
+    "event_count_after": 5
+  },
+  {
+    "date": "2026-03-04",
+    "house": "Ghaziabad",
+    "policy": "BALANCED",
+    "meta": {
+      "n": 5,
+      "reason": "WARMUP_DEFAULT",
+      "scores": {}
+    },
+    "event_count_after": 6
+  },
+  {
+    "date": "2026-03-05",
+    "house": "Ghaziabad",
+    "policy": "BALANCED",
+    "meta": {
+      "n": 6,
+      "reason": "WARMUP_DEFAULT",
+      "scores": {}
+    },
+    "event_count_after": 7
+  },
+  {
+    "date": "2026-03-07",
+    "house": "Deshawar",
+    "policy": "BALANCED",
+    "meta": {
+      "n": 0,
+      "reason": "WARMUP_DEFAULT",
+      "scores": {}
+    },
+    "event_count_after": 1
+  },
+  {
+    "date": "2026-03-08",
+    "house": "Deshawar",
+    "policy": "BALANCED",
+    "meta": {
+      "n": 1,
+      "reason": "WARMUP_DEFAULT",
+      "scores": {}
+    },
+    "event_count_after": 2
+  },
+  {
+    "date": "2026-03-09",
+    "house": "Deshawar",
+    "policy": "BALANCED",
+    "meta": {
+      "n": 2,
+      "reason": "WARMUP_DEFAULT",
+      "scores": {}
+    },
+    "event_count_after": 3
+  },
+  {
+    "date": "2026-03-11",
+    "house": "Deshawar",
+    "policy": "BALANCED",
+    "meta": {
+      "n": 3,
+      "reason": "WARMUP_DEFAULT",
+      "scores": {}
+    },
+    "event_count_after": 4
+  },
+  {
+    "date": "2026-03-12",
+    "house": "Deshawar",
+    "policy": "BALANCED",
+    "meta": {
+      "n": 4,
+      "reason": "WARMUP_DEFAULT",
+      "scores": {}
+    },
+    "event_count_after": 5
+  },
+  {
+    "date": "2026-03-13",
+    "house": "Deshawar",
+    "policy": "BALANCED",
+    "meta": {
+      "n": 5,
+      "reason": "WARMUP_DEFAULT",
+      "scores": {}
+    },
+    "event_count_after": 6
+  },
+  {
+    "date": "2026-03-14",
+    "house": "Deshawar",
+    "policy": "BALANCED",
+    "meta": {
+      "n": 6,
+      "reason": "WARMUP_DEFAULT",
+      "scores": {}
+    },
+    "event_count_after": 7
+  },
+  {
+    "date": "2026-03-15",
+    "house": "Deshawar",
+    "policy": "BALANCED",
+    "meta": {
+      "n": 7,
+      "reason": "WARMUP_DEFAULT",
+      "scores": {}
+    },
+    "event_count_after": 8
+  },
+  {
+    "date": "2026-03-16",
+    "house": "Deshawar",
+    "policy": "BALANCED",
+    "meta": {
+      "n": 8,
+      "reason": "WARMUP_DEFAULT",
+      "scores": {}
+    },
+    "event_count_after": 9
+  },
+  {
+    "date": "2026-03-17",
+    "house": "Deshawar",
+    "policy": "BALANCED",
+    "meta": {
+      "n": 9,
+      "reason": "WARMUP_DEFAULT",
+      "scores": {}
+    },
+    "event_count_after": 10
+  },
+  {
+    "date": "2026-03-17",
+    "house": "Faridabad",
+    "policy": "BALANCED",
+    "meta": {
+      "n": 1,
+      "reason": "WARMUP_DEFAULT",
+      "scores": {}
+    },
+    "event_count_after": 2
+  },
+  {
+    "date": "2026-03-18",
+    "house": "Deshawar",
+    "policy": "BALANCED",
+    "meta": {
+      "n": 10,
+      "reason": "WARMUP_DEFAULT",
+      "scores": {}
+    },
+    "event_count_after": 11
+  },
+  {
+    "date": "2026-03-19",
+    "house": "Deshawar",
+    "policy": "BALANCED",
+    "meta": {
+      "n": 11,
+      "reason": "WARMUP_DEFAULT",
+      "scores": {}
+    },
+    "event_count_after": 12
+  },
+  {
+    "date": "2026-03-20",
+    "house": "Deshawar",
+    "policy": "BALANCED",
+    "meta": {
+      "n": 12,
+      "reason": "WARMUP_DEFAULT",
+      "scores": {}
+    },
+    "event_count_after": 13
+  },
+  {
+    "date": "2026-03-21",
+    "house": "Deshawar",
+    "policy": "BALANCED",
+    "meta": {
+      "n": 13,
+      "reason": "WARMUP_DEFAULT",
+      "scores": {}
+    },
+    "event_count_after": 14
+  },
+  {
+    "date": "2026-03-22",
+    "house": "Deshawar",
+    "policy": "BALANCED",
+    "meta": {
+      "n": 14,
+      "reason": "WARMUP_DEFAULT",
+      "scores": {}
+    },
+    "event_count_after": 15
+  },
+  {
+    "date": "2026-03-22",
+    "house": "Gali",
+    "policy": "BALANCED",
+    "meta": {
+      "n": 0,
+      "reason": "WARMUP_DEFAULT",
+      "scores": {}
+    },
+    "event_count_after": 1
+  },
+  {
+    "date": "2026-03-23",
+    "house": "Deshawar",
+    "policy": "ADAPTIVE",
+    "meta": {
+      "n": 15,
+      "reason": "PRIOR_ONLY_HOUSE_CALIBRATION",
+      "scores": {
+        "CONSERVATIVE": 0.04478229277792327,
+        "BALANCED": 0.04478229277792327,
+        "ADAPTIVE": 0.04478229277792327,
+        "FAST_RESCUE": 0.04478229277792327
+      },
+      "margin": 0.0
+    },
+    "event_count_after": 16
+  },
+  {
+    "date": "2026-03-24",
+    "house": "Deshawar",
+    "policy": "ADAPTIVE",
+    "meta": {
+      "n": 16,
+      "reason": "PRIOR_ONLY_HOUSE_CALIBRATION",
+      "scores": {
+        "CONSERVATIVE": 0.04039613532835968,
+        "BALANCED": 0.04039613532835968,
+        "ADAPTIVE": 0.04039613532835968,
+        "FAST_RESCUE": 0.04039613532835968
+      },
+      "margin": 0.0
+    },
+    "event_count_after": 17
+  },
+  {
+    "date": "2026-03-25",
+    "house": "Deshawar",
+    "policy": "ADAPTIVE",
+    "meta": {
+      "n": 17,
+      "reason": "PRIOR_ONLY_HOUSE_CALIBRATION",
+      "scores": {
+        "CONSERVATIVE": 0.037588519524730676,
+        "BALANCED": 0.037588519524730676,
+        "ADAPTIVE": 0.037588519524730676,
+        "FAST_RESCUE": 0.037588519524730676
+      },
+      "margin": 0.0
+    },
+    "event_count_after": 18
+  },
+  {
+    "date": "2026-03-26",
+    "house": "Deshawar",
+    "policy": "ADAPTIVE",
+    "meta": {
+      "n": 18,
+      "reason": "PRIOR_ONLY_HOUSE_CALIBRATION",
+      "scores": {
+        "CONSERVATIVE": 0.035281877635425715,
+        "BALANCED": 0.035281877635425715,
+        "ADAPTIVE": 0.035281877635425715,
+        "FAST_RESCUE": 0.035281877635425715
+      },
+      "margin": 0.0
+    },
+    "event_count_after": 19
+  },
+  {
+    "date": "2026-03-27",
+    "house": "Deshawar",
+    "policy": "ADAPTIVE",
+    "meta": {
+      "n": 19,
+      "reason": "PRIOR_ONLY_HOUSE_CALIBRATION",
+      "scores": {
+        "CONSERVATIVE": 0.04131967354935068,
+        "BALANCED": 0.04131967354935068,
+        "ADAPTIVE": 0.04131967354935068,
+        "FAST_RESCUE": 0.04131967354935068
+      },
+      "margin": 0.0
+    },
+    "event_count_after": 20
+  },
+  {
+    "date": "2026-03-28",
+    "house": "Deshawar",
+    "policy": "ADAPTIVE",
+    "meta": {
+      "n": 20,
+      "reason": "PRIOR_ONLY_HOUSE_CALIBRATION",
+      "scores": {
+        "CONSERVATIVE": 0.03889118987188315,
+        "BALANCED": 0.03889118987188315,
+        "ADAPTIVE": 0.03889118987188315,
+        "FAST_RESCUE": 0.03889118987188315
+      },
+      "margin": 0.0
+    },
+    "event_count_after": 21
+  },
+  {
+    "date": "2026-03-28",
+    "house": "Gali",
+    "policy": "BALANCED",
+    "meta": {
+      "n": 1,
+      "reason": "WARMUP_DEFAULT",
+      "scores": {}
+    },
+    "event_count_after": 2
+  },
+  {
+    "date": "2026-03-29",
+    "house": "Deshawar",
+    "policy": "ADAPTIVE",
+    "meta": {
+      "n": 21,
+      "reason": "PRIOR_ONLY_HOUSE_CALIBRATION",
+      "scores": {
+        "CONSERVATIVE": 0.03264701134751799,
+        "BALANCED": 0.03264701134751799,
+        "ADAPTIVE": 0.03264701134751799,
+        "FAST_RESCUE": 0.03264701134751799
+      },
+      "margin": 0.0
+    },
+    "event_count_after": 22
+  },
+  {
+    "date": "2026-03-29",
+    "house": "Gali",
+    "policy": "BALANCED",
+    "meta": {
+      "n": 2,
+      "reason": "WARMUP_DEFAULT",
+      "scores": {}
+    },
+    "event_count_after": 3
+  },
+  {
+    "date": "2026-03-30",
+    "house": "Gali",
+    "policy": "BALANCED",
+    "meta": {
+      "n": 3,
+      "reason": "WARMUP_DEFAULT",
+      "scores": {}
+    },
+    "event_count_after": 4
+  },
+  {
+    "date": "2026-04-03",
+    "house": "Faridabad",
+    "policy": "BALANCED",
+    "meta": {
+      "n": 2,
+      "reason": "WARMUP_DEFAULT",
+      "scores": {}
+    },
+    "event_count_after": 3
+  },
+  {
+    "date": "2026-04-04",
+    "house": "Faridabad",
+    "policy": "BALANCED",
+    "meta": {
+      "n": 3,
+      "reason": "WARMUP_DEFAULT",
+      "scores": {}
+    },
+    "event_count_after": 4
+  },
+  {
+    "date": "2026-04-05",
+    "house": "Faridabad",
+    "policy": "BALANCED",
+    "meta": {
+      "n": 4,
+      "reason": "WARMUP_DEFAULT",
+      "scores": {}
+    },
+    "event_count_after": 5
+  },
+  {
+    "date": "2026-04-06",
+    "house": "Faridabad",
+    "policy": "BALANCED",
+    "meta": {
+      "n": 5,
+      "reason": "WARMUP_DEFAULT",
+      "scores": {}
+    },
+    "event_count_after": 6
+  },
+  {
+    "date": "2026-04-13",
+    "house": "Deshawar",
+    "policy": "ADAPTIVE",
+    "meta": {
+      "n": 22,
+      "reason": "PRIOR_ONLY_HOUSE_CALIBRATION",
+      "scores": {
+        "CONSERVATIVE": 0.02752773758198296,
+        "BALANCED": 0.02752773758198296,
+        "ADAPTIVE": 0.02752773758198296,
+        "FAST_RESCUE": 0.02752773758198296
+      },
+      "margin": 0.0
+    },
+    "event_count_after": 23
+  },
+  {
+    "date": "2026-04-15",
+    "house": "Deshawar",
+    "policy": "FAST_RESCUE",
+    "meta": {
+      "n": 23,
+      "reason": "PRIOR_ONLY_HOUSE_CALIBRATION",
+      "scores": {
+        "CONSERVATIVE": 0.021468560585664855,
+        "BALANCED": 0.021468560585664855,
+        "ADAPTIVE": 0.03178572892457233,
+        "FAST_RESCUE": 0.03187268544631146
+      },
+      "margin": 8.695652173913021e-05
+    },
+    "event_count_after": 24
+  },
+  {
+    "date": "2026-04-22",
+    "house": "Ghaziabad",
+    "policy": "BALANCED",
+    "meta": {
+      "n": 7,
+      "reason": "WARMUP_DEFAULT",
+      "scores": {}
+    },
+    "event_count_after": 8
+  },
+  {
+    "date": "2026-04-23",
+    "house": "Ghaziabad",
+    "policy": "BALANCED",
+    "meta": {
+      "n": 8,
+      "reason": "WARMUP_DEFAULT",
+      "scores": {}
+    },
+    "event_count_after": 9
+  },
+  {
+    "date": "2026-04-24",
+    "house": "Ghaziabad",
+    "policy": "BALANCED",
+    "meta": {
+      "n": 9,
+      "reason": "WARMUP_DEFAULT",
+      "scores": {}
+    },
+    "event_count_after": 10
+  },
+  {
+    "date": "2026-04-25",
+    "house": "Ghaziabad",
+    "policy": "BALANCED",
+    "meta": {
+      "n": 10,
+      "reason": "WARMUP_DEFAULT",
+      "scores": {}
+    },
+    "event_count_after": 11
+  },
+  {
+    "date": "2026-04-26",
+    "house": "Ghaziabad",
+    "policy": "BALANCED",
+    "meta": {
+      "n": 11,
+      "reason": "WARMUP_DEFAULT",
+      "scores": {}
+    },
+    "event_count_after": 12
+  },
+  {
+    "date": "2026-04-28",
+    "house": "Deshawar",
+    "policy": "ADAPTIVE",
+    "meta": {
+      "n": 24,
+      "reason": "PRIOR_ONLY_HOUSE_CALIBRATION",
+      "scores": {
+        "CONSERVATIVE": 0.03362264833903993,
+        "BALANCED": 0.03362264833903993,
+        "ADAPTIVE": 0.043509934663826265,
+        "FAST_RESCUE": 0.027231385281110212
+      },
+      "margin": 0.009887286324786332
+    },
+    "event_count_after": 25
+  },
+  {
+    "date": "2026-05-11",
+    "house": "Deshawar",
+    "policy": "ADAPTIVE",
+    "meta": {
+      "n": 25,
+      "reason": "PRIOR_ONLY_HOUSE_CALIBRATION",
+      "scores": {
+        "CONSERVATIVE": 0.13934440907214501,
+        "BALANCED": 0.13934440907214501,
+        "ADAPTIVE": 0.14883620394393987,
+        "FAST_RESCUE": 0.13320879653653248
+      },
+      "margin": 0.009491794871794856
+    },
+    "event_count_after": 26
+  },
+  {
+    "date": "2026-05-11",
+    "house": "Faridabad",
+    "policy": "BALANCED",
+    "meta": {
+      "n": 6,
+      "reason": "WARMUP_DEFAULT",
+      "scores": {}
+    },
+    "event_count_after": 7
+  },
+  {
+    "date": "2026-05-12",
+    "house": "Deshawar",
+    "policy": "ADAPTIVE",
+    "meta": {
+      "n": 26,
+      "reason": "PRIOR_ONLY_HOUSE_CALIBRATION",
+      "scores": {
+        "CONSERVATIVE": 0.1321953452616779,
+        "BALANCED": 0.1321953452616779,
+        "ADAPTIVE": 0.1413220710999422,
+        "FAST_RESCUE": 0.1262957178235889
+      },
+      "margin": 0.009126725838264294
+    },
+    "event_count_after": 27
+  },
+  {
+    "date": "2026-05-12",
+    "house": "Faridabad",
+    "policy": "BALANCED",
+    "meta": {
+      "n": 7,
+      "reason": "WARMUP_DEFAULT",
+      "scores": {}
+    },
+    "event_count_after": 8
+  },
+  {
+    "date": "2026-05-13",
+    "house": "Deshawar",
+    "policy": "ADAPTIVE",
+    "meta": {
+      "n": 27,
+      "reason": "PRIOR_ONLY_HOUSE_CALIBRATION",
+      "scores": {
+        "CONSERVATIVE": 0.12550498267996965,
+        "BALANCED": 0.12550498267996965,
+        "ADAPTIVE": 0.13429368163533528,
+        "FAST_RESCUE": 0.11982385996180989
+      },
+      "margin": 0.008788698955365631
+    },
+    "event_count_after": 28
+  },
+  {
+    "date": "2026-05-13",
+    "house": "Faridabad",
+    "policy": "BALANCED",
+    "meta": {
+      "n": 8,
+      "reason": "WARMUP_DEFAULT",
+      "scores": {}
+    },
+    "event_count_after": 9
+  },
+  {
+    "date": "2026-05-13",
+    "house": "Ghaziabad",
+    "policy": "BALANCED",
+    "meta": {
+      "n": 12,
+      "reason": "WARMUP_DEFAULT",
+      "scores": {}
+    },
+    "event_count_after": 13
+  },
+  {
+    "date": "2026-05-13",
+    "house": "Gali",
+    "policy": "BALANCED",
+    "meta": {
+      "n": 4,
+      "reason": "WARMUP_DEFAULT",
+      "scores": {}
+    },
+    "event_count_after": 5
+  },
+  {
+    "date": "2026-05-14",
+    "house": "Deshawar",
+    "policy": "ADAPTIVE",
+    "meta": {
+      "n": 28,
+      "reason": "PRIOR_ONLY_HOUSE_CALIBRATION",
+      "scores": {
+        "CONSERVATIVE": 0.12096863256594144,
+        "BALANCED": 0.12096863256594144,
+        "ADAPTIVE": 0.12944344941575828,
+        "FAST_RESCUE": 0.11549040708771596
+      },
+      "margin": 0.008474816849816838
+    },
+    "event_count_after": 29
+  },
+  {
+    "date": "2026-05-14",
+    "house": "Faridabad",
+    "policy": "BALANCED",
+    "meta": {
+      "n": 9,
+      "reason": "WARMUP_DEFAULT",
+      "scores": {}
+    },
+    "event_count_after": 10
+  },
+  {
+    "date": "2026-05-14",
+    "house": "Ghaziabad",
+    "policy": "BALANCED",
+    "meta": {
+      "n": 13,
+      "reason": "WARMUP_DEFAULT",
+      "scores": {}
+    },
+    "event_count_after": 14
+  },
+  {
+    "date": "2026-05-15",
+    "house": "Deshawar",
+    "policy": "ADAPTIVE",
+    "meta": {
+      "n": 29,
+      "reason": "PRIOR_ONLY_HOUSE_CALIBRATION",
+      "scores": {
+        "CONSERVATIVE": 0.11672158826456715,
+        "BALANCED": 0.11672158826456715,
+        "ADAPTIVE": 0.1249041700505972,
+        "FAST_RESCUE": 0.11143226711317702
+      },
+      "margin": 0.008182581786030055
+    },
+    "event_count_after": 30
+  },
+  {
+    "date": "2026-05-15",
+    "house": "Ghaziabad",
+    "policy": "BALANCED",
+    "meta": {
+      "n": 14,
+      "reason": "WARMUP_DEFAULT",
+      "scores": {}
+    },
+    "event_count_after": 15
+  },
+  {
+    "date": "2026-05-16",
+    "house": "Deshawar",
+    "policy": "ADAPTIVE",
+    "meta": {
+      "n": 30,
+      "reason": "PRIOR_ONLY_HOUSE_CALIBRATION",
+      "scores": {
+        "CONSERVATIVE": 0.11282716495204453,
+        "BALANCED": 0.11282716495204453,
+        "ADAPTIVE": 0.12073699401187359,
+        "FAST_RESCUE": 0.10771415450570074
+      },
+      "margin": 0.007909829059829052
+    },
+    "event_count_after": 31
+  },
+  {
+    "date": "2026-05-17",
+    "house": "Deshawar",
+    "policy": "ADAPTIVE",
+    "meta": {
+      "n": 31,
+      "reason": "PRIOR_ONLY_HOUSE_CALIBRATION",
+      "scores": {
+        "CONSERVATIVE": 0.10931302701452339,
+        "BALANCED": 0.10931302701452339,
+        "ADAPTIVE": 0.11696770029822894,
+        "FAST_RESCUE": 0.1043649523890294
+      },
+      "margin": 0.007654673283705546
+    },
+    "event_count_after": 32
+  },
+  {
+    "date": "2026-05-18",
+    "house": "Deshawar",
+    "policy": "ADAPTIVE",
+    "meta": {
+      "n": 32,
+      "reason": "PRIOR_ONLY_HOUSE_CALIBRATION",
+      "scores": {
+        "CONSERVATIVE": 0.13763918242031953,
+        "BALANCED": 0.13763918242031953,
+        "ADAPTIVE": 0.14505464716390928,
+        "FAST_RESCUE": 0.13284573512687223
+      },
+      "margin": 0.007415464743589756
+    },
+    "event_count_after": 33
+  },
+  {
+    "date": "2026-05-19",
+    "house": "Deshawar",
+    "policy": "ADAPTIVE",
+    "meta": {
+      "n": 33,
+      "reason": "PRIOR_ONLY_HOUSE_CALIBRATION",
+      "scores": {
+        "CONSERVATIVE": 0.1378762235124777,
+        "BALANCED": 0.1378762235124777,
+        "ADAPTIVE": 0.14506697720323136,
+        "FAST_RESCUE": 0.1332280321976197
+      },
+      "margin": 0.007190753690753671
+    },
+    "event_count_after": 34
+  },
+  {
+    "date": "2026-05-19",
+    "house": "Gali",
+    "policy": "BALANCED",
+    "meta": {
+      "n": 5,
+      "reason": "WARMUP_DEFAULT",
+      "scores": {}
+    },
+    "event_count_after": 6
+  },
+  {
+    "date": "2026-05-20",
+    "house": "Deshawar",
+    "policy": "ADAPTIVE",
+    "meta": {
+      "n": 34,
+      "reason": "PRIOR_ONLY_HOUSE_CALIBRATION",
+      "scores": {
+        "CONSERVATIVE": 0.1338145045202806,
+        "BALANCED": 0.1338145045202806,
+        "ADAPTIVE": 0.1407937654554239,
+        "FAST_RESCUE": 0.12930302471468316
+      },
+      "margin": 0.006979260935143311
+    },
+    "event_count_after": 35
+  },
+  {
+    "date": "2026-05-21",
+    "house": "Deshawar",
+    "policy": "ADAPTIVE",
+    "meta": {
+      "n": 35,
+      "reason": "PRIOR_ONLY_HOUSE_CALIBRATION",
+      "scores": {
+        "CONSERVATIVE": 0.1374717524430778,
+        "BALANCED": 0.1374717524430778,
+        "ADAPTIVE": 0.14425160592293126,
+        "FAST_RESCUE": 0.13308917206049742
+      },
+      "margin": 0.006779853479853465
+    },
+    "event_count_after": 36
+  },
+  {
+    "date": "2026-05-22",
+    "house": "Deshawar",
+    "policy": "ADAPTIVE",
+    "meta": {
+      "n": 36,
+      "reason": "PRIOR_ONLY_HOUSE_CALIBRATION",
+      "scores": {
+        "CONSERVATIVE": 0.13375129691786325,
+        "BALANCED": 0.13375129691786325,
+        "ADAPTIVE": 0.14034282113438745,
+        "FAST_RESCUE": 0.1294904548792434
+      },
+      "margin": 0.006591524216524203
+    },
+    "event_count_after": 37
+  },
+  {
+    "date": "2026-05-23",
+    "house": "Deshawar",
+    "policy": "ADAPTIVE",
+    "meta": {
+      "n": 37,
+      "reason": "PRIOR_ONLY_HOUSE_CALIBRATION",
+      "scores": {
+        "CONSERVATIVE": 0.13165785964027393,
+        "BALANCED": 0.13165785964027393,
+        "ADAPTIVE": 0.13807123455364884,
+        "FAST_RESCUE": 0.12751217549458976
+      },
+      "margin": 0.006413374913374903
+    },
+    "event_count_after": 38
+  },
+  {
+    "date": "2026-05-23",
+    "house": "Ghaziabad",
+    "policy": "CONSERVATIVE",
+    "meta": {
+      "n": 15,
+      "reason": "PRIOR_ONLY_HOUSE_CALIBRATION",
+      "scores": {
+        "CONSERVATIVE": 0.13201822289099152,
+        "BALANCED": 0.09574161901438766,
+        "ADAPTIVE": 0.09600828568105434,
+        "FAST_RESCUE": 0.096274952347721
+      },
+      "margin": 0.03574327054327052
+    },
+    "event_count_after": 16
+  },
+  {
+    "date": "2026-05-23",
+    "house": "Gali",
+    "policy": "BALANCED",
+    "meta": {
+      "n": 6,
+      "reason": "WARMUP_DEFAULT",
+      "scores": {}
+    },
+    "event_count_after": 7
+  },
+  {
+    "date": "2026-05-24",
+    "house": "Deshawar",
+    "policy": "ADAPTIVE",
+    "meta": {
+      "n": 38,
+      "reason": "PRIOR_ONLY_HOUSE_CALIBRATION",
+      "scores": {
+        "CONSERVATIVE": 0.12809668789535444,
+        "BALANCED": 0.12809668789535444,
+        "ADAPTIVE": 0.13434128978469317,
+        "FAST_RESCUE": 0.12406010070087248
+      },
+      "margin": 0.00624460188933873
+    },
+    "event_count_after": 39
+  },
+  {
+    "date": "2026-05-24",
+    "house": "Ghaziabad",
+    "policy": "CONSERVATIVE",
+    "meta": {
+      "n": 16,
+      "reason": "PRIOR_ONLY_HOUSE_CALIBRATION",
+      "scores": {
+        "CONSERVATIVE": 0.13580875062697126,
+        "BALANCED": 0.1017994344926551,
+        "ADAPTIVE": 0.1020494344926551,
+        "FAST_RESCUE": 0.10229943449265509
+      },
+      "margin": 0.03350931613431617
+    },
+    "event_count_after": 17
+  },
+  {
+    "date": "2026-05-25",
+    "house": "Ghaziabad",
+    "policy": "CONSERVATIVE",
+    "meta": {
+      "n": 17,
+      "reason": "PRIOR_ONLY_HOUSE_CALIBRATION",
+      "scores": {
+        "CONSERVATIVE": 0.2830847064724435,
+        "BALANCED": 0.2510759383460283,
+        "ADAPTIVE": 0.2513112324636754,
+        "FAST_RESCUE": 0.2515465265813224
+      },
+      "margin": 0.031538179891121065
+    },
+    "event_count_after": 18
+  },
+  {
+    "date": "2026-05-26",
+    "house": "Deshawar",
+    "policy": "BALANCED",
+    "meta": {
+      "n": 39,
+      "reason": "PRIOR_ONLY_HOUSE_CALIBRATION",
+      "scores": {
+        "CONSERVATIVE": 0.1284019010262428,
+        "BALANCED": 0.1284019010262428,
+        "ADAPTIVE": 0.12755048748252154,
+        "FAST_RESCUE": 0.1175842006829014
+      },
+      "margin": 0.0
+    },
+    "event_count_after": 40
+  },
+  {
+    "date": "2026-05-26",
+    "house": "Ghaziabad",
+    "policy": "CONSERVATIVE",
+    "meta": {
+      "n": 18,
+      "reason": "PRIOR_ONLY_HOUSE_CALIBRATION",
+      "scores": {
+        "CONSERVATIVE": 0.2804318524091596,
+        "BALANCED": 0.2502013491786564,
+        "ADAPTIVE": 0.2504235714008786,
+        "FAST_RESCUE": 0.2506457936231008
+      },
+      "margin": 0.029786058786058778
+    },
+    "event_count_after": 19
+  },
+  {
+    "date": "2026-05-27",
+    "house": "Deshawar",
+    "policy": "BALANCED",
+    "meta": {
+      "n": 40,
+      "reason": "PRIOR_ONLY_HOUSE_CALIBRATION",
+      "scores": {
+        "CONSERVATIVE": 0.12384810350058673,
+        "BALANCED": 0.12384810350058673,
+        "ADAPTIVE": 0.1230179752954585,
+        "FAST_RESCUE": 0.11330084566582886
+      },
+      "margin": 0.0
+    },
+    "event_count_after": 41
+  },
+  {
+    "date": "2026-05-28",
+    "house": "Ghaziabad",
+    "policy": "CONSERVATIVE",
+    "meta": {
+      "n": 19,
+      "reason": "PRIOR_ONLY_HOUSE_CALIBRATION",
+      "scores": {
+        "CONSERVATIVE": 0.277560439124467,
+        "BALANCED": 0.24892101501135866,
+        "ADAPTIVE": 0.24913154132714813,
+        "FAST_RESCUE": 0.24934206764293762
+      },
+      "margin": 0.028218371481529364
+    },
+    "event_count_after": 20
+  },
+  {
+    "date": "2026-05-29",
+    "house": "Ghaziabad",
+    "policy": "CONSERVATIVE",
+    "meta": {
+      "n": 20,
+      "reason": "PRIOR_ONLY_HOUSE_CALIBRATION",
+      "scores": {
+        "CONSERVATIVE": 0.2654841413061747,
+        "BALANCED": 0.23827668839872176,
+        "ADAPTIVE": 0.2384766883987218,
+        "FAST_RESCUE": 0.23867668839872175
+      },
+      "margin": 0.026807452907452956
+    },
+    "event_count_after": 21
+  },
+  {
+    "date": "2026-05-30",
+    "house": "Faridabad",
+    "policy": "BALANCED",
+    "meta": {
+      "n": 10,
+      "reason": "WARMUP_DEFAULT",
+      "scores": {}
+    },
+    "event_count_after": 11
+  },
+  {
+    "date": "2026-05-30",
+    "house": "Ghaziabad",
+    "policy": "CONSERVATIVE",
+    "meta": {
+      "n": 21,
+      "reason": "PRIOR_ONLY_HOUSE_CALIBRATION",
+      "scores": {
+        "CONSERVATIVE": 0.25400809550527015,
+        "BALANCED": 0.22809623559341025,
+        "ADAPTIVE": 0.22828671178388643,
+        "FAST_RESCUE": 0.22847718797436262
+      },
+      "margin": 0.02553090753090753
+    },
+    "event_count_after": 22
+  },
+  {
+    "date": "2026-06-01",
+    "house": "Faridabad",
+    "policy": "BALANCED",
+    "meta": {
+      "n": 11,
+      "reason": "WARMUP_DEFAULT",
+      "scores": {}
+    },
+    "event_count_after": 12
+  },
+  {
+    "date": "2026-06-01",
+    "house": "Ghaziabad",
+    "policy": "CONSERVATIVE",
+    "meta": {
+      "n": 22,
+      "reason": "PRIOR_ONLY_HOUSE_CALIBRATION",
+      "scores": {
+        "CONSERVATIVE": 0.24348706637073309,
+        "BALANCED": 0.2187530182730486,
+        "ADAPTIVE": 0.21893483645486683,
+        "FAST_RESCUE": 0.21911665463668498
+      },
+      "margin": 0.02437041173404811
+    },
+    "event_count_after": 23
+  },
+  {
+    "date": "2026-06-02",
+    "house": "Faridabad",
+    "policy": "BALANCED",
+    "meta": {
+      "n": 12,
+      "reason": "WARMUP_DEFAULT",
+      "scores": {}
+    },
+    "event_count_after": 13
+  },
+  {
+    "date": "2026-06-02",
+    "house": "Ghaziabad",
+    "policy": "CONSERVATIVE",
+    "meta": {
+      "n": 23,
+      "reason": "PRIOR_ONLY_HOUSE_CALIBRATION",
+      "scores": {
+        "CONSERVATIVE": 0.24435719391983163,
+        "BALANCED": 0.22069853921769864,
+        "ADAPTIVE": 0.22087245226117694,
+        "FAST_RESCUE": 0.22104636530465516
+      },
+      "margin": 0.02331082861517647
+    },
+    "event_count_after": 24
+  },
+  {
+    "date": "2026-06-03",
+    "house": "Faridabad",
+    "policy": "BALANCED",
+    "meta": {
+      "n": 13,
+      "reason": "WARMUP_DEFAULT",
+      "scores": {}
+    },
+    "event_count_after": 14
+  },
+  {
+    "date": "2026-06-04",
+    "house": "Deshawar",
+    "policy": "BALANCED",
+    "meta": {
+      "n": 41,
+      "reason": "PRIOR_ONLY_HOUSE_CALIBRATION",
+      "scores": {
+        "CONSERVATIVE": 0.1303133467547938,
+        "BALANCED": 0.1303133467547938,
+        "ADAPTIVE": 0.12950346557905895,
+        "FAST_RESCUE": 0.12002333911112761
+      },
+      "margin": 0.0
+    },
+    "event_count_after": 42
+  },
+  {
+    "date": "2026-06-04",
+    "house": "Faridabad",
+    "policy": "BALANCED",
+    "meta": {
+      "n": 14,
+      "reason": "WARMUP_DEFAULT",
+      "scores": {}
+    },
+    "event_count_after": 15
+  },
+  {
+    "date": "2026-06-04",
+    "house": "Ghaziabad",
+    "policy": "CONSERVATIVE",
+    "meta": {
+      "n": 24,
+      "reason": "PRIOR_ONLY_HOUSE_CALIBRATION",
+      "scores": {
+        "CONSERVATIVE": 0.23583305158057938,
+        "BALANCED": 0.21316017415770197,
+        "ADAPTIVE": 0.21332684082436865,
+        "FAST_RESCUE": 0.2134935074910353
+      },
+      "margin": 0.022339544089544083
+    },
+    "event_count_after": 25
+  },
+  {
+    "date": "2026-06-05",
+    "house": "Faridabad",
+    "policy": "CONSERVATIVE",
+    "meta": {
+      "n": 15,
+      "reason": "PRIOR_ONLY_HOUSE_CALIBRATION",
+      "scores": {
+        "CONSERVATIVE": 0.2782731587507956,
+        "BALANCED": 0.22436789559290088,
+        "ADAPTIVE": 0.22072300858867724,
+        "FAST_RESCUE": 0.20125836212403075
+      },
+      "margin": 0.053905263157894734
+    },
+    "event_count_after": 16
+  },
+  {
+    "date": "2026-06-05",
+    "house": "Ghaziabad",
+    "policy": "CONSERVATIVE",
+    "meta": {
+      "n": 25,
+      "reason": "PRIOR_ONLY_HOUSE_CALIBRATION",
+      "scores": {
+        "CONSERVATIVE": 0.2247935756712024,
+        "BALANCED": 0.20302761334524005,
+        "ADAPTIVE": 0.20318761334524002,
+        "FAST_RESCUE": 0.20334761334524007
+      },
+      "margin": 0.021445962325962326
+    },
+    "event_count_after": 26
+  },
+  {
+    "date": "2026-06-06",
+    "house": "Faridabad",
+    "policy": "CONSERVATIVE",
+    "meta": {
+      "n": 16,
+      "reason": "PRIOR_ONLY_HOUSE_CALIBRATION",
+      "scores": {
+        "CONSERVATIVE": 0.26266153504681955,
+        "BALANCED": 0.20871295767390013,
+        "ADAPTIVE": 0.20542087610744045,
+        "FAST_RESCUE": 0.1872977700468344
+      },
+      "margin": 0.053948577372919415
+    },
+    "event_count_after": 17
+  },
+  {
+    "date": "2026-06-07",
+    "house": "Deshawar",
+    "policy": "ADAPTIVE",
+    "meta": {
+      "n": 42,
+      "reason": "PRIOR_ONLY_HOUSE_CALIBRATION",
+      "scores": {
+        "CONSERVATIVE": 0.1267178630297518,
+        "BALANCED": 0.1267178630297518,
+        "ADAPTIVE": 0.12710109196015051,
+        "FAST_RESCUE": 0.11789430183669375
+      },
+      "margin": 0.00038322893039871575
+    },
+    "event_count_after": 43
+  },
+  {
+    "date": "2026-06-07",
+    "house": "Faridabad",
+    "policy": "CONSERVATIVE",
+    "meta": {
+      "n": 17,
+      "reason": "PRIOR_ONLY_HOUSE_CALIBRATION",
+      "scores": {
+        "CONSERVATIVE": 0.25173875998373374,
+        "BALANCED": 0.19236481431354985,
+        "ADAPTIVE": 0.1893840316627642,
+        "FAST_RESCUE": 0.17244463772337032
+      },
+      "margin": 0.05937394567018389
+    },
+    "event_count_after": 18
+  },
+  {
+    "date": "2026-06-07",
+    "house": "Ghaziabad",
+    "policy": "CONSERVATIVE",
+    "meta": {
+      "n": 26,
+      "reason": "PRIOR_ONLY_HOUSE_CALIBRATION",
+      "scores": {
+        "CONSERVATIVE": 0.22245186471881345,
+        "BALANCED": 0.20152305479000354,
+        "ADAPTIVE": 0.20167690094384969,
+        "FAST_RESCUE": 0.20183074709769583
+      },
+      "margin": 0.020621117621117624
+    },
+    "event_count_after": 27
+  },
+  {
+    "date": "2026-06-08",
+    "house": "Deshawar",
+    "policy": "BALANCED",
+    "meta": {
+      "n": 43,
+      "reason": "PRIOR_ONLY_HOUSE_CALIBRATION",
+      "scores": {
+        "CONSERVATIVE": 0.12466311357240027,
+        "BALANCED": 0.12466311357240027,
+        "ADAPTIVE": 0.12342268464630493,
+        "FAST_RESCUE": 0.11447651754897503
+      },
+      "margin": 0.0
+    },
+    "event_count_after": 44
+  },
+  {
+    "date": "2026-06-08",
+    "house": "Faridabad",
+    "policy": "CONSERVATIVE",
+    "meta": {
+      "n": 18,
+      "reason": "PRIOR_ONLY_HOUSE_CALIBRATION",
+      "scores": {
+        "CONSERVATIVE": 0.22819154492290894,
+        "BALANCED": 0.17211615178995757,
+        "ADAPTIVE": 0.1693009681753267,
+        "FAST_RESCUE": 0.15330265167701024
+      },
+      "margin": 0.05607539313295137
+    },
+    "event_count_after": 19
+  },
+  {
+    "date": "2026-06-09",
+    "house": "Deshawar",
+    "policy": "BALANCED",
+    "meta": {
+      "n": 44,
+      "reason": "PRIOR_ONLY_HOUSE_CALIBRATION",
+      "scores": {
+        "CONSERVATIVE": 0.11967411232810776,
+        "BALANCED": 0.11967411232810776,
+        "ADAPTIVE": 0.11846187496851457,
+        "FAST_RESCUE": 0.10971902985066945
+      },
+      "margin": 0.0
+    },
+    "event_count_after": 45
+  },
+  {
+    "date": "2026-06-09",
+    "house": "Faridabad",
+    "policy": "CONSERVATIVE",
+    "meta": {
+      "n": 19,
+      "reason": "PRIOR_ONLY_HOUSE_CALIBRATION",
+      "scores": {
+        "CONSERVATIVE": 0.21352076932226313,
+        "BALANCED": 0.1773439566665095,
+        "ADAPTIVE": 0.1747822037684382,
+        "FAST_RESCUE": 0.15973116708582258
+      },
+      "margin": 0.03617681265575362
+    },
+    "event_count_after": 20
+  },
+  {
+    "date": "2026-06-10",
+    "house": "Deshawar",
+    "policy": "BALANCED",
+    "meta": {
+      "n": 45,
+      "reason": "PRIOR_ONLY_HOUSE_CALIBRATION",
+      "scores": {
+        "CONSERVATIVE": 0.14050357649859427,
+        "BALANCED": 0.14050357649859427,
+        "ADAPTIVE": 0.13931827774699201,
+        "FAST_RESCUE": 0.13076971807621013
+      },
+      "margin": 0.0
+    },
+    "event_count_after": 46
+  },
+  {
+    "date": "2026-06-10",
+    "house": "Faridabad",
+    "policy": "BALANCED",
+    "meta": {
+      "n": 20,
+      "reason": "PRIOR_ONLY_HOUSE_CALIBRATION",
+      "scores": {
+        "CONSERVATIVE": 0.2516891753005944,
+        "BALANCED": 0.3396100921665174,
+        "ADAPTIVE": 0.3372764269133496,
+        "FAST_RESCUE": 0.32307794206486473
+      },
+      "margin": 0.002333665253167805
+    },
+    "event_count_after": 21
+  },
+  {
+    "date": "2026-06-10",
+    "house": "Ghaziabad",
+    "policy": "CONSERVATIVE",
+    "meta": {
+      "n": 27,
+      "reason": "PRIOR_ONLY_HOUSE_CALIBRATION",
+      "scores": {
+        "CONSERVATIVE": 0.22750635405971215,
+        "BALANCED": 0.20735268523937664,
+        "ADAPTIVE": 0.20750083338752479,
+        "FAST_RESCUE": 0.20764898153567293
+      },
+      "margin": 0.019857372524039213
+    },
+    "event_count_after": 28
+  },
+  {
+    "date": "2026-06-10",
+    "house": "Gali",
+    "policy": "BALANCED",
+    "meta": {
+      "n": 7,
+      "reason": "WARMUP_DEFAULT",
+      "scores": {}
+    },
+    "event_count_after": 8
+  },
+  {
+    "date": "2026-06-11",
+    "house": "Deshawar",
+    "policy": "BALANCED",
+    "meta": {
+      "n": 46,
+      "reason": "PRIOR_ONLY_HOUSE_CALIBRATION",
+      "scores": {
+        "CONSERVATIVE": 0.13554796515178688,
+        "BALANCED": 0.13554796515178688,
+        "ADAPTIVE": 0.1343884337643499,
+        "FAST_RESCUE": 0.12602571234728066
+      },
+      "margin": 0.0
+    },
+    "event_count_after": 47
+  },
+  {
+    "date": "2026-06-11",
+    "house": "Ghaziabad",
+    "policy": "CONSERVATIVE",
+    "meta": {
+      "n": 28,
+      "reason": "PRIOR_ONLY_HOUSE_CALIBRATION",
+      "scores": {
+        "CONSERVATIVE": 0.22068767474805573,
+        "BALANCED": 0.2012537798141608,
+        "ADAPTIVE": 0.20139663695701795,
+        "FAST_RESCUE": 0.2015394940998751
+      },
+      "margin": 0.019148180648180635
+    },
+    "event_count_after": 29
+  },
+  {
+    "date": "2026-06-11",
+    "house": "Gali",
+    "policy": "BALANCED",
+    "meta": {
+      "n": 8,
+      "reason": "WARMUP_DEFAULT",
+      "scores": {}
+    },
+    "event_count_after": 9
+  },
+  {
+    "date": "2026-06-12",
+    "house": "Deshawar",
+    "policy": "BALANCED",
+    "meta": {
+      "n": 47,
+      "reason": "PRIOR_ONLY_HOUSE_CALIBRATION",
+      "scores": {
+        "CONSERVATIVE": 0.13143140775370332,
+        "BALANCED": 0.13143140775370332,
+        "ADAPTIVE": 0.13029654724685014,
+        "FAST_RESCUE": 0.12211175607269725
+      },
+      "margin": 0.0
+    },
+    "event_count_after": 48
+  },
+  {
+    "date": "2026-06-12",
+    "house": "Ghaziabad",
+    "policy": "CONSERVATIVE",
+    "meta": {
+      "n": 29,
+      "reason": "PRIOR_ONLY_HOUSE_CALIBRATION",
+      "scores": {
+        "CONSERVATIVE": 0.2519398238946745,
+        "BALANCED": 0.2331760632688449,
+        "ADAPTIVE": 0.23331399430332767,
+        "FAST_RESCUE": 0.23345192533781042
+      },
+      "margin": 0.018487898556864085
+    },
+    "event_count_after": 30
+  },
+  {
+    "date": "2026-06-12",
+    "house": "Gali",
+    "policy": "BALANCED",
+    "meta": {
+      "n": 9,
+      "reason": "WARMUP_DEFAULT",
+      "scores": {}
+    },
+    "event_count_after": 10
+  },
+  {
+    "date": "2026-06-13",
+    "house": "Deshawar",
+    "policy": "BALANCED",
+    "meta": {
+      "n": 48,
+      "reason": "PRIOR_ONLY_HOUSE_CALIBRATION",
+      "scores": {
+        "CONSERVATIVE": 0.12810851559778583,
+        "BALANCED": 0.12810851559778583,
+        "ADAPTIVE": 0.12699729801815873,
+        "FAST_RESCUE": 0.11898302332680069
+      },
+      "margin": 0.0
+    },
+    "event_count_after": 49
+  },
+  {
+    "date": "2026-06-13",
+    "house": "Gali",
+    "policy": "BALANCED",
+    "meta": {
+      "n": 10,
+      "reason": "WARMUP_DEFAULT",
+      "scores": {}
+    },
+    "event_count_after": 11
+  },
+  {
+    "date": "2026-06-14",
+    "house": "Deshawar",
+    "policy": "BALANCED",
+    "meta": {
+      "n": 49,
+      "reason": "PRIOR_ONLY_HOUSE_CALIBRATION",
+      "scores": {
+        "CONSERVATIVE": 0.13068632247602646,
+        "BALANCED": 0.13068632247602646,
+        "ADAPTIVE": 0.12959778280618772,
+        "FAST_RESCUE": 0.12174706474118391
+      },
+      "margin": 0.0
+    },
+    "event_count_after": 50
+  },
+  {
+    "date": "2026-06-14",
+    "house": "Ghaziabad",
+    "policy": "CONSERVATIVE",
+    "meta": {
+      "n": 30,
+      "reason": "PRIOR_ONLY_HOUSE_CALIBRATION",
+      "scores": {
+        "CONSERVATIVE": 0.24551574280833025,
+        "BALANCED": 0.22737744087002834,
+        "ADAPTIVE": 0.22751077420336163,
+        "FAST_RESCUE": 0.227644107536695
+      },
+      "margin": 0.01787163527163524
+    },
+    "event_count_after": 31
+  },
+  {
+    "date": "2026-07-01",
+    "house": "Ghaziabad",
+    "policy": "CONSERVATIVE",
+    "meta": {
+      "n": 31,
+      "reason": "PRIOR_ONLY_HOUSE_CALIBRATION",
+      "scores": {
+        "CONSERVATIVE": 0.23758154321953107,
+        "BALANCED": 0.2200283477953679,
+        "ADAPTIVE": 0.22015738005343244,
+        "FAST_RESCUE": 0.22028641231149693
+      },
+      "margin": 0.01729513090803414
+    },
+    "event_count_after": 32
+  },
+  {
+    "date": "2026-07-01",
+    "house": "Gali",
+    "policy": "BALANCED",
+    "meta": {
+      "n": 11,
+      "reason": "WARMUP_DEFAULT",
+      "scores": {}
+    },
+    "event_count_after": 12
+  },
+  {
+    "date": "2026-07-02",
+    "house": "Deshawar",
+    "policy": "BALANCED",
+    "meta": {
+      "n": 50,
+      "reason": "PRIOR_ONLY_HOUSE_CALIBRATION",
+      "scores": {
+        "CONSERVATIVE": 0.12675592935983931,
+        "BALANCED": 0.12675592935983931,
+        "ADAPTIVE": 0.1256891604833973,
+        "FAST_RESCUE": 0.11799545677969359
+      },
+      "margin": 0.0
+    },
+    "event_count_after": 51
+  },
+  {
+    "date": "2026-07-02",
+    "house": "Ghaziabad",
+    "policy": "CONSERVATIVE",
+    "meta": {
+      "n": 32,
+      "reason": "PRIOR_ONLY_HOUSE_CALIBRATION",
+      "scores": {
+        "CONSERVATIVE": 0.23155295332725406,
+        "BALANCED": 0.214548295260096,
+        "ADAPTIVE": 0.214673295260096,
+        "FAST_RESCUE": 0.21479829526009603
+      },
+      "margin": 0.016754658067158035
+    },
+    "event_count_after": 33
+  },
+  {
+    "date": "2026-07-02",
+    "house": "Gali",
+    "policy": "BALANCED",
+    "meta": {
+      "n": 12,
+      "reason": "WARMUP_DEFAULT",
+      "scores": {}
+    },
+    "event_count_after": 13
+  },
+  {
+    "date": "2026-07-03",
+    "house": "Deshawar",
+    "policy": "BALANCED",
+    "meta": {
+      "n": 51,
+      "reason": "PRIOR_ONLY_HOUSE_CALIBRATION",
+      "scores": {
+        "CONSERVATIVE": 0.12364537480491743,
+        "BALANCED": 0.12364537480491743,
+        "ADAPTIVE": 0.1225995229652684,
+        "FAST_RESCUE": 0.11505667619693144
+      },
+      "margin": 0.0
+    },
+    "event_count_after": 52
+  },
+  {
+    "date": "2026-07-03",
+    "house": "Ghaziabad",
+    "policy": "CONSERVATIVE",
+    "meta": {
+      "n": 33,
+      "reason": "PRIOR_ONLY_HOUSE_CALIBRATION",
+      "scores": {
+        "CONSERVATIVE": 0.2227281163577413,
+        "BALANCED": 0.206238750959285,
+        "ADAPTIVE": 0.20635996308049714,
+        "FAST_RESCUE": 0.20648117520170928
+      },
+      "margin": 0.016246941156032035
+    },
+    "event_count_after": 34
+  },
+  {
+    "date": "2026-07-04",
+    "house": "Deshawar",
+    "policy": "BALANCED",
+    "meta": {
+      "n": 52,
+      "reason": "PRIOR_ONLY_HOUSE_CALIBRATION",
+      "scores": {
+        "CONSERVATIVE": 0.11947392009193304,
+        "BALANCED": 0.11947392009193304,
+        "ADAPTIVE": 0.1184481807876619,
+        "FAST_RESCUE": 0.11105038876486986
+      },
+      "margin": 0.0
+    },
+    "event_count_after": 53
+  },
+  {
+    "date": "2026-07-04",
+    "house": "Ghaziabad",
+    "policy": "CONSERVATIVE",
+    "meta": {
+      "n": 34,
+      "reason": "PRIOR_ONLY_HOUSE_CALIBRATION",
+      "scores": {
+        "CONSERVATIVE": 0.21872875999427838,
+        "BALANCED": 0.20272437593107076,
+        "ADAPTIVE": 0.20284202298989426,
+        "FAST_RESCUE": 0.2029596700487178
+      },
+      "margin": 0.015769089945560588
+    },
+    "event_count_after": 35
+  },
+  {
+    "date": "2026-07-04",
+    "house": "Gali",
+    "policy": "BALANCED",
+    "meta": {
+      "n": 13,
+      "reason": "WARMUP_DEFAULT",
+      "scores": {}
+    },
+    "event_count_after": 14
+  },
+  {
+    "date": "2026-07-05",
+    "house": "Ghaziabad",
+    "policy": "CONSERVATIVE",
+    "meta": {
+      "n": 35,
+      "reason": "PRIOR_ONLY_HOUSE_CALIBRATION",
+      "scores": {
+        "CONSERVATIVE": 0.2124345205586371,
+        "BALANCED": 0.19688740461152118,
+        "ADAPTIVE": 0.1970016903258069,
+        "FAST_RESCUE": 0.19711597604009257
+      },
+      "margin": 0.01531854451854453
+    },
+    "event_count_after": 36
+  },
+  {
+    "date": "2026-07-05",
+    "house": "Gali",
+    "policy": "BALANCED",
+    "meta": {
+      "n": 14,
+      "reason": "WARMUP_DEFAULT",
+      "scores": {}
+    },
+    "event_count_after": 15
+  },
+  {
+    "date": "2026-07-06",
+    "house": "Ghaziabad",
+    "policy": "CONSERVATIVE",
+    "meta": {
+      "n": 36,
+      "reason": "PRIOR_ONLY_HOUSE_CALIBRATION",
+      "scores": {
+        "CONSERVATIVE": 0.20446816813571198,
+        "BALANCED": 0.1893529165204604,
+        "ADAPTIVE": 0.1894640276315715,
+        "FAST_RESCUE": 0.1895751387426826
+      },
+      "margin": 0.014893029393029389
+    },
+    "event_count_after": 37
+  },
+  {
+    "date": "2026-07-06",
+    "house": "Gali",
+    "policy": "FAST_RESCUE",
+    "meta": {
+      "n": 15,
+      "reason": "PRIOR_ONLY_HOUSE_CALIBRATION",
+      "scores": {
+        "CONSERVATIVE": 0.1976022102857944,
+        "BALANCED": 0.1976022102857944,
+        "ADAPTIVE": 0.2322792839323125,
+        "FAST_RESCUE": 0.23281261726564584
+      },
+      "margin": 0.0005333333333333301
+    },
+    "event_count_after": 16
+  },
+  {
+    "date": "2026-07-07",
+    "house": "Ghaziabad",
+    "policy": "CONSERVATIVE",
+    "meta": {
+      "n": 37,
+      "reason": "PRIOR_ONLY_HOUSE_CALIBRATION",
+      "scores": {
+        "CONSERVATIVE": 0.1981145586018986,
+        "BALANCED": 0.18340782730057273,
+        "ADAPTIVE": 0.1835159354086808,
+        "FAST_RESCUE": 0.1836240435167889
+      },
+      "margin": 0.014490515085109706
+    },
+    "event_count_after": 38
+  },
+  {
+    "date": "2026-07-07",
+    "house": "Gali",
+    "policy": "FAST_RESCUE",
+    "meta": {
+      "n": 16,
+      "reason": "PRIOR_ONLY_HOUSE_CALIBRATION",
+      "scores": {
+        "CONSERVATIVE": 0.18279373880959893,
+        "BALANCED": 0.18279373880959893,
+        "ADAPTIVE": 0.21530349535320964,
+        "FAST_RESCUE": 0.2158034953532096
+      },
+      "margin": 0.0004999999999999727
+    },
+    "event_count_after": 17
+  },
+  {
+    "date": "2026-07-08",
+    "house": "Deshawar",
+    "policy": "BALANCED",
+    "meta": {
+      "n": 53,
+      "reason": "PRIOR_ONLY_HOUSE_CALIBRATION",
+      "scores": {
+        "CONSERVATIVE": 0.11721026122227393,
+        "BALANCED": 0.11721026122227393,
+        "ADAPTIVE": 0.11620387548978146,
+        "FAST_RESCUE": 0.10894566444855157
+      },
+      "margin": 0.0
+    },
+    "event_count_after": 54
+  },
+  {
+    "date": "2026-07-09",
+    "house": "Deshawar",
+    "policy": "BALANCED",
+    "meta": {
+      "n": 54,
+      "reason": "PRIOR_ONLY_HOUSE_CALIBRATION",
+      "scores": {
+        "CONSERVATIVE": 0.11702049643969409,
+        "BALANCED": 0.11702049643969409,
+        "ADAPTIVE": 0.11603274748002557,
+        "FAST_RESCUE": 0.10890894775437399
+      },
+      "margin": 0.0
+    },
+    "event_count_after": 55
+  },
+  {
+    "date": "2026-07-10",
+    "house": "Deshawar",
+    "policy": "BALANCED",
+    "meta": {
+      "n": 55,
+      "reason": "PRIOR_ONLY_HOUSE_CALIBRATION",
+      "scores": {
+        "CONSERVATIVE": 0.11332984164549277,
+        "BALANCED": 0.12062315408018451,
+        "ADAPTIVE": 0.11968972782887358,
+        "FAST_RESCUE": 0.11273181537096114
+      },
+      "margin": 0.0009334262513109315
+    },
+    "event_count_after": 56
+  },
+  {
+    "date": "2026-07-11",
+    "house": "Deshawar",
+    "policy": "ADAPTIVE",
+    "meta": {
+      "n": 56,
+      "reason": "PRIOR_ONLY_HOUSE_CALIBRATION",
+      "scores": {
+        "CONSERVATIVE": 0.11467075612738717,
+        "BALANCED": 0.12183383084003084,
+        "ADAPTIVE": 0.17850776840335797,
+        "FAST_RESCUE": 0.17170981866790824
+      },
+      "margin": 0.0067979497354497265
+    },
+    "event_count_after": 57
+  },
+  {
+    "date": "2026-07-11",
+    "house": "Gali",
+    "policy": "FAST_RESCUE",
+    "meta": {
+      "n": 17,
+      "reason": "PRIOR_ONLY_HOUSE_CALIBRATION",
+      "scores": {
+        "CONSERVATIVE": 0.17262672743577223,
+        "BALANCED": 0.17262672743577223,
+        "ADAPTIVE": 0.20322414535917055,
+        "FAST_RESCUE": 0.20369473359446466
+      },
+      "margin": 0.00047058823529411153
+    },
+    "event_count_after": 18
+  },
+  {
+    "date": "2026-07-12",
+    "house": "Ghaziabad",
+    "policy": "CONSERVATIVE",
+    "meta": {
+      "n": 38,
+      "reason": "PRIOR_ONLY_HOUSE_CALIBRATION",
+      "scores": {
+        "CONSERVATIVE": 0.19389167972527815,
+        "BALANCED": 0.179571967668724,
+        "ADAPTIVE": 0.17785728393706235,
+        "FAST_RESCUE": 0.17801517867390443
+      },
+      "margin": 0.014319712056554162
+    },
+    "event_count_after": 39
+  },
+  {
+    "date": "2026-07-12",
+    "house": "Gali",
+    "policy": "FAST_RESCUE",
+    "meta": {
+      "n": 18,
+      "reason": "PRIOR_ONLY_HOUSE_CALIBRATION",
+      "scores": {
+        "CONSERVATIVE": 0.16197874052061617,
+        "BALANCED": 0.16197874052061617,
+        "ADAPTIVE": 0.1908763018927146,
+        "FAST_RESCUE": 0.19132074633715904
+      },
+      "margin": 0.00044444444444444176
+    },
+    "event_count_after": 19
+  },
+  {
+    "date": "2026-07-13",
+    "house": "Gali",
+    "policy": "FAST_RESCUE",
+    "meta": {
+      "n": 19,
+      "reason": "PRIOR_ONLY_HOUSE_CALIBRATION",
+      "scores": {
+        "CONSERVATIVE": 0.1533596945705774,
+        "BALANCED": 0.1533596945705774,
+        "ADAPTIVE": 0.1807363316599338,
+        "FAST_RESCUE": 0.18115738429151274
+      },
+      "margin": 0.00042105263157893313
+    },
+    "event_count_after": 20
+  },
+  {
+    "date": "2026-07-14",
+    "house": "Gali",
+    "policy": "FAST_RESCUE",
+    "meta": {
+      "n": 20,
+      "reason": "PRIOR_ONLY_HOUSE_CALIBRATION",
+      "scores": {
+        "CONSERVATIVE": 0.14613484709695052,
+        "BALANCED": 0.14613484709695052,
+        "ADAPTIVE": 0.17214265233183906,
+        "FAST_RESCUE": 0.17254265233183907
+      },
+      "margin": 0.00040000000000001146
+    },
+    "event_count_after": 21
+  },
+  {
+    "date": "2026-07-15",
+    "house": "Deshawar",
+    "policy": "ADAPTIVE",
+    "meta": {
+      "n": 57,
+      "reason": "PRIOR_ONLY_HOUSE_CALIBRATION",
+      "scores": {
+        "CONSERVATIVE": 0.16137243876842716,
+        "BALANCED": 0.168409845503656,
+        "ADAPTIVE": 0.22408950346060905,
+        "FAST_RESCUE": 0.2174108160012198
+      },
+      "margin": 0.006678687459389238
+    },
+    "event_count_after": 58
+  },
+  {
+    "date": "2026-07-15",
+    "house": "Gali",
+    "policy": "FAST_RESCUE",
+    "meta": {
+      "n": 21,
+      "reason": "PRIOR_ONLY_HOUSE_CALIBRATION",
+      "scores": {
+        "CONSERVATIVE": 0.13897307842176396,
+        "BALANCED": 0.13897307842176396,
+        "ADAPTIVE": 0.16374241674070542,
+        "FAST_RESCUE": 0.16412336912165781
+      },
+      "margin": 0.00038095238095239847
+    },
+    "event_count_after": 22
+  },
+  {
+    "date": "2026-07-16",
+    "house": "Deshawar",
+    "policy": "ADAPTIVE",
+    "meta": {
+      "n": 58,
+      "reason": "PRIOR_ONLY_HOUSE_CALIBRATION",
+      "scores": {
+        "CONSERVATIVE": 0.15948670706552323,
+        "BALANCED": 0.16640277920186888,
+        "ADAPTIVE": 0.22112244305611575,
+        "FAST_RESCUE": 0.21455890538050915
+      },
+      "margin": 0.006563537675606607
+    },
+    "event_count_after": 59
+  },
+  {
+    "date": "2026-07-16",
+    "house": "Ghaziabad",
+    "policy": "CONSERVATIVE",
+    "meta": {
+      "n": 39,
+      "reason": "PRIOR_ONLY_HOUSE_CALIBRATION",
+      "scores": {
+        "CONSERVATIVE": 0.18922779050155308,
+        "BALANCED": 0.17527525054901316,
+        "ADAPTIVE": 0.17339228235463056,
+        "FAST_RESCUE": 0.17359741055975877
+      },
+      "margin": 0.013952539952539922
+    },
+    "event_count_after": 40
+  },
+  {
+    "date": "2026-07-16",
+    "house": "Gali",
+    "policy": "FAST_RESCUE",
+    "meta": {
+      "n": 22,
+      "reason": "PRIOR_ONLY_HOUSE_CALIBRATION",
+      "scores": {
+        "CONSERVATIVE": 0.1317501641988311,
+        "BALANCED": 0.1317501641988311,
+        "ADAPTIVE": 0.15539362350327524,
+        "FAST_RESCUE": 0.1557572598669116
+      },
+      "margin": 0.00036363636363637153
+    },
+    "event_count_after": 23
+  },
+  {
+    "date": "2026-07-17",
+    "house": "Deshawar",
+    "policy": "ADAPTIVE",
+    "meta": {
+      "n": 59,
+      "reason": "PRIOR_ONLY_HOUSE_CALIBRATION",
+      "scores": {
+        "CONSERVATIVE": 0.15682242588893908,
+        "BALANCED": 0.1636212764636517,
+        "ADAPTIVE": 0.21741348838816565,
+        "FAST_RESCUE": 0.21096119711384048
+      },
+      "margin": 0.006452291274325173
+    },
+    "event_count_after": 60
+  },
+  {
+    "date": "2026-07-17",
+    "house": "Ghaziabad",
+    "policy": "CONSERVATIVE",
+    "meta": {
+      "n": 40,
+      "reason": "PRIOR_ONLY_HOUSE_CALIBRATION",
+      "scores": {
+        "CONSERVATIVE": 0.18544482301174153,
+        "BALANCED": 0.1718410965580151,
+        "ADAPTIVE": 0.1686726268109163,
+        "FAST_RESCUE": 0.1689226268109163
+      },
+      "margin": 0.013603726453726428
+    },
+    "event_count_after": 41
+  },
+  {
+    "date": "2026-07-17",
+    "house": "Gali",
+    "policy": "FAST_RESCUE",
+    "meta": {
+      "n": 23,
+      "reason": "PRIOR_ONLY_HOUSE_CALIBRATION",
+      "scores": {
+        "CONSERVATIVE": 0.1263630333139321,
+        "BALANCED": 0.1263630333139321,
+        "ADAPTIVE": 0.14897851612687865,
+        "FAST_RESCUE": 0.14932634221383517
+      },
+      "margin": 0.00034782608695652084
+    },
+    "event_count_after": 24
+  },
+  {
+    "date": "2026-07-18",
+    "house": "Deshawar",
+    "policy": "ADAPTIVE",
+    "meta": {
+      "n": 60,
+      "reason": "PRIOR_ONLY_HOUSE_CALIBRATION",
+      "scores": {
+        "CONSERVATIVE": 0.15536222756271995,
+        "BALANCED": 0.16204776396118736,
+        "ADAPTIVE": 0.21494343902029273,
+        "FAST_RESCUE": 0.20859868593387296
+      },
+      "margin": 0.006344753086419769
+    },
+    "event_count_after": 61
+  },
+  {
+    "date": "2026-07-18",
+    "house": "Gali",
+    "policy": "FAST_RESCUE",
+    "meta": {
+      "n": 24,
+      "reason": "PRIOR_ONLY_HOUSE_CALIBRATION",
+      "scores": {
+        "CONSERVATIVE": 0.1311395735925182,
+        "BALANCED": 0.1311395735925182,
+        "ADAPTIVE": 0.15281274462159206,
+        "FAST_RESCUE": 0.15314607795492538
+      },
+      "margin": 0.0003333333333333244
+    },
+    "event_count_after": 25
+  },
+  {
+    "date": "2026-07-19",
+    "house": "Deshawar",
+    "policy": "ADAPTIVE",
+    "meta": {
+      "n": 61,
+      "reason": "PRIOR_ONLY_HOUSE_CALIBRATION",
+      "scores": {
+        "CONSERVATIVE": 0.15326652295602683,
+        "BALANCED": 0.1599191796672887,
+        "ADAPTIVE": 0.21255471206216892,
+        "FAST_RESCUE": 0.20624116267945286
+      },
+      "margin": 0.006313549382716055
+    },
+    "event_count_after": 62
+  },
+  {
+    "date": "2026-07-19",
+    "house": "Faridabad",
+    "policy": "BALANCED",
+    "meta": {
+      "n": 21,
+      "reason": "PRIOR_ONLY_HOUSE_CALIBRATION",
+      "scores": {
+        "CONSERVATIVE": 0.2371358701644642,
+        "BALANCED": 0.32087007670343853,
+        "ADAPTIVE": 0.31864753836708826,
+        "FAST_RESCUE": 0.30512517184472177
+      },
+      "margin": 0.002222538336350277
+    },
+    "event_count_after": 22
+  },
+  {
+    "date": "2026-07-19",
+    "house": "Gali",
+    "policy": "FAST_RESCUE",
+    "meta": {
+      "n": 25,
+      "reason": "PRIOR_ONLY_HOUSE_CALIBRATION",
+      "scores": {
+        "CONSERVATIVE": 0.12557308155790842,
+        "BALANCED": 0.12557308155790842,
+        "ADAPTIVE": 0.14637932574581927,
+        "FAST_RESCUE": 0.1466993257458193
+      },
+      "margin": 0.0003200000000000147
+    },
+    "event_count_after": 26
+  },
+  {
+    "date": "2026-07-20",
+    "house": "Deshawar",
+    "policy": "ADAPTIVE",
+    "meta": {
+      "n": 62,
+      "reason": "PRIOR_ONLY_HOUSE_CALIBRATION",
+      "scores": {
+        "CONSERVATIVE": 0.15133244954905714,
+        "BALANCED": 0.15795328720818458,
+        "ADAPTIVE": 0.21033706863768567,
+        "FAST_RESCUE": 0.2040537163875861
+      },
+      "margin": 0.006283352250099572
+    },
+    "event_count_after": 63
+  },
+  {
+    "date": "2026-07-20",
+    "house": "Gali",
+    "policy": "FAST_RESCUE",
+    "meta": {
+      "n": 26,
+      "reason": "PRIOR_ONLY_HOUSE_CALIBRATION",
+      "scores": {
+        "CONSERVATIVE": 0.12079983803645042,
+        "BALANCED": 0.12079983803645042,
+        "ADAPTIVE": 0.14096647326676173,
+        "FAST_RESCUE": 0.14135108865137708
+      },
+      "margin": 0.0003846153846153444
+    },
+    "event_count_after": 27
+  },
+  {
+    "date": "2026-07-21",
+    "house": "Deshawar",
+    "policy": "FAST_RESCUE",
+    "meta": {
+      "n": 63,
+      "reason": "PRIOR_ONLY_HOUSE_CALIBRATION",
+      "scores": {
+        "CONSERVATIVE": 0.14506078350171564,
+        "BALANCED": 0.15165081223734783,
+        "ADAPTIVE": 0.20379083479560878,
+        "FAST_RESCUE": 0.21899050255160005
+      },
+      "margin": 0.01519966775599127
+    },
+    "event_count_after": 64
+  },
+  {
+    "date": "2026-07-21",
+    "house": "Ghaziabad",
+    "policy": "CONSERVATIVE",
+    "meta": {
+      "n": 41,
+      "reason": "PRIOR_ONLY_HOUSE_CALIBRATION",
+      "scores": {
+        "CONSERVATIVE": 0.1819983724718745,
+        "BALANCED": 0.16872644422433647,
+        "ADAPTIVE": 0.16563525422716696,
+        "FAST_RESCUE": 0.16587915666619135
+      },
+      "margin": 0.013271928247538034
+    },
+    "event_count_after": 42
+  },
+  {
+    "date": "2026-07-22",
+    "house": "Deshawar",
+    "policy": "FAST_RESCUE",
+    "meta": {
+      "n": 64,
+      "reason": "PRIOR_ONLY_HOUSE_CALIBRATION",
+      "scores": {
+        "CONSERVATIVE": 0.19164842090059245,
+        "BALANCED": 0.19820860349158864,
+        "ADAPTIVE": 0.2501124846433358,
+        "FAST_RESCUE": 0.2652433133243452
+      },
+      "margin": 0.0151308286810094
+    },
+    "event_count_after": 65
+  },
+  {
+    "date": "2026-07-23",
+    "house": "Deshawar",
+    "policy": "FAST_RESCUE",
+    "meta": {
+      "n": 65,
+      "reason": "PRIOR_ONLY_HOUSE_CALIBRATION",
+      "scores": {
+        "CONSERVATIVE": 0.19559435605406705,
+        "BALANCED": 0.20212561084333908,
+        "ADAPTIVE": 0.2538006164780035,
+        "FAST_RESCUE": 0.2688647242094152
+      },
+      "margin": 0.015064107731411702
+    },
+    "event_count_after": 66
+  },
+  {
+    "date": "2026-07-23",
+    "house": "Faridabad",
+    "policy": "BALANCED",
+    "meta": {
+      "n": 22,
+      "reason": "PRIOR_ONLY_HOUSE_CALIBRATION",
+      "scores": {
+        "CONSERVATIVE": 0.22745322365966236,
+        "BALANCED": 0.30738132990141054,
+        "ADAPTIVE": 0.3052598160348944,
+        "FAST_RESCUE": 0.2923521025362718
+      },
+      "margin": 0.002121513866516156
+    },
+    "event_count_after": 23
+  },
+  {
+    "date": "2026-07-24",
+    "house": "Faridabad",
+    "policy": "BALANCED",
+    "meta": {
+      "n": 23,
+      "reason": "PRIOR_ONLY_HOUSE_CALIBRATION",
+      "scores": {
+        "CONSERVATIVE": 0.2146134980607084,
+        "BALANCED": 0.29106646924846746,
+        "ADAPTIVE": 0.28903719511527814,
+        "FAST_RESCUE": 0.2766906865513783
+      },
+      "margin": 0.0020292741331893183
+    },
+    "event_count_after": 24
+  },
+  {
+    "date": "2026-07-25",
+    "house": "Ghaziabad",
+    "policy": "CONSERVATIVE",
+    "meta": {
+      "n": 42,
+      "reason": "PRIOR_ONLY_HOUSE_CALIBRATION",
+      "scores": {
+        "CONSERVATIVE": 0.17766041950411765,
+        "BALANCED": 0.16470448954818767,
+        "ADAPTIVE": 0.16168689931285551,
+        "FAST_RESCUE": 0.16192499455095077
+      },
+      "margin": 0.012955929955929979
+    },
+    "event_count_after": 43
+  },
+  {
+    "date": "2026-07-25",
+    "house": "Gali",
+    "policy": "FAST_RESCUE",
+    "meta": {
+      "n": 27,
+      "reason": "PRIOR_ONLY_HOUSE_CALIBRATION",
+      "scores": {
+        "CONSERVATIVE": 0.22132576996102632,
+        "BALANCED": 0.22132576996102632,
+        "ADAPTIVE": 0.24074549277540014,
+        "FAST_RESCUE": 0.24111586314577055
+      },
+      "margin": 0.00037037037037040976
+    },
+    "event_count_after": 28
+  },
+  {
+    "date": "2026-07-26",
+    "house": "Ghaziabad",
+    "policy": "CONSERVATIVE",
+    "meta": {
+      "n": 43,
+      "reason": "PRIOR_ONLY_HOUSE_CALIBRATION",
+      "scores": {
+        "CONSERVATIVE": 0.17487761905053353,
+        "BALANCED": 0.1622229897912531,
+        "ADAPTIVE": 0.1592755760730217,
+        "FAST_RESCUE": 0.15950813421255658
+      },
+      "margin": 0.012654629259280431
+    },
+    "event_count_after": 44
+  },
+  {
+    "date": "2026-07-27",
+    "house": "Gali",
+    "policy": "FAST_RESCUE",
+    "meta": {
+      "n": 28,
+      "reason": "PRIOR_ONLY_HOUSE_CALIBRATION",
+      "scores": {
+        "CONSERVATIVE": 0.2094768337322595,
+        "BALANCED": 0.2094768337322595,
+        "ADAPTIVE": 0.22820299501754857,
+        "FAST_RESCUE": 0.22856013787469145
+      },
+      "margin": 0.0003571428571428892
+    },
+    "event_count_after": 29
+  },
+  {
+    "date": "2026-07-28",
+    "house": "Gali",
+    "policy": "FAST_RESCUE",
+    "meta": {
+      "n": 29,
+      "reason": "PRIOR_ONLY_HOUSE_CALIBRATION",
+      "scores": {
+        "CONSERVATIVE": 0.20248778845004178,
+        "BALANCED": 0.20248778845004178,
+        "ADAPTIVE": 0.22056822003583812,
+        "FAST_RESCUE": 0.220913047622045
+      },
+      "margin": 0.0003448275862068806
+    },
+    "event_count_after": 30
+  },
+  {
+    "date": "2026-07-29",
+    "house": "Ghaziabad",
+    "policy": "CONSERVATIVE",
+    "meta": {
+      "n": 44,
+      "reason": "PRIOR_ONLY_HOUSE_CALIBRATION",
+      "scores": {
+        "CONSERVATIVE": 0.17103504470452338,
+        "BALANCED": 0.15866802065568117,
+        "ADAPTIVE": 0.15578759361286404,
+        "FAST_RESCUE": 0.1560148663401368
+      },
+      "margin": 0.012367024048842212
+    },
+    "event_count_after": 45
+  },
+  {
+    "date": "2026-07-29",
+    "house": "Gali",
+    "policy": "BALANCED",
+    "meta": {
+      "n": 30,
+      "reason": "PRIOR_ONLY_HOUSE_CALIBRATION",
+      "scores": {
+        "CONSERVATIVE": 0.22919652883504033,
+        "BALANCED": 0.22919652883504033,
+        "ADAPTIVE": 0.22031338193207942,
+        "FAST_RESCUE": 0.2207133819320794
+      },
+      "margin": 0.0
+    },
+    "event_count_after": 31
+  },
+  {
+    "date": "2026-07-30",
+    "house": "Ghaziabad",
+    "policy": "CONSERVATIVE",
+    "meta": {
+      "n": 45,
+      "reason": "PRIOR_ONLY_HOUSE_CALIBRATION",
+      "scores": {
+        "CONSERVATIVE": 0.16825648815553396,
+        "BALANCED": 0.15616428686333267,
+        "ADAPTIVE": 0.153347869310356,
+        "FAST_RESCUE": 0.15357009153257817
+      },
+      "margin": 0.012092201292201288
+    },
+    "event_count_after": 46
+  },
+  {
+    "date": "2026-07-30",
+    "house": "Gali",
+    "policy": "BALANCED",
+    "meta": {
+      "n": 31,
+      "reason": "PRIOR_ONLY_HOUSE_CALIBRATION",
+      "scores": {
+        "CONSERVATIVE": 0.22241480090368304,
+        "BALANCED": 0.22241480090368304,
+        "ADAPTIVE": 0.21381820712662405,
+        "FAST_RESCUE": 0.21420530390081757
+      },
+      "margin": 0.0
+    },
+    "event_count_after": 32
+  },
+  {
+    "date": "2026-08-01",
+    "house": "Gali",
+    "policy": "BALANCED",
+    "meta": {
+      "n": 32,
+      "reason": "PRIOR_ONLY_HOUSE_CALIBRATION",
+      "scores": {
+        "CONSERVATIVE": 0.30313621337544294,
+        "BALANCED": 0.30313621337544294,
+        "ADAPTIVE": 0.29480826315391706,
+        "FAST_RESCUE": 0.2951832631539171
+      },
+      "margin": 0.0
+    },
+    "event_count_after": 33
+  },
+  {
+    "date": "2026-08-02",
+    "house": "Ghaziabad",
+    "policy": "CONSERVATIVE",
+    "meta": {
+      "n": 46,
+      "reason": "PRIOR_ONLY_HOUSE_CALIBRATION",
+      "scores": {
+        "CONSERVATIVE": 0.16479358543395634,
+        "BALANCED": 0.15296425808288983,
+        "ADAPTIVE": 0.15020906699845615,
+        "FAST_RESCUE": 0.15042645830280396
+      },
+      "margin": 0.01182932735106651
+    },
+    "event_count_after": 47
+  },
+  {
+    "date": "2026-08-02",
+    "house": "Gali",
+    "policy": "BALANCED",
+    "meta": {
+      "n": 33,
+      "reason": "PRIOR_ONLY_HOUSE_CALIBRATION",
+      "scores": {
+        "CONSERVATIVE": 0.2939406981375906,
+        "BALANCED": 0.2939406981375906,
+        "ADAPTIVE": 0.28586511004398973,
+        "FAST_RESCUE": 0.2862287464076261
+      },
+      "margin": 0.0
+    },
+    "event_count_after": 34
+  },
+  {
+    "date": "2026-08-03",
+    "house": "Gali",
+    "policy": "BALANCED",
+    "meta": {
+      "n": 34,
+      "reason": "PRIOR_ONLY_HOUSE_CALIBRATION",
+      "scores": {
+        "CONSERVATIVE": 0.285691249941175,
+        "BALANCED": 0.285691249941175,
+        "ADAPTIVE": 0.27785317914444474,
+        "FAST_RESCUE": 0.27820612032091535
+      },
+      "margin": 0.0
+    },
+    "event_count_after": 35
+  },
+  {
+    "date": "2026-08-04",
+    "house": "Gali",
+    "policy": "BALANCED",
+    "meta": {
+      "n": 35,
+      "reason": "PRIOR_ONLY_HOUSE_CALIBRATION",
+      "scores": {
+        "CONSERVATIVE": 0.2774539175252733,
+        "BALANCED": 0.2774539175252733,
+        "ADAPTIVE": 0.2698397916084496,
+        "FAST_RESCUE": 0.27018264875130676
+      },
+      "margin": 0.0
+    },
+    "event_count_after": 36
+  },
+  {
+    "date": "2026-08-05",
+    "house": "Deshawar",
+    "policy": "FAST_RESCUE",
+    "meta": {
+      "n": 66,
+      "reason": "PRIOR_ONLY_HOUSE_CALIBRATION",
+      "scores": {
+        "CONSERVATIVE": 0.2393143146532794,
+        "BALANCED": 0.2458175182408795,
+        "ADAPTIVE": 0.29727058398019107,
+        "FAST_RESCUE": 0.3122699926089625
+      },
+      "margin": 0.014999408628771416
+    },
+    "event_count_after": 67
+  },
+  {
+    "date": "2026-08-05",
+    "house": "Gali",
+    "policy": "BALANCED",
+    "meta": {
+      "n": 36,
+      "reason": "PRIOR_ONLY_HOUSE_CALIBRATION",
+      "scores": {
+        "CONSERVATIVE": 0.27086614530643405,
+        "BALANCED": 0.27086614530643405,
+        "ADAPTIVE": 0.2634635228872998,
+        "FAST_RESCUE": 0.2637968562206332
+      },
+      "margin": 0.0
+    },
+    "event_count_after": 37
+  },
+  {
+    "date": "2026-08-06",
+    "house": "Deshawar",
+    "policy": "FAST_RESCUE",
+    "meta": {
+      "n": 67,
+      "reason": "PRIOR_ONLY_HOUSE_CALIBRATION",
+      "scores": {
+        "CONSERVATIVE": 0.23529509217694639,
+        "BALANCED": 0.24177108191217833,
+        "ADAPTIVE": 0.2930088328276401,
+        "FAST_RESCUE": 0.3079454736702678
+      },
+      "margin": 0.014936640842627691
+    },
+    "event_count_after": 68
+  },
+  {
+    "date": "2026-08-06",
+    "house": "Ghaziabad",
+    "policy": "CONSERVATIVE",
+    "meta": {
+      "n": 47,
+      "reason": "PRIOR_ONLY_HOUSE_CALIBRATION",
+      "scores": {
+        "CONSERVATIVE": 0.2213086155311062,
+        "BALANCED": 0.20973097599601984,
+        "ADAPTIVE": 0.20703440599848902,
+        "FAST_RESCUE": 0.2072471719559358
+      },
+      "margin": 0.011577639535086365
+    },
+    "event_count_after": 48
+  },
+  {
+    "date": "2026-08-07",
+    "house": "Deshawar",
+    "policy": "FAST_RESCUE",
+    "meta": {
+      "n": 68,
+      "reason": "PRIOR_ONLY_HOUSE_CALIBRATION",
+      "scores": {
+        "CONSERVATIVE": 0.2312970262421387,
+        "BALANCED": 0.2377466025324249,
+        "ADAPTIVE": 0.2887753714129736,
+        "FAST_RESCUE": 0.303651090580815
+      },
+      "margin": 0.014875719167841417
+    },
+    "event_count_after": 69
+  },
+  {
+    "date": "2026-08-07",
+    "house": "Ghaziabad",
+    "policy": "CONSERVATIVE",
+    "meta": {
+      "n": 48,
+      "reason": "PRIOR_ONLY_HOUSE_CALIBRATION",
+      "scores": {
+        "CONSERVATIVE": 0.2405938527075415,
+        "BALANCED": 0.22925741399610278,
+        "ADAPTIVE": 0.2266170225401871,
+        "FAST_RESCUE": 0.22682535587352048
+      },
+      "margin": 0.011336438711438718
+    },
+    "event_count_after": 49
+  },
+  {
+    "date": "2026-08-07",
+    "house": "Gali",
+    "policy": "BALANCED",
+    "meta": {
+      "n": 37,
+      "reason": "PRIOR_ONLY_HOUSE_CALIBRATION",
+      "scores": {
+        "CONSERVATIVE": 0.2637094864452293,
+        "BALANCED": 0.2637094864452293,
+        "ADAPTIVE": 0.25628945439050116,
+        "FAST_RESCUE": 0.2566678327688795
+      },
+      "margin": 0.0
+    },
+    "event_count_after": 38
+  },
+  {
+    "date": "2026-08-08",
+    "house": "Deshawar",
+    "policy": "FAST_RESCUE",
+    "meta": {
+      "n": 69,
+      "reason": "PRIOR_ONLY_HOUSE_CALIBRATION",
+      "scores": {
+        "CONSERVATIVE": 0.22877607010898401,
+        "BALANCED": 0.23519999856142443,
+        "ADAPTIVE": 0.2860258428573474,
+        "FAST_RESCUE": 0.3008424061960484
+      },
+      "margin": 0.014816563338701016
+    },
+    "event_count_after": 70
+  },
+  {
+    "date": "2026-08-08",
+    "house": "Gali",
+    "policy": "BALANCED",
+    "meta": {
+      "n": 38,
+      "reason": "PRIOR_ONLY_HOUSE_CALIBRATION",
+      "scores": {
+        "CONSERVATIVE": 0.283500026275618,
+        "BALANCED": 0.283500026275618,
+        "ADAPTIVE": 0.27627525822233007,
+        "FAST_RESCUE": 0.27664367927496164
+      },
+      "margin": 0.0
+    },
+    "event_count_after": 39
+  },
+  {
+    "date": "2026-08-09",
+    "house": "Deshawar",
+    "policy": "FAST_RESCUE",
+    "meta": {
+      "n": 70,
+      "reason": "PRIOR_ONLY_HOUSE_CALIBRATION",
+      "scores": {
+        "CONSERVATIVE": 0.271092957057122,
+        "BALANCED": 0.2774919704670837,
+        "ADAPTIVE": 0.32812068802365596,
+        "FAST_RESCUE": 0.3428797856997634
+      },
+      "margin": 0.014759097676107447
+    },
+    "event_count_after": 71
+  },
+  {
+    "date": "2026-08-09",
+    "house": "Gali",
+    "policy": "BALANCED",
+    "meta": {
+      "n": 39,
+      "reason": "PRIOR_ONLY_HOUSE_CALIBRATION",
+      "scores": {
+        "CONSERVATIVE": 0.27632626673663596,
+        "BALANCED": 0.27632626673663596,
+        "ADAPTIVE": 0.26928674914625284,
+        "FAST_RESCUE": 0.2696457235052272
+      },
+      "margin": 0.0
+    },
+    "event_count_after": 40
+  },
+  {
+    "date": "2026-08-10",
+    "house": "Deshawar",
+    "policy": "FAST_RESCUE",
+    "meta": {
+      "n": 71,
+      "reason": "PRIOR_ONLY_HOUSE_CALIBRATION",
+      "scores": {
+        "CONSERVATIVE": 0.26858908054660346,
+        "BALANCED": 0.27496388074626893,
+        "ADAPTIVE": 0.3254010244293877,
+        "FAST_RESCUE": 0.3401042751939606
+      },
+      "margin": 0.014703250764572906
+    },
+    "event_count_after": 72
+  },
+  {
+    "date": "2026-08-10",
+    "house": "Faridabad",
+    "policy": "BALANCED",
+    "meta": {
+      "n": 24,
+      "reason": "PRIOR_ONLY_HOUSE_CALIBRATION",
+      "scores": {
+        "CONSERVATIVE": 0.20284911450330087,
+        "BALANCED": 0.2761165452249033,
+        "ADAPTIVE": 0.2741718241805969,
+        "FAST_RESCUE": 0.26233975347352617
+      },
+      "margin": 0.00194472104430643
+    },
+    "event_count_after": 25
+  },
+  {
+    "date": "2026-08-10",
+    "house": "Ghaziabad",
+    "policy": "CONSERVATIVE",
+    "meta": {
+      "n": 49,
+      "reason": "PRIOR_ONLY_HOUSE_CALIBRATION",
+      "scores": {
+        "CONSERVATIVE": 0.23401172851844593,
+        "BALANCED": 0.22290664569907742,
+        "ADAPTIVE": 0.2203201397830784,
+        "FAST_RESCUE": 0.2205242214157315
+      },
+      "margin": 0.011105082819368506
+    },
+    "event_count_after": 50
+  },
+  {
+    "date": "2026-08-10",
+    "house": "Gali",
+    "policy": "BALANCED",
+    "meta": {
+      "n": 40,
+      "reason": "PRIOR_ONLY_HOUSE_CALIBRATION",
+      "scores": {
+        "CONSERVATIVE": 0.2662073957825058,
+        "BALANCED": 0.2662073957825058,
+        "ADAPTIVE": 0.2593438661318822,
+        "FAST_RESCUE": 0.2596938661318823
+      },
+      "margin": 0.0
+    },
+    "event_count_after": 41
+  },
+  {
+    "date": "2026-08-11",
+    "house": "Deshawar",
+    "policy": "FAST_RESCUE",
+    "meta": {
+      "n": 72,
+      "reason": "PRIOR_ONLY_HOUSE_CALIBRATION",
+      "scores": {
+        "CONSERVATIVE": 0.26751668377663046,
+        "BALANCED": 0.2738679433551745,
+        "ADAPTIVE": 0.32411883466132463,
+        "FAST_RESCUE": 0.33876778981746114
+      },
+      "margin": 0.014648955156136512
+    },
+    "event_count_after": 73
+  },
+  {
+    "date": "2026-08-11",
+    "house": "Faridabad",
+    "policy": "BALANCED",
+    "meta": {
+      "n": 25,
+      "reason": "PRIOR_ONLY_HOUSE_CALIBRATION",
+      "scores": {
+        "CONSERVATIVE": 0.193154637102656,
+        "BALANCED": 0.2634913705953943,
+        "ADAPTIVE": 0.26162443839286015,
+        "FAST_RESCUE": 0.2502656505140723
+      },
+      "margin": 0.001866932202534144
+    },
+    "event_count_after": 26
+  },
+  {
+    "date": "2026-08-11",
+    "house": "Ghaziabad",
+    "policy": "CONSERVATIVE",
+    "meta": {
+      "n": 50,
+      "reason": "PRIOR_ONLY_HOUSE_CALIBRATION",
+      "scores": {
+        "CONSERVATIVE": 0.23049876667534977,
+        "BALANCED": 0.21961578551236863,
+        "ADAPTIVE": 0.21708100971468958,
+        "FAST_RESCUE": 0.21728100971468955
+      },
+      "margin": 0.010882981162981142
+    },
+    "event_count_after": 51
+  },
+  {
+    "date": "2026-08-12",
+    "house": "Deshawar",
+    "policy": "FAST_RESCUE",
+    "meta": {
+      "n": 73,
+      "reason": "PRIOR_ONLY_HOUSE_CALIBRATION",
+      "scores": {
+        "CONSERVATIVE": 0.2661555185282255,
+        "BALANCED": 0.27248388243417204,
+        "ADAPTIVE": 0.3225536241682019,
+        "FAST_RESCUE": 0.3371497712668181
+      },
+      "margin": 0.01459614709861623
+    },
+    "event_count_after": 74
+  },
+  {
+    "date": "2026-08-13",
+    "house": "Deshawar",
+    "policy": "FAST_RESCUE",
+    "meta": {
+      "n": 74,
+      "reason": "PRIOR_ONLY_HOUSE_CALIBRATION",
+      "scores": {
+        "CONSERVATIVE": 0.2652185694036782,
+        "BALANCED": 0.27152465643898943,
+        "ADAPTIVE": 0.32141814453528067,
+        "FAST_RESCUE": 0.33596291082117447
+      },
+      "margin": 0.014544766285893795
+    },
+    "event_count_after": 75
+  },
+  {
+    "date": "2026-08-13",
+    "house": "Gali",
+    "policy": "BALANCED",
+    "meta": {
+      "n": 41,
+      "reason": "PRIOR_ONLY_HOUSE_CALIBRATION",
+      "scores": {
+        "CONSERVATIVE": 0.2562658803526372,
+        "BALANCED": 0.2562658803526372,
+        "ADAPTIVE": 0.24956975386422403,
+        "FAST_RESCUE": 0.24991121727885812
+      },
+      "margin": 0.0
+    },
+    "event_count_after": 42
+  },
+  {
+    "date": "2026-08-15",
+    "house": "Deshawar",
+    "policy": "FAST_RESCUE",
+    "meta": {
+      "n": 75,
+      "reason": "PRIOR_ONLY_HOUSE_CALIBRATION",
+      "scores": {
+        "CONSERVATIVE": 0.2621177762741017,
+        "BALANCED": 0.26840218048866116,
+        "ADAPTIVE": 0.3181241150442201,
+        "FAST_RESCUE": 0.33261887067239726
+      },
+      "margin": 0.014494755628177147
+    },
+    "event_count_after": 76
+  },
+  {
+    "date": "2026-08-15",
+    "house": "Gali",
+    "policy": "BALANCED",
+    "meta": {
+      "n": 42,
+      "reason": "PRIOR_ONLY_HOUSE_CALIBRATION",
+      "scores": {
+        "CONSERVATIVE": 0.25495796256646336,
+        "BALANCED": 0.33120002605852683,
+        "ADAPTIVE": 0.3247109502007901,
+        "FAST_RESCUE": 0.3250919025817425
+      },
+      "margin": 0.006108123476784355
+    },
+    "event_count_after": 43
+  },
+  {
+    "date": "2026-08-16",
+    "house": "Faridabad",
+    "policy": "ADAPTIVE",
+    "meta": {
+      "n": 26,
+      "reason": "PRIOR_ONLY_HOUSE_CALIBRATION",
+      "scores": {
+        "CONSERVATIVE": 0.18423110710420215,
+        "BALANCED": 0.25186258161645064,
+        "ADAPTIVE": 0.2536950960878093,
+        "FAST_RESCUE": 0.24285010774282098
+      },
+      "margin": 0.0018325144713586816
+    },
+    "event_count_after": 27
+  },
+  {
+    "date": "2026-08-18",
+    "house": "Ghaziabad",
+    "policy": "CONSERVATIVE",
+    "meta": {
+      "n": 51,
+      "reason": "PRIOR_ONLY_HOUSE_CALIBRATION",
+      "scores": {
+        "CONSERVATIVE": 0.22600968410437342,
+        "BALANCED": 0.2153400947289017,
+        "ADAPTIVE": 0.21285502041745166,
+        "FAST_RESCUE": 0.21305109884882417
+      },
+      "margin": 0.010669589375471716
+    },
+    "event_count_after": 52
+  },
+  {
+    "date": "2026-08-19",
+    "house": "Faridabad",
+    "policy": "BALANCED",
+    "meta": {
+      "n": 27,
+      "reason": "PRIOR_ONLY_HOUSE_CALIBRATION",
+      "scores": {
+        "CONSERVATIVE": 0.18330467318568908,
+        "BALANCED": 0.2484312782715579,
+        "ADAPTIVE": 0.23895395217812437,
+        "FAST_RESCUE": 0.22858470414220966
+      },
+      "margin": 0.009477326093433519
+    },
+    "event_count_after": 28
+  },
+  {
+    "date": "2026-08-19",
+    "house": "Gali",
+    "policy": "BALANCED",
+    "meta": {
+      "n": 43,
+      "reason": "PRIOR_ONLY_HOUSE_CALIBRATION",
+      "scores": {
+        "CONSERVATIVE": 0.24894701412275905,
+        "BALANCED": 0.323416006370821,
+        "ADAPTIVE": 0.31707783925396194,
+        "FAST_RESCUE": 0.3174499322772178
+      },
+      "margin": 0.005966074093603224
+    },
+    "event_count_after": 44
+  },
+  {
+    "date": "2026-08-20",
+    "house": "Faridabad",
+    "policy": "BALANCED",
+    "meta": {
+      "n": 28,
+      "reason": "PRIOR_ONLY_HOUSE_CALIBRATION",
+      "scores": {
+        "CONSERVATIVE": 0.17735556806226194,
+        "BALANCED": 0.24015622296649264,
+        "ADAPTIVE": 0.23101737280496742,
+        "FAST_RESCUE": 0.22101845505604967
+      },
+      "margin": 0.009138850161525214
+    },
+    "event_count_after": 29
+  },
+  {
+    "date": "2026-08-21",
+    "house": "Deshawar",
+    "policy": "FAST_RESCUE",
+    "meta": {
+      "n": 76,
+      "reason": "PRIOR_ONLY_HOUSE_CALIBRATION",
+      "scores": {
+        "CONSERVATIVE": 0.26229538259339324,
+        "BALANCED": 0.2685586745877469,
+        "ADAPTIVE": 0.3166477836026282,
+        "FAST_RESCUE": 0.33112507271320424
+      },
+      "margin": 0.014477289110576053
+    },
+    "event_count_after": 77
+  },
+  {
+    "date": "2026-08-21",
+    "house": "Faridabad",
+    "policy": "BALANCED",
+    "meta": {
+      "n": 29,
+      "reason": "PRIOR_ONLY_HOUSE_CALIBRATION",
+      "scores": {
+        "CONSERVATIVE": 0.17129928655167773,
+        "BALANCED": 0.2319344016316246,
+        "ADAPTIVE": 0.22311068423428987,
+        "FAST_RESCUE": 0.21345655675257624
+      },
+      "margin": 0.00882371739733473
+    },
+    "event_count_after": 30
+  },
+  {
+    "date": "2026-08-22",
+    "house": "Faridabad",
+    "policy": "BALANCED",
+    "meta": {
+      "n": 30,
+      "reason": "PRIOR_ONLY_HOUSE_CALIBRATION",
+      "scores": {
+        "CONSERVATIVE": 0.1677427694527853,
+        "BALANCED": 0.22635671403006727,
+        "ADAPTIVE": 0.21782712054597705,
+        "FAST_RESCUE": 0.20849479731365383
+      },
+      "margin": 0.008529593484090214
+    },
+    "event_count_after": 31
+  },
+  {
+    "date": "2026-08-22",
+    "house": "Gali",
+    "policy": "BALANCED",
+    "meta": {
+      "n": 44,
+      "reason": "PRIOR_ONLY_HOUSE_CALIBRATION",
+      "scores": {
+        "CONSERVATIVE": 0.24271197432810304,
+        "BALANCED": 0.31548848947961816,
+        "ADAPTIVE": 0.30929437161541495,
+        "FAST_RESCUE": 0.30965800797905135
+      },
+      "margin": 0.005830481500566809
+    },
+    "event_count_after": 45
+  },
+  {
+    "date": "2026-08-23",
+    "house": "Faridabad",
+    "policy": "BALANCED",
+    "meta": {
+      "n": 31,
+      "reason": "PRIOR_ONLY_HOUSE_CALIBRATION",
+      "scores": {
+        "CONSERVATIVE": 0.165588582146662,
+        "BALANCED": 0.22231175431822522,
+        "ADAPTIVE": 0.21405730901104114,
+        "FAST_RESCUE": 0.20502602846363155
+      },
+      "margin": 0.008254445307184083
+    },
+    "event_count_after": 32
+  },
+  {
+    "date": "2026-08-23",
+    "house": "Gali",
+    "policy": "BALANCED",
+    "meta": {
+      "n": 45,
+      "reason": "PRIOR_ONLY_HOUSE_CALIBRATION",
+      "scores": {
+        "CONSERVATIVE": 0.23732098927767462,
+        "BALANCED": 0.3084802485369339,
+        "ADAPTIVE": 0.30242377773637963,
+        "FAST_RESCUE": 0.3027793332919352
+      },
+      "margin": 0.005700915244998717
+    },
+    "event_count_after": 46
+  },
+  {
+    "date": "2026-08-24",
+    "house": "Faridabad",
+    "policy": "BALANCED",
+    "meta": {
+      "n": 32,
+      "reason": "PRIOR_ONLY_HOUSE_CALIBRATION",
+      "scores": {
+        "CONSERVATIVE": 0.16313153154717142,
+        "BALANCED": 0.21808210458837324,
+        "ADAPTIVE": 0.2100856106970387,
+        "FAST_RESCUE": 0.20133655766673567
+      },
+      "margin": 0.007996493891334527
+    },
+    "event_count_after": 33
+  },
+  {
+    "date": "2026-08-25",
+    "house": "Faridabad",
+    "policy": "BALANCED",
+    "meta": {
+      "n": 33,
+      "reason": "PRIOR_ONLY_HOUSE_CALIBRATION",
+      "scores": {
+        "CONSERVATIVE": 0.15718625786392382,
+        "BALANCED": 0.21047166202508924,
+        "ADAPTIVE": 0.20271748613046175,
+        "FAST_RESCUE": 0.1942335559192588
+      },
+      "margin": 0.007754175894627485
+    },
+    "event_count_after": 34
+  },
+  {
+    "date": "2026-08-25",
+    "house": "Ghaziabad",
+    "policy": "CONSERVATIVE",
+    "meta": {
+      "n": 52,
+      "reason": "PRIOR_ONLY_HOUSE_CALIBRATION",
+      "scores": {
+        "CONSERVATIVE": 0.22159803197899905,
+        "BALANCED": 0.21113362701459407,
+        "ADAPTIVE": 0.20869634259374886,
+        "FAST_RESCUE": 0.20888865028605652
+      },
+      "margin": 0.010464404964404983
+    },
+    "event_count_after": 53
+  },
+  {
+    "date": "2026-08-26",
+    "house": "Faridabad",
+    "policy": "BALANCED",
+    "meta": {
+      "n": 34,
+      "reason": "PRIOR_ONLY_HOUSE_CALIBRATION",
+      "scores": {
+        "CONSERVATIVE": 0.1522800443973378,
+        "BALANCED": 0.20399823078905718,
+        "ADAPTIVE": 0.1964721188913305,
+        "FAST_RESCUE": 0.18823771603928063
+      },
+      "margin": 0.007526111897726673
+    },
+    "event_count_after": 35
+  },
+  {
+    "date": "2026-08-27",
+    "house": "Faridabad",
+    "policy": "BALANCED",
+    "meta": {
+      "n": 35,
+      "reason": "PRIOR_ONLY_HOUSE_CALIBRATION",
+      "scores": {
+        "CONSERVATIVE": 0.14680537646217579,
+        "BALANCED": 0.19704590038556033,
+        "ADAPTIVE": 0.18973482025634017,
+        "FAST_RESCUE": 0.18173568605720594
+      },
+      "margin": 0.00731108012922016
+    },
+    "event_count_after": 36
+  },
+  {
+    "date": "2026-08-28",
+    "house": "Deshawar",
+    "policy": "FAST_RESCUE",
+    "meta": {
+      "n": 77,
+      "reason": "PRIOR_ONLY_HOUSE_CALIBRATION",
+      "scores": {
+        "CONSERVATIVE": 0.2604949041855682,
+        "BALANCED": 0.2667376323290722,
+        "ADAPTIVE": 0.31466885356446495,
+        "FAST_RESCUE": 0.3290986103527021
+      },
+      "margin": 0.014429756788237158
+    },
+    "event_count_after": 78
+  },
+  {
+    "date": "2026-08-28",
+    "house": "Gali",
+    "policy": "BALANCED",
+    "meta": {
+      "n": 46,
+      "reason": "PRIOR_ONLY_HOUSE_CALIBRATION",
+      "scores": {
+        "CONSERVATIVE": 0.23190248445515693,
+        "BALANCED": 0.30151480329573666,
+        "ADAPTIVE": 0.29558999490389004,
+        "FAST_RESCUE": 0.2959378209908466
+      },
+      "margin": 0.005576982304890066
+    },
+    "event_count_after": 47
+  },
+  {
+    "date": "2026-08-29",
+    "house": "Faridabad",
+    "policy": "BALANCED",
+    "meta": {
+      "n": 36,
+      "reason": "PRIOR_ONLY_HOUSE_CALIBRATION",
+      "scores": {
+        "CONSERVATIVE": 0.14224426220372355,
+        "BALANCED": 0.19108921601812517,
+        "ADAPTIVE": 0.18398122144805,
+        "FAST_RESCUE": 0.176204285421114
+      },
+      "margin": 0.007107994570075188
+    },
+    "event_count_after": 37
+  }
+]

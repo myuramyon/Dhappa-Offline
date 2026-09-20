@@ -1,0 +1,278 @@
+{
+  "metrics": {
+    "Deshawar": {
+      "targets": 188,
+      "elected_targets": 172,
+      "top5_pct_elected": 8.14,
+      "top10_pct_elected": 11.05,
+      "top21_pct_elected": 23.26,
+      "top36_pct_elected": 39.53,
+      "top5_pct_all_targets": 7.45,
+      "mrr_elected": 0.0598,
+      "v3_7_live_activations": 0,
+      "v3_7_realized_top5_rescues": 0,
+      "v3_7_damaged_top5": 0,
+      "v3_6_interventions_suppressed": 0
+    },
+    "Faridabad": {
+      "targets": 192,
+      "elected_targets": 177,
+      "top5_pct_elected": 5.65,
+      "top10_pct_elected": 12.99,
+      "top21_pct_elected": 26.55,
+      "top36_pct_elected": 38.42,
+      "top5_pct_all_targets": 5.21,
+      "mrr_elected": 0.0599,
+      "v3_7_live_activations": 0,
+      "v3_7_realized_top5_rescues": 0,
+      "v3_7_damaged_top5": 0,
+      "v3_6_interventions_suppressed": 0
+    },
+    "Ghaziabad": {
+      "targets": 191,
+      "elected_targets": 176,
+      "top5_pct_elected": 6.82,
+      "top10_pct_elected": 11.93,
+      "top21_pct_elected": 26.14,
+      "top36_pct_elected": 47.73,
+      "top5_pct_all_targets": 6.28,
+      "mrr_elected": 0.052,
+      "v3_7_live_activations": 2,
+      "v3_7_realized_top5_rescues": 1,
+      "v3_7_damaged_top5": 0,
+      "v3_6_interventions_suppressed": 0
+    },
+    "Gali": {
+      "targets": 190,
+      "elected_targets": 175,
+      "top5_pct_elected": 4.57,
+      "top10_pct_elected": 8.57,
+      "top21_pct_elected": 20.57,
+      "top36_pct_elected": 32.0,
+      "top5_pct_all_targets": 4.21,
+      "mrr_elected": 0.0427,
+      "v3_7_live_activations": 0,
+      "v3_7_realized_top5_rescues": 0,
+      "v3_7_damaged_top5": 0,
+      "v3_6_interventions_suppressed": 0
+    }
+  },
+  "comparison": {
+    "Deshawar": {
+      "v3_6": {
+        "top5": 8.14,
+        "top10": 11.05,
+        "mrr": 0.0598,
+        "activations": 0
+      },
+      "v3_7": {
+        "top5": 8.14,
+        "top10": 11.05,
+        "mrr": 0.0598,
+        "activations": 0
+      },
+      "delta_top5_pp": 0.0,
+      "activation_reduction": 0
+    },
+    "Faridabad": {
+      "v3_6": {
+        "top5": 5.65,
+        "top10": 12.99,
+        "mrr": 0.0599,
+        "activations": 0
+      },
+      "v3_7": {
+        "top5": 5.65,
+        "top10": 12.99,
+        "mrr": 0.0599,
+        "activations": 0
+      },
+      "delta_top5_pp": 0.0,
+      "activation_reduction": 0
+    },
+    "Ghaziabad": {
+      "v3_6": {
+        "top5": 6.82,
+        "top10": 11.93,
+        "mrr": 0.052,
+        "activations": 2
+      },
+      "v3_7": {
+        "top5": 6.82,
+        "top10": 11.93,
+        "mrr": 0.052,
+        "activations": 2
+      },
+      "delta_top5_pp": 0.0,
+      "activation_reduction": 0
+    },
+    "Gali": {
+      "v3_6": {
+        "top5": 4.6,
+        "top10": 8.62,
+        "mrr": 0.0426,
+        "activations": 0
+      },
+      "v3_7": {
+        "top5": 4.57,
+        "top10": 8.57,
+        "mrr": 0.0427,
+        "activations": 0
+      },
+      "delta_top5_pp": -0.03,
+      "activation_reduction": 0
+    }
+  },
+  "integrity": {
+    "records_checked": 538,
+    "active_records": 2,
+    "issues": [],
+    "status": "PASS"
+  },
+  "active_cases": [
+    {
+      "date": "2026-08-20",
+      "house": "Ghaziabad",
+      "source_cutoff": "2026-08-19",
+      "incumbent": "60",
+      "challenger": "22",
+      "v3_3_rank": 7,
+      "v3_6_rank": 5,
+      "v3_7_rank": 5,
+      "v3_6_active": true,
+      "v3_7_active": true,
+      "survival_pass": true,
+      "survival_reason": "SPARSE_HISTORY_FAIL_OPEN",
+      "selected_survival_level": null,
+      "selected_survival_key": null,
+      "selected_survival_stats": null,
+      "prior_survival_backoff": [
+        {
+          "key": [
+            "EXACT",
+            "Ghaziabad",
+            "R6_7",
+            "F2",
+            "RR75P"
+          ],
+          "stats": {
+            "n": 0,
+            "rank5_failure_rate": null,
+            "takeover_rescues": 0,
+            "takeover_damages": 0,
+            "net5": 0,
+            "net10": 0,
+            "mrr_delta": 0.0,
+            "material_precision": null
+          }
+        },
+        {
+          "key": [
+            "COARSE",
+            "Ghaziabad",
+            "R6_7"
+          ],
+          "stats": {
+            "n": 2,
+            "rank5_failure_rate": 1.0,
+            "takeover_rescues": 0,
+            "takeover_damages": 0,
+            "net5": 0,
+            "net10": 0,
+            "mrr_delta": 0.0,
+            "material_precision": null
+          }
+        },
+        {
+          "key": [
+            "HOUSE_WEAK_R5",
+            "Ghaziabad"
+          ],
+          "stats": {
+            "n": 6,
+            "rank5_failure_rate": 1.0,
+            "takeover_rescues": 0,
+            "takeover_damages": 0,
+            "net5": 0,
+            "net10": 0,
+            "mrr_delta": 0.0,
+            "material_precision": null
+          }
+        }
+      ],
+      "vulnerability_tier": "HIGH"
+    },
+    {
+      "date": "2026-08-24",
+      "house": "Ghaziabad",
+      "source_cutoff": "2026-08-23",
+      "incumbent": "52",
+      "challenger": "44",
+      "v3_3_rank": 98,
+      "v3_6_rank": 98,
+      "v3_7_rank": 98,
+      "v3_6_active": true,
+      "v3_7_active": true,
+      "survival_pass": true,
+      "survival_reason": "SPARSE_HISTORY_FAIL_OPEN",
+      "selected_survival_level": null,
+      "selected_survival_key": null,
+      "selected_survival_stats": null,
+      "prior_survival_backoff": [
+        {
+          "key": [
+            "EXACT",
+            "Ghaziabad",
+            "R6_7",
+            "F3P",
+            "RR50P"
+          ],
+          "stats": {
+            "n": 0,
+            "rank5_failure_rate": null,
+            "takeover_rescues": 0,
+            "takeover_damages": 0,
+            "net5": 0,
+            "net10": 0,
+            "mrr_delta": 0.0,
+            "material_precision": null
+          }
+        },
+        {
+          "key": [
+            "COARSE",
+            "Ghaziabad",
+            "R6_7"
+          ],
+          "stats": {
+            "n": 5,
+            "rank5_failure_rate": 1.0,
+            "takeover_rescues": 1,
+            "takeover_damages": 0,
+            "net5": 1,
+            "net10": 0,
+            "mrr_delta": 0.01142857,
+            "material_precision": 1.0
+          }
+        },
+        {
+          "key": [
+            "HOUSE_WEAK_R5",
+            "Ghaziabad"
+          ],
+          "stats": {
+            "n": 10,
+            "rank5_failure_rate": 1.0,
+            "takeover_rescues": 1,
+            "takeover_damages": 0,
+            "net5": 1,
+            "net10": 0,
+            "mrr_delta": 0.00571429,
+            "material_precision": 1.0
+          }
+        }
+      ],
+      "vulnerability_tier": "HIGH"
+    }
+  ]
+}

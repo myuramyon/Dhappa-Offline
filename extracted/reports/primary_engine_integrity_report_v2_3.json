@@ -1,0 +1,24 @@
+{
+  "version": "v2.3",
+  "no_current_target_used_for_generation": true,
+  "history_slice": "rows[:target_index]",
+  "election_before_target_profile_update": true,
+  "freeze_hash": "sha256(date,cutoff,house,engine,ranking)",
+  "explicit_abstention_state": true,
+  "paired_challenger_proof": true,
+  "asymmetric_champion_protection": true,
+  "house_specific_policy_learning": true,
+  "policy_calibration_current_target_excluded": true,
+  "strength_tiers": [
+    "STRONG",
+    "MODERATE",
+    "WEAK",
+    "FAILING"
+  ],
+  "minimum_tenure": "tier-dependent: 7/5/3/2",
+  "notes": [
+    "Current target is not appended to single or combination profiles until after primary election.",
+    "Context keys use target calendar metadata plus history ending at t-2, never target outcome.",
+    "NO_QUALIFIED_PRIMARY is emitted when no route passes prior-only multi-window qualification."
+  ]
+}

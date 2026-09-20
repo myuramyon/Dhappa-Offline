@@ -1,0 +1,198 @@
+{
+  "metrics": {
+    "Deshawar": {
+      "targets": 188,
+      "elected_targets": 172,
+      "top5_pct_elected": 8.14,
+      "top10_pct_elected": 11.05,
+      "top21_pct_elected": 23.26,
+      "top36_pct_elected": 39.53,
+      "top5_pct_all_targets": 7.45,
+      "mrr_elected": 0.0598,
+      "v3_4_live_activations": 0,
+      "v3_4_realized_top5_rescues": 0,
+      "v3_4_damaged_top5": 0
+    },
+    "Faridabad": {
+      "targets": 192,
+      "elected_targets": 177,
+      "top5_pct_elected": 5.65,
+      "top10_pct_elected": 12.99,
+      "top21_pct_elected": 26.55,
+      "top36_pct_elected": 38.42,
+      "top5_pct_all_targets": 5.21,
+      "mrr_elected": 0.0599,
+      "v3_4_live_activations": 0,
+      "v3_4_realized_top5_rescues": 0,
+      "v3_4_damaged_top5": 0
+    },
+    "Ghaziabad": {
+      "targets": 191,
+      "elected_targets": 176,
+      "top5_pct_elected": 6.82,
+      "top10_pct_elected": 11.93,
+      "top21_pct_elected": 26.14,
+      "top36_pct_elected": 47.73,
+      "top5_pct_all_targets": 6.28,
+      "mrr_elected": 0.052,
+      "v3_4_live_activations": 101,
+      "v3_4_realized_top5_rescues": 1,
+      "v3_4_damaged_top5": 0
+    },
+    "Gali": {
+      "targets": 190,
+      "elected_targets": 175,
+      "top5_pct_elected": 4.57,
+      "top10_pct_elected": 8.57,
+      "top21_pct_elected": 20.57,
+      "top36_pct_elected": 32.0,
+      "top5_pct_all_targets": 4.21,
+      "mrr_elected": 0.0427,
+      "v3_4_live_activations": 0,
+      "v3_4_realized_top5_rescues": 0,
+      "v3_4_damaged_top5": 0
+    }
+  },
+  "comparison": {
+    "Deshawar": {
+      "v3_3": {
+        "top5": 8.14,
+        "top10": 11.05,
+        "mrr": 0.0598
+      },
+      "v3_4": {
+        "top5": 8.14,
+        "top10": 11.05,
+        "mrr": 0.0598
+      },
+      "delta_top5_pp": 0.0
+    },
+    "Faridabad": {
+      "v3_3": {
+        "top5": 5.65,
+        "top10": 12.99,
+        "mrr": 0.0599
+      },
+      "v3_4": {
+        "top5": 5.65,
+        "top10": 12.99,
+        "mrr": 0.0599
+      },
+      "delta_top5_pp": 0.0
+    },
+    "Ghaziabad": {
+      "v3_3": {
+        "top5": 6.25,
+        "top10": 11.93,
+        "mrr": 0.0517
+      },
+      "v3_4": {
+        "top5": 6.82,
+        "top10": 11.93,
+        "mrr": 0.052
+      },
+      "delta_top5_pp": 0.57
+    },
+    "Gali": {
+      "v3_3": {
+        "top5": 4.57,
+        "top10": 8.57,
+        "mrr": 0.0427
+      },
+      "v3_4": {
+        "top5": 4.57,
+        "top10": 8.57,
+        "mrr": 0.0427
+      },
+      "delta_top5_pp": 0.0
+    }
+  },
+  "integrity": {
+    "records_checked": 538,
+    "live_activations": 101,
+    "issues": [],
+    "status": "PASS"
+  },
+  "active_families": [
+    {
+      "house": "Ghaziabad",
+      "family": "PRIMARY_ROUTE_BIAS",
+      "n": 98,
+      "net5": 3,
+      "net10": 0,
+      "mrr": 0.00493197,
+      "rescued": 3,
+      "damaged": 0,
+      "mean_rank_gain": 0.1531,
+      "utility": 9.241667,
+      "weight": 0.565306,
+      "final_stage": "LIVE",
+      "live_activations": 2,
+      "live_rescues": 0
+    },
+    {
+      "house": "Ghaziabad",
+      "family": "VOTE_COUNT_DISTORTION",
+      "n": 115,
+      "net5": 4,
+      "net10": 0,
+      "mrr": 0.00485507,
+      "rescued": 4,
+      "damaged": 0,
+      "mean_rank_gain": 0.1565,
+      "utility": 12.279167,
+      "weight": 0.573598,
+      "final_stage": "LIVE",
+      "live_activations": 11,
+      "live_rescues": 0
+    },
+    {
+      "house": "Ghaziabad",
+      "family": "REDUNDANCY_OVERBOOST",
+      "n": 101,
+      "net5": 4,
+      "net10": 0,
+      "mrr": 0.00552805,
+      "rescued": 4,
+      "damaged": 0,
+      "mean_rank_gain": 0.1782,
+      "utility": 12.279167,
+      "weight": 0.5838,
+      "final_stage": "LIVE",
+      "live_activations": 62,
+      "live_rescues": 0
+    },
+    {
+      "house": "Ghaziabad",
+      "family": "RELIABILITY_WEIGHT_ERROR",
+      "n": 138,
+      "net5": 5,
+      "net10": 0,
+      "mrr": 0.00445997,
+      "rescued": 5,
+      "damaged": 0,
+      "mean_rank_gain": 0.1449,
+      "utility": 15.307738,
+      "weight": 0.576171,
+      "final_stage": "LIVE",
+      "live_activations": 12,
+      "live_rescues": 0
+    },
+    {
+      "house": "Ghaziabad",
+      "family": "PRIMARY_RANK_ANCHOR_BIAS",
+      "n": 88,
+      "net5": 4,
+      "net10": 0,
+      "mrr": 0.0052895,
+      "rescued": 4,
+      "damaged": 0,
+      "mean_rank_gain": 0.1591,
+      "utility": 12.232738,
+      "weight": 0.595274,
+      "final_stage": "LIVE",
+      "live_activations": 14,
+      "live_rescues": 1
+    }
+  ]
+}

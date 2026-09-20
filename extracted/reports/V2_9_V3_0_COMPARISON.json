@@ -1,0 +1,46 @@
+{
+  "Deshawar": {
+    "v2_9_top5_elected": 8.14,
+    "v3_0_top5_elected": 8.14,
+    "delta_top5_pp": 0.0,
+    "v2_9_top10_elected": 11.05,
+    "v3_0_top10_elected": 11.05,
+    "delta_top10_pp": 0.0,
+    "v2_9_mrr": 0.0598,
+    "v3_0_mrr": 0.0598,
+    "live_fusion_activations": 0
+  },
+  "Faridabad": {
+    "v2_9_top5_elected": 5.65,
+    "v3_0_top5_elected": 5.65,
+    "delta_top5_pp": 0.0,
+    "v2_9_top10_elected": 12.99,
+    "v3_0_top10_elected": 12.99,
+    "delta_top10_pp": 0.0,
+    "v2_9_mrr": 0.0599,
+    "v3_0_mrr": 0.0599,
+    "live_fusion_activations": 0
+  },
+  "Ghaziabad": {
+    "v2_9_top5_elected": 5.68,
+    "v3_0_top5_elected": 5.68,
+    "delta_top5_pp": 0.0,
+    "v2_9_top10_elected": 11.93,
+    "v3_0_top10_elected": 11.93,
+    "delta_top10_pp": 0.0,
+    "v2_9_mrr": 0.0505,
+    "v3_0_mrr": 0.0505,
+    "live_fusion_activations": 0
+  },
+  "Gali": {
+    "v2_9_top5_elected": 4.6,
+    "v3_0_top5_elected": 4.6,
+    "delta_top5_pp": 0.0,
+    "v2_9_top10_elected": 8.62,
+    "v3_0_top10_elected": 8.62,
+    "delta_top10_pp": 0.0,
+    "v2_9_mrr": 0.0426,
+    "v3_0_mrr": 0.0426,
+    "live_fusion_activations": 0
+  }
+}

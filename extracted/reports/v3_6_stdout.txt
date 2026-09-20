@@ -1,0 +1,331 @@
+{
+  "metrics": {
+    "Deshawar": {
+      "targets": 188,
+      "elected_targets": 172,
+      "top5_pct_elected": 8.14,
+      "top10_pct_elected": 11.05,
+      "top21_pct_elected": 23.26,
+      "top36_pct_elected": 39.53,
+      "top5_pct_all_targets": 7.45,
+      "mrr_elected": 0.0598,
+      "v3_6_live_activations": 0,
+      "v3_6_realized_top5_rescues": 0,
+      "v3_6_damaged_top5": 0,
+      "v3_5_interventions_suppressed": 0,
+      "vulnerability_tiers": {
+        "NOT_RANK5": 59,
+        "HIGH": 40,
+        "LOW": 24,
+        "MODERATE": 11
+      },
+      "vulnerability_history": {
+        "n": 0,
+        "net5": 0,
+        "net10": 0,
+        "mrr": 0.0,
+        "rescued": 0,
+        "damaged": 0
+      }
+    },
+    "Faridabad": {
+      "targets": 192,
+      "elected_targets": 177,
+      "top5_pct_elected": 5.65,
+      "top10_pct_elected": 12.99,
+      "top21_pct_elected": 26.55,
+      "top36_pct_elected": 38.42,
+      "top5_pct_all_targets": 5.21,
+      "mrr_elected": 0.0599,
+      "v3_6_live_activations": 0,
+      "v3_6_realized_top5_rescues": 0,
+      "v3_6_damaged_top5": 0,
+      "v3_5_interventions_suppressed": 0,
+      "vulnerability_tiers": {
+        "NOT_RANK5": 60,
+        "HIGH": 37,
+        "LOW": 28,
+        "MODERATE": 4
+      },
+      "vulnerability_history": {
+        "n": 0,
+        "net5": 0,
+        "net10": 0,
+        "mrr": 0.0,
+        "rescued": 0,
+        "damaged": 0
+      }
+    },
+    "Ghaziabad": {
+      "targets": 191,
+      "elected_targets": 176,
+      "top5_pct_elected": 6.82,
+      "top10_pct_elected": 11.93,
+      "top21_pct_elected": 26.14,
+      "top36_pct_elected": 47.73,
+      "top5_pct_all_targets": 6.28,
+      "mrr_elected": 0.052,
+      "v3_6_live_activations": 2,
+      "v3_6_realized_top5_rescues": 1,
+      "v3_6_damaged_top5": 0,
+      "v3_5_interventions_suppressed": 10,
+      "vulnerability_tiers": {
+        "NOT_RANK5": 69,
+        "LOW": 27,
+        "MODERATE": 18,
+        "HIGH": 32
+      },
+      "vulnerability_history": {
+        "n": 2,
+        "net5": 1,
+        "net10": 0,
+        "mrr": 0.02857143,
+        "rescued": 1,
+        "damaged": 0
+      }
+    },
+    "Gali": {
+      "targets": 190,
+      "elected_targets": 175,
+      "top5_pct_elected": 4.57,
+      "top10_pct_elected": 8.57,
+      "top21_pct_elected": 20.57,
+      "top36_pct_elected": 32.0,
+      "top5_pct_all_targets": 4.21,
+      "mrr_elected": 0.0427,
+      "v3_6_live_activations": 0,
+      "v3_6_realized_top5_rescues": 0,
+      "v3_6_damaged_top5": 0,
+      "v3_5_interventions_suppressed": 0,
+      "vulnerability_tiers": {
+        "NOT_RANK5": 51,
+        "MODERATE": 7,
+        "LOW": 15,
+        "HIGH": 56
+      },
+      "vulnerability_history": {
+        "n": 0,
+        "net5": 0,
+        "net10": 0,
+        "mrr": 0.0,
+        "rescued": 0,
+        "damaged": 0
+      }
+    }
+  },
+  "comparison": {
+    "Deshawar": {
+      "v3_5": {
+        "top5": 8.14,
+        "top10": 11.05,
+        "mrr": 0.0598,
+        "activations": 0
+      },
+      "v3_6": {
+        "top5": 8.14,
+        "top10": 11.05,
+        "mrr": 0.0598,
+        "activations": 0
+      },
+      "activation_reduction": 0,
+      "activation_reduction_pct": 0,
+      "delta_top5_pp": 0.0
+    },
+    "Faridabad": {
+      "v3_5": {
+        "top5": 5.65,
+        "top10": 12.99,
+        "mrr": 0.0599,
+        "activations": 0
+      },
+      "v3_6": {
+        "top5": 5.65,
+        "top10": 12.99,
+        "mrr": 0.0599,
+        "activations": 0
+      },
+      "activation_reduction": 0,
+      "activation_reduction_pct": 0,
+      "delta_top5_pp": 0.0
+    },
+    "Ghaziabad": {
+      "v3_5": {
+        "top5": 6.82,
+        "top10": 11.93,
+        "mrr": 0.052,
+        "activations": 12
+      },
+      "v3_6": {
+        "top5": 6.82,
+        "top10": 11.93,
+        "mrr": 0.052,
+        "activations": 2
+      },
+      "activation_reduction": 10,
+      "activation_reduction_pct": 83.33,
+      "delta_top5_pp": 0.0
+    },
+    "Gali": {
+      "v3_5": {
+        "top5": 4.6,
+        "top10": 8.62,
+        "mrr": 0.0426,
+        "activations": 0
+      },
+      "v3_6": {
+        "top5": 4.57,
+        "top10": 8.57,
+        "mrr": 0.0427,
+        "activations": 0
+      },
+      "activation_reduction": 0,
+      "activation_reduction_pct": 0,
+      "delta_top5_pp": -0.03
+    }
+  },
+  "integrity": {
+    "records_checked": 538,
+    "active_records": 2,
+    "issues": [],
+    "status": "PASS"
+  },
+  "active_cases": [
+    {
+      "date": "2026-08-20",
+      "house": "Ghaziabad",
+      "source_cutoff": "2026-08-19",
+      "incumbent": "60",
+      "challenger": "22",
+      "v3_3_rank": 7,
+      "v3_5_rank": 5,
+      "v3_6_rank": 5,
+      "rescue_rank": 5,
+      "v3_5_active": true,
+      "v3_6_active": true,
+      "vulnerability_tier": "HIGH",
+      "vulnerability_score": 7,
+      "vulnerability_checks": {
+        "TRUE_RANK5_INCUMBENT": true,
+        "LOW_TOP10_SUPPORT": true,
+        "LOW_FAMILY_DIVERSITY": true,
+        "LOW_WEIGHTED_RELIABILITY": true,
+        "PRIMARY_ONLY_DEPENDENCE": true,
+        "LOW_INCUMBENT_SCORE": true,
+        "CHALLENGER_MULTI_ROUTE": true,
+        "CHALLENGER_SCORE_ADVANTAGE": true
+      },
+      "incumbent_evidence": {
+        "number": "60",
+        "primary_rank": 5,
+        "score": 0.2231362105438958,
+        "support5": 1,
+        "support10": 1,
+        "family_support": 1,
+        "supporters": [
+          "TRANSITION_MARKOV"
+        ],
+        "weighted_rr": 0.2527765517125591
+      },
+      "challenger_evidence": {
+        "number": "22",
+        "primary_rank": 7,
+        "score": 0.45537380606312294,
+        "support5": 1,
+        "support10": 2,
+        "family_support": 2,
+        "supporters": [
+          "TRANSITION_MARKOV",
+          "HARUF_PYRAMID"
+        ],
+        "weighted_rr": 1.1367602782392026
+      },
+      "breaker_pass": true,
+      "breaker_reason": "PASS",
+      "prior_vulnerability_recent12": {
+        "n": 0,
+        "net5": 0,
+        "net10": 0,
+        "mrr": 0.0,
+        "rescued": 0,
+        "damaged": 0
+      },
+      "prior_vulnerability_expanding": {
+        "n": 0,
+        "net5": 0,
+        "net10": 0,
+        "mrr": 0.0,
+        "rescued": 0,
+        "damaged": 0
+      }
+    },
+    {
+      "date": "2026-08-24",
+      "house": "Ghaziabad",
+      "source_cutoff": "2026-08-23",
+      "incumbent": "52",
+      "challenger": "44",
+      "v3_3_rank": 98,
+      "v3_5_rank": 98,
+      "v3_6_rank": 98,
+      "rescue_rank": 98,
+      "v3_5_active": true,
+      "v3_6_active": true,
+      "vulnerability_tier": "HIGH",
+      "vulnerability_score": 7,
+      "vulnerability_checks": {
+        "TRUE_RANK5_INCUMBENT": true,
+        "LOW_TOP10_SUPPORT": true,
+        "LOW_FAMILY_DIVERSITY": true,
+        "LOW_WEIGHTED_RELIABILITY": true,
+        "PRIMARY_ONLY_DEPENDENCE": true,
+        "LOW_INCUMBENT_SCORE": true,
+        "CHALLENGER_MULTI_ROUTE": true,
+        "CHALLENGER_SCORE_ADVANTAGE": true
+      },
+      "incumbent_evidence": {
+        "number": "52",
+        "primary_rank": 5,
+        "score": 0.2371749229962333,
+        "support5": 1,
+        "support10": 1,
+        "family_support": 1,
+        "supporters": [
+          "TRANSITION_MARKOV"
+        ],
+        "weighted_rr": 0.3184290156240811
+      },
+      "challenger_evidence": {
+        "number": "44",
+        "primary_rank": 6,
+        "score": 0.4339905856390175,
+        "support5": 1,
+        "support10": 3,
+        "family_support": 3,
+        "supporters": [
+          "TRANSITION_MARKOV",
+          "G_SQUARE",
+          "MODEL_F"
+        ],
+        "weighted_rr": 0.862421760370815
+      },
+      "breaker_pass": true,
+      "breaker_reason": "PASS",
+      "prior_vulnerability_recent12": {
+        "n": 1,
+        "net5": 1,
+        "net10": 0,
+        "mrr": 0.05714286,
+        "rescued": 1,
+        "damaged": 0
+      },
+      "prior_vulnerability_expanding": {
+        "n": 1,
+        "net5": 1,
+        "net10": 0,
+        "mrr": 0.05714286,
+        "rescued": 1,
+        "damaged": 0
+      }
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "Deshawar": {
+    "house": "Deshawar",
+    "tier": 5,
+    "best_engine": "LOOKBACK_5",
+    "hit_rate": 0.061197916666666664,
+    "hit_count": 47,
+    "samples": 768,
+    "recent_30_hit_rate": 0.06896551724137931,
+    "recent_60_hit_rate": 0.06896551724137931,
+    "mrr": 0.050929480012200455,
+    "long_term_best": "LOOKBACK_5",
+    "recent_30_best": "DATE_TRIAD",
+    "recent_60_best": "HOT_RECENCY",
+    "regime_disagreement": true
+  },
+  "Faridabad": {
+    "house": "Faridabad",
+    "tier": 5,
+    "best_engine": "HARUF_PYRAMID",
+    "hit_rate": 0.07006369426751592,
+    "hit_count": 55,
+    "samples": 785,
+    "recent_30_hit_rate": 0.03333333333333333,
+    "recent_60_hit_rate": 0.1016949152542373,
+    "mrr": 0.06145967019918484,
+    "long_term_best": "HARUF_PYRAMID",
+    "recent_30_best": "TRANSITION_MARKOV",
+    "recent_60_best": "HARUF_PYRAMID",
+    "regime_disagreement": true
+  },
+  "Ghaziabad": {
+    "house": "Ghaziabad",
+    "tier": 5,
+    "best_engine": "RASHI_FAMILY",
+    "hit_rate": 0.05605095541401274,
+    "hit_count": 44,
+    "samples": 785,
+    "recent_30_hit_rate": 0.06666666666666667,
+    "recent_60_hit_rate": 0.05084745762711865,
+    "mrr": 0.056714374910250234,
+    "long_term_best": "RASHI_FAMILY",
+    "recent_30_best": "RASHI_FAMILY",
+    "recent_60_best": "TRANSITION_MARKOV",
+    "regime_disagreement": true
+  },
+  "Gali": {
+    "house": "Gali",
+    "tier": 5,
+    "best_engine": "G_SQUARE_HARMONICS",
+    "hit_rate": 0.05612244897959184,
+    "hit_count": 44,
+    "samples": 784,
+    "recent_30_hit_rate": 0.13333333333333333,
+    "recent_60_hit_rate": 0.0847457627118644,
+    "mrr": 0.0545640442443065,
+    "long_term_best": "G_SQUARE_HARMONICS",
+    "recent_30_best": "G_SQUARE_HARMONICS",
+    "recent_60_best": "ECHO_7",
+    "regime_disagreement": true
+  }
+}

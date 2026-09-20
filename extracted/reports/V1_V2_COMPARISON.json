@@ -1,0 +1,46 @@
+{
+  "Deshawar": {
+    "v1_top5_pct": 7.98,
+    "v2_top5_pct_elected": 7.6,
+    "v2_top5_pct_all_targets": 6.91,
+    "v1_top10_pct": 10.64,
+    "v2_top10_pct_elected": 10.53,
+    "v1_switches": 28,
+    "v2_switches": 11,
+    "v2_abstentions": 17,
+    "v2_coverage_pct": 90.96
+  },
+  "Faridabad": {
+    "v1_top5_pct": 6.25,
+    "v2_top5_pct_elected": 6.21,
+    "v2_top5_pct_all_targets": 5.73,
+    "v1_top10_pct": 15.1,
+    "v2_top10_pct_elected": 14.69,
+    "v1_switches": 19,
+    "v2_switches": 12,
+    "v2_abstentions": 15,
+    "v2_coverage_pct": 92.19
+  },
+  "Ghaziabad": {
+    "v1_top5_pct": 5.76,
+    "v2_top5_pct_elected": 5.75,
+    "v2_top5_pct_all_targets": 5.24,
+    "v1_top10_pct": 12.57,
+    "v2_top10_pct_elected": 11.49,
+    "v1_switches": 27,
+    "v2_switches": 12,
+    "v2_abstentions": 17,
+    "v2_coverage_pct": 91.1
+  },
+  "Gali": {
+    "v1_top5_pct": 3.16,
+    "v2_top5_pct_elected": 3.43,
+    "v2_top5_pct_all_targets": 3.16,
+    "v1_top10_pct": 7.37,
+    "v2_top10_pct_elected": 7.43,
+    "v1_switches": 40,
+    "v2_switches": 13,
+    "v2_abstentions": 15,
+    "v2_coverage_pct": 92.11
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "Deshawar": {
+    "top5_misses": 174,
+    "causes": {
+      "QUALIFICATION_ERROR": 33,
+      "GENERATION_FAILURE": 12,
+      "DEEP_RANKING_ERROR": 62,
+      "RANKING_DEPTH_ERROR": 41,
+      "PRIMARY_ROUTE_BIAS": 26
+    },
+    "causal_live_activations": 0,
+    "causal_live_rescues": 0,
+    "causal_live_damages": 0
+  },
+  "Faridabad": {
+    "top5_misses": 182,
+    "causes": {
+      "RANKING_DEPTH_ERROR": 43,
+      "DEEP_RANKING_ERROR": 53,
+      "GENERATION_FAILURE": 16,
+      "QUALIFICATION_ERROR": 24,
+      "PRIMARY_ROUTE_BIAS": 46
+    },
+    "causal_live_activations": 0,
+    "causal_live_rescues": 0,
+    "causal_live_damages": 0
+  },
+  "Ghaziabad": {
+    "top5_misses": 181,
+    "causes": {
+      "QUALIFICATION_ERROR": 17,
+      "RANKING_DEPTH_ERROR": 45,
+      "DEEP_RANKING_ERROR": 68,
+      "GENERATION_FAILURE": 9,
+      "PRIMARY_ROUTE_BIAS": 42
+    },
+    "causal_live_activations": 23,
+    "causal_live_rescues": 1,
+    "causal_live_damages": 0
+  },
+  "Gali": {
+    "top5_misses": 182,
+    "causes": {
+      "QUALIFICATION_ERROR": 29,
+      "DEEP_RANKING_ERROR": 56,
+      "RANKING_DEPTH_ERROR": 45,
+      "GENERATION_FAILURE": 18,
+      "PRIMARY_ROUTE_BIAS": 34
+    },
+    "causal_live_activations": 0,
+    "causal_live_rescues": 0,
+    "causal_live_damages": 0
+  }
+}

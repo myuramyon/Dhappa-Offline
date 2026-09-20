@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>DHAPPA — Engine Lab</title>
+    <link rel="stylesheet" href="/static/styles.css" />
+  </head>
+  <body>
+    <div class="app-frame">
+      <aside class="sidebar" id="sidebar">
+        <div class="brand-lockup">
+          <div class="brand-mark" aria-hidden="true">D</div>
+          <div class="brand-copy"><div class="eyebrow">Analytics workspace</div><h1>DHAPPA <span>OS</span></h1></div>
+        </div>
+        <button type="button" class="collapse-button" id="sidebar-toggle" aria-label="Collapse navigation">←</button>
+        <nav class="side-nav" aria-label="Main navigation">
+          <div class="nav-label">Workspace</div>
+          <button type="button" class="side-link is-active" data-route="dashboard"><span class="nav-icon">◈</span><span>Dashboard</span></button>
+          <button type="button" class="side-link" data-route="predictions"><span class="nav-icon">✦</span><span>Predictions</span></button>
+          <button type="button" class="side-link" data-route="consensus"><span class="nav-icon">◎</span><span>36 Consensus</span></button>
+          <button type="button" class="side-link" data-route="engines"><span class="nav-icon">⌁</span><span>Engine Lab</span></button>
+          <button type="button" class="side-link" data-route="data"><span class="nav-icon">▤</span><span>Daily Data</span></button>
+          <div class="nav-label nav-label-spaced">System</div>
+          <button type="button" class="side-link" data-route="advanced"><span class="nav-icon">⚙</span><span>Advanced</span></button>
+        </nav>
+        <div class="sidebar-footer"><span class="status-dot"></span><span>Local canonical dataset</span></div>
+      </aside>
+
+      <section class="main-column">
+        <header class="topbar">
+          <div class="mobile-brand"><div class="brand-mark">D</div><strong>DHAPPA</strong></div>
+          <div class="page-context"><div class="eyebrow" id="page-kicker">Command center</div><h2 id="page-title">Dashboard</h2></div>
+          <div class="header-actions">
+            <div class="data-status"><span class="status-dot"></span><span id="status">Connecting</span></div>
+            <label class="target-control"><span>Target</span><select id="date-select"></select></label>
+            <button type="button" id="refresh-btn" class="icon-button" title="Refresh current view" aria-label="Refresh current view">↻</button>
+          </div>
+        </header>
+        <main id="app-content" class="content" aria-live="polite"></main>
+      </section>
+    </div>
+
+    <script src="/static/app.js"></script>
+  </body>
+</html>

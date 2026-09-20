@@ -1,0 +1,10 @@
+{
+  "no_current_target_used_for_generation": true,
+  "history_slice": "rows[:target_index]",
+  "freeze_hash": "sha256(date,cutoff,house,engine,ranking)",
+  "evaluated_after_freeze": true,
+  "notes": [
+    "Target date itself may be used as calendar metadata; target outcome is never passed to engines.",
+    "Combination election uses only prior combination evaluations; current target is appended only after election/freeze."
+  ]
+}

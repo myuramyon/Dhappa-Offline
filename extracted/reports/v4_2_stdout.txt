@@ -1,0 +1,120 @@
+{
+  "policy": {
+    "Deshawar": "DROP_PRIMARY_EVIDENCE",
+    "Faridabad": "DROP_PREVIOUS_DRAW_TRANSITION",
+    "Ghaziabad": "DROP_DIGIT_STRUCTURE",
+    "Gali": "DROP_PRIMARY_EVIDENCE"
+  },
+  "summary": {
+    "Deshawar": {
+      "policy": "DROP_PRIMARY_EVIDENCE",
+      "baseline_confirmation": {
+        "n": 69,
+        "top5": 13.043478260869565,
+        "top10": 15.942028985507246,
+        "top21": 26.08695652173913,
+        "top36": 40.57971014492754,
+        "mrr": 0.06959878907788718,
+        "mean_rank": 50.11594202898551
+      },
+      "policy_confirmation": {
+        "n": 69,
+        "top5": 7.246376811594203,
+        "top10": 10.144927536231885,
+        "top21": 26.08695652173913,
+        "top36": 43.47826086956522,
+        "mrr": 0.06153748950379523,
+        "mean_rank": 46.72463768115942
+      },
+      "promote": false,
+      "delta_top5": -5.797101449275361,
+      "delta_top10": -5.797101449275361,
+      "delta_mrr": -0.008061299574091949,
+      "final_live_policy": "CANONICAL_DYNAMIC_PRIMARY"
+    },
+    "Faridabad": {
+      "policy": "DROP_PREVIOUS_DRAW_TRANSITION",
+      "baseline_confirmation": {
+        "n": 71,
+        "top5": 4.225352112676056,
+        "top10": 12.67605633802817,
+        "top21": 29.577464788732396,
+        "top36": 43.66197183098591,
+        "mrr": 0.05277281151061053,
+        "mean_rank": 45.774647887323944
+      },
+      "policy_confirmation": {
+        "n": 71,
+        "top5": 7.042253521126761,
+        "top10": 11.267605633802816,
+        "top21": 22.535211267605632,
+        "top36": 32.394366197183096,
+        "mrr": 0.06001487580935473,
+        "mean_rank": 55.16901408450704
+      },
+      "promote": false,
+      "delta_top5": 2.816901408450705,
+      "delta_top10": -1.4084507042253538,
+      "delta_mrr": 0.007242064298744202,
+      "final_live_policy": "CANONICAL_DYNAMIC_PRIMARY"
+    },
+    "Ghaziabad": {
+      "policy": "DROP_DIGIT_STRUCTURE",
+      "baseline_confirmation": {
+        "n": 71,
+        "top5": 5.633802816901408,
+        "top10": 9.859154929577464,
+        "top21": 19.718309859154928,
+        "top36": 38.028169014084504,
+        "mrr": 0.04583317692668603,
+        "mean_rank": 54.140845070422536
+      },
+      "policy_confirmation": {
+        "n": 71,
+        "top5": 4.225352112676056,
+        "top10": 9.859154929577464,
+        "top21": 22.535211267605632,
+        "top36": 32.394366197183096,
+        "mrr": 0.042142215829076665,
+        "mean_rank": 52.028169014084504
+      },
+      "promote": false,
+      "delta_top5": -1.408450704225352,
+      "delta_top10": 0.0,
+      "delta_mrr": -0.0036909610976093646,
+      "final_live_policy": "CANONICAL_DYNAMIC_PRIMARY"
+    },
+    "Gali": {
+      "policy": "DROP_PRIMARY_EVIDENCE",
+      "baseline_confirmation": {
+        "n": 70,
+        "top5": 5.714285714285714,
+        "top10": 7.142857142857143,
+        "top21": 18.571428571428573,
+        "top36": 30.0,
+        "mrr": 0.0387854720960017,
+        "mean_rank": 55.7
+      },
+      "policy_confirmation": {
+        "n": 70,
+        "top5": 2.857142857142857,
+        "top10": 8.571428571428571,
+        "top21": 22.857142857142858,
+        "top36": 35.714285714285715,
+        "mrr": 0.042756084219238454,
+        "mean_rank": 46.97142857142857
+      },
+      "promote": false,
+      "delta_top5": -2.857142857142857,
+      "delta_top10": 1.428571428571428,
+      "delta_mrr": 0.0039706121232367525,
+      "final_live_policy": "CANONICAL_DYNAMIC_PRIMARY"
+    }
+  },
+  "integrity": {
+    "cache_records": 699,
+    "confirmation_records": 281,
+    "issues": [],
+    "pass": true
+  }
+}

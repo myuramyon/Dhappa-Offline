@@ -1,0 +1,106 @@
+{
+  "Deshawar": {
+    "primary_top5_pct_elected": {
+      "v3_1": 8.14,
+      "v3_2": 8.14
+    },
+    "primary_top10_pct_elected": {
+      "v3_1": 11.05,
+      "v3_2": 11.05
+    },
+    "primary_top21_pct_elected": {
+      "v3_1": 23.26,
+      "v3_2": 23.26
+    },
+    "primary_top36_pct_elected": {
+      "v3_1": 39.53,
+      "v3_2": 39.53
+    },
+    "mrr_elected": {
+      "v3_1": 0.0598,
+      "v3_2": 0.0598
+    },
+    "switches": {
+      "v3_1": 8,
+      "v3_2": 8
+    }
+  },
+  "Faridabad": {
+    "primary_top5_pct_elected": {
+      "v3_1": 5.65,
+      "v3_2": 5.65
+    },
+    "primary_top10_pct_elected": {
+      "v3_1": 12.99,
+      "v3_2": 12.99
+    },
+    "primary_top21_pct_elected": {
+      "v3_1": 26.55,
+      "v3_2": 26.55
+    },
+    "primary_top36_pct_elected": {
+      "v3_1": 38.42,
+      "v3_2": 38.42
+    },
+    "mrr_elected": {
+      "v3_1": 0.0599,
+      "v3_2": 0.0599
+    },
+    "switches": {
+      "v3_1": 11,
+      "v3_2": 11
+    }
+  },
+  "Ghaziabad": {
+    "primary_top5_pct_elected": {
+      "v3_1": 5.68,
+      "v3_2": 5.68
+    },
+    "primary_top10_pct_elected": {
+      "v3_1": 11.93,
+      "v3_2": 11.93
+    },
+    "primary_top21_pct_elected": {
+      "v3_1": 26.14,
+      "v3_2": 26.14
+    },
+    "primary_top36_pct_elected": {
+      "v3_1": 47.73,
+      "v3_2": 47.73
+    },
+    "mrr_elected": {
+      "v3_1": 0.0505,
+      "v3_2": 0.0505
+    },
+    "switches": {
+      "v3_1": 8,
+      "v3_2": 8
+    }
+  },
+  "Gali": {
+    "primary_top5_pct_elected": {
+      "v3_1": 4.6,
+      "v3_2": 4.6
+    },
+    "primary_top10_pct_elected": {
+      "v3_1": 8.62,
+      "v3_2": 8.62
+    },
+    "primary_top21_pct_elected": {
+      "v3_1": 20.11,
+      "v3_2": 20.11
+    },
+    "primary_top36_pct_elected": {
+      "v3_1": 31.61,
+      "v3_2": 31.61
+    },
+    "mrr_elected": {
+      "v3_1": 0.0426,
+      "v3_2": 0.0426
+    },
+    "switches": {
+      "v3_1": 14,
+      "v3_2": 14
+    }
+  }
+}
